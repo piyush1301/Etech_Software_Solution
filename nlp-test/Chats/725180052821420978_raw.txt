@@ -1,0 +1,248 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : Trying to make an account on my daughters phone but she has ABC using her telephone number
+Agent : Agent 'abc@abc.com' enters chat (as Alexis)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Thank yo for valued ABC customer. My name is Alexis. Welcome to ABC Residential department.
+Agent-Freehand : Just to confirm, do you wish to register for ABC Residential online account?
+Customer : My account number is 1111111111111
+Agent-Freehand : Thank you for sharing your account number.
+Customer : Yes and have questions about connection to wifi but I guess. I have to talk tomorrow
+Customer : Name on acct is Linda Jameson but on Tanya Jameson phone
+Agent-Freehand : Just to confirm, do you wish to get any technical information about WiFi connection?
+Customer : Well I want to create an acct first then troubleshoot wifi
+Customer : Wht to do?
+Agent-Freehand : In that case, I need to connect you to our technical team so that they can assist you with technical information. Currently you have reached to ABC Residential sales and support team.
+Customer : Ok connect me
+Agent-Freehand : Sure!
+Agent-Freehand : Please stay connected.
+Agent : Agent 'abc@abc.com' enters chat (as Sudheer)
+Agent : Agent 'abc@abc.com' exits chat
+Agent-Freehand : Thank you for contacting ABC repair support. My name is Sudheer.
+Agent-Freehand : Hi Ms Jameson, I am here to help you.
+Agent-Freehand : Could you please elaborate your query so that I can look into this for you?
+Customer : My Wifi is connected but no internet access it states on laptop
+Agent-Freehand : Oh I see. I understand the situation. Please do not worry.
+Agent-Freehand : I am sorry; Upon trying to pull up your account, I see that the account is associated only with TV services; No internet services has been found.
+Agent-Freehand : Could you please help me with the phone number you are referring to?
+Customer : The phone number is not connected to the acct. Account # 1111111111111
+Customer : Linda Jameson I have the wifi password as well can you connect my number to my acct
+Agent-Freehand : I have tried opening the account using the account number but I see only TV services.
+Agent-Freehand : Could you please help me with the complete service address?
+Customer : 1111 1th Ave #11J Nyc 11111
+Agent-Freehand : thank you for the details.
+Agent-Freehand : Please allow me a quick minute.
+Customer : Ok
+Agent-Freehand : I am sorry to keep you waiting.
+Customer : Just waiting for an answer
+Agent-Freehand : Yes, just a quick minute
+Customer : Ok
+Agent-Freehand : I am truly sorry; I am unable to pull up your account with internet services but with just TV services. Please allow me to connect you to our concerned customer service team who will have access to your complete details.
+Agent-Freehand : Shall we proceed?
+Customer : Ok
+Agent-Freehand : Thank you for confirming.
+Agent : Agent 'abc@abc.com' enters chat (as Shane)
+Agent-Freehand : Just to be sure, are you facing any technical difficulty with your internet?
+Customer : I'm confused on why i have a modem with password
+Customer : Yes the guy says i dont have wifi or internet service but im looking at the modem with info on top of it
+Agent : Agent 'abc@abc.com' exits chat
+Agent-Freehand : I see
+Customer : Can you help or you gonna transfer me to someone else? Third person already
+Agent-Freehand : Please allow me a moment here
+Agent : Agent 'abc@abc.com' enters chat (as Vanteru)
+Agent : You've reached ABC Repair Support. My name is Vanteru. I see that the chat has been transferred to me and I will be glad to help you.
+Agent-Freehand : Give me a moment here while I check the previous chat for you.
+Customer : Thanks 1th person now. Looks like this live chat thing sucks
+Agent : Agent 'abc@abc.com' exits chat
+Agent-Freehand : I've checked the previous chat and I see that you're facing an issue with the internet issue. Right?
+Customer : Please dont ask questions like this if you read tge feed
+Customer : Do i have internet or not?
+Agent-Freehand : I can imagine what you had to go through.
+Agent-Freehand : I'd like to bring to your kind attention that, we do not see the internet service on the account.It might be an technical issue fromABC end. The reason for me saying this is that, Usually ABC do not provide only tv service.
+Agent-Freehand : So, the only team that can be able to check this would be the consumer team.
+Customer : Thats wht I thought so now wht?
+Agent-Freehand : Let me connect the chat to the team and they can help you with this.
+Customer : Can we fix this
+Agent-Freehand : Yes, the issue can be fixed but it can be done only by the team. Let me connect the chat to the team with notes on the account so that they can help you with this.
+Agent-Freehand : Shall I connect the chat?
+Customer : Ok
+Agent-Freehand : Thank you.
+Agent : Agent 'abc@abc.com' enters chat (as Myron)
+Customer : Lol 1th person
+Agent : Agent 'abc@abc.com' exits chat
+Agent-Freehand : Hey there! My name is Myron.
+Agent-Freehand : It seems you were chatting with agent: Alexis
+Customer : Alot of others as well
+Agent-Freehand : Let me take a moment while I quickly go thru your previous chat so that I know the best way to assist you further.
+Customer : Ok
+Agent-Freehand : Thank you'
+Agent-Freehand : It was such a long chat.
+Agent-Freehand : I see you have also verified the account info with previous agents. 
+Thank you for verifying the account info.
+Agent-Freehand : I have your account up and showing under name of "Linda Jameson"
+Customer : Correct I put all info in chat please refer back
+Agent-Freehand : Looks like you would like to create "My ABC" account so that you can access your account at your fingertips.
+Agent-Freehand : Let me clarify something here.
+Customer : That yes and my laptop to internet
+Agent-Freehand : If you are registered once, you can not register once again. Multiple Registration is not allowed
+Agent-Freehand : That means, you can simply Reset the account credentials manually.
+Agent-Freehand : We can certainly try online steps. If it would not work, we have dedicated team on Phone who can reset that for you. However, before I share the number, let's first try the online steps.
+Agent-Freehand : Here is the link:   https://ssoauth.ABC.com/sso/forgotFlowsV1/userid/verifyIdentity.jsp
+Customer : Ok thanks but my internet service now
+Agent-Freehand : Internet is showing active here. Were you facing any issue with connection?
+Customer : Yes did you read feed
+Agent-Freehand : You have very old router we have discontinued almost two years back. This is the main reason you have issue with speed.
+Agent-Freehand : Let me double check on plan.
+Customer : Ok so wht shld I do
+Agent-Freehand : I'm checking on available options.
+Customer : Is the internet gonna work at all
+Agent-Freehand : If needed, we need to upgrade the Router.
+Agent-Freehand : I'm checking on what went wrong here
+Agent-Freehand : Account shows you do not have internet on your plan.
+Agent-Freehand : You have only "ABC TV Preferred HD" subscribed
+Customer : I need it running by tomorrow is that possible
+Agent-Freehand : Let me try that.
+Customer : My laptop says connected but no internet access
+Agent-Freehand : You have only TV on your account. Internet is not included.
+Customer : One person says one thing another says I do which one is it?
+Agent-Freehand : I would share all accurate info here
+Agent-Freehand : You have only TV plan.
+Agent-Freehand : Internet is not subscribed
+Agent-Freehand : Even your bills shows you have just TV
+Agent-Freehand : No Internet
+Customer : The lady says ABC doesnt offer just a tv plan
+Agent-Freehand : But we can add New Internet to your plan and make it double play
+Customer : Check feed
+Customer : Can you add it now?
+Agent-Freehand : I feel last agent could have verified the detail before shared with you.
+Agent-Freehand : Yes, I can add internet now.
+Agent-Freehand : I'm checking on what date we can activate it
+Customer : I need it running by 11am can that happen
+Agent-Freehand : I would try my best.
+Agent-Freehand : Please allow me a few moments here
+Customer : Ok
+Agent-Freehand : Thank you. So kind of you.
+Agent-Freehand : Yes, we can get it activated today.
+Agent-Freehand : Now it is all depend on plan you accept
+Agent-Freehand : Let me share what I have personalized for you.
+Customer : Ok
+Agent-Freehand : I have selected "ABC TV Ultimate HD" + "ABC Internet 111/111 Mbps" plan + 1 TVs + Same Router
+Agent-Freehand : I'm checking on cost now.
+Customer : How much am I paying now? How much more will I be paying
+Customer : L
+Agent-Freehand : Let me check.
+Agent-Freehand : You are paying $111.11/mo right now.
+Agent-Freehand : It include HBO + Starz + Epix + Cinemax + Showtime
+Customer : So whts the difference
+Agent : Agent 'abc@abc.com' loses connection
+Agent : Agent 'abc@abc.com' reconnected
+Agent-Freehand : I have better plan now.
+Agent-Freehand : Double Play
+• ABC TV Preferred HD  
+• ABC Internet 111/111 
+• HBO + Starz + Epix + Cinemax + Showtime
+• 1 TVs with Same Router
+Customer : Thanks maybe a bundle deal
+Agent-Freehand : New Estimated Monthly Charges would come to just $111.11/mo
+Agent-Freehand : And the best thing is that the Bundle Price would be LOCKED for next 11 months. That means, you don't have to worry about the price change next year.
+Agent-Freehand : Sounds good?
+Customer : Ok lets do it but will the internet be running by morning 11am?
+Agent-Freehand : I have selected today's date. That means, it should get activated at any time today.
+Agent-Freehand : Please stay with me while I proceed with the order.
+Customer : Ok how will I know
+Agent-Freehand : You would get email shows services are activated now.
+Agent-Freehand : I would also verify few more details as soon as we are done with order
+Agent : Let's recap to ensure we have taken care of everything!
+Agent-Freehand : I would need to share the link with you so that you can Review the total estimate before we proceed and confirm order. What option would you prefer? May I send you Text or Email?
+Customer : Wht are email shows and right now this emergency alert system is on 
+Agent-Freehand : I have "abc@abc.com" showing updated.
+Agent-Freehand : Cell Phone number is not updated.
+Agent-Freehand : I can update the cell phone number right now.
+Customer : Ok but that email is connected to my daughters acct use the abc@abc.com
+Agent-Freehand : I can send email to "abc@abc.com" right now.
+Agent-Freehand : Let me update that for you
+Customer : Cell #1111111111
+Agent-Freehand : Okay
+Customer : Yes
+Agent-Freehand : Great! Please check the email now.
+Agent-Freehand : I have sent it to "abc@abc.com"
+Agent-Freehand : Once reviewed, please move till last page
+Agent-Freehand : Please let me know if you have any difficulties.
+Customer : I dont want autopay and wht time will they be here?
+Agent-Freehand : AutoPay include $1 discounts.
+Agent-Freehand : If you do not need AutoPay, we can get it removed.
+Agent-Freehand : Tech Visit is not require here.
+Agent-Freehand : We would activate the new internet plan from central office; automatically.
+Agent-Freehand : I'm removing AutoPay and sending the new link.
+Customer : It wont let me bypass that part
+Agent-Freehand : I'm sending new link where you see "Skip" button.
+Customer : Also how many points do I have?
+Agent-Freehand : You do not have any Reward points left in account. However, with renewal, you get upto 111 Reward Points
+Customer : Im confused on how the internet is going to work with someone here to fix
+Customer : Without
+Agent-Freehand : When we place the order, we would activate the internet line from our central office. That means, by today, you get access to internet speed we are assigning now.
+Agent-Freehand : It is like remote activation.
+Agent-Freehand : I have just sent new link at "abc@abc.com"
+Agent-Freehand : Can you check that now?
+Customer : Oh ok can the referral go to my daughter who refered me to internet service?
+Agent-Freehand : Reward Bonus would stay in this account. That means, your daughter can simply log in and use it.
+Agent-Freehand : I have one more delight for you here.
+Agent-Freehand : I have also included one-time $111 Credit toward the purchase of a Google Home Mini, Home, Home Max, Chromecast Ultra, Nest Cam Indoor or Outdoor, Nest Thermostat E, Nest Learning Thermostat, Nest Protect smoke + CO alarm, and Nest Hello video doorbell. 
+Agent-Freehand : I also want to confirm one last time that your cell/alternate number is 111-111-1111 and your email address is "abc@abc.com" . Please read the email/mail we send because they will contain important information about your order.
+
+The ABC Mobile App would be a perfect match for your on-the-go lifestyle.
+It provides more flexibility and lets you take control of what, when, and where you watch.
+Agent-Freehand : Your Order Number is:  NY11111111111
+Agent-Freehand : You are all set online!
+Customer : Now about the referral internet connection and points thats only saying 111 as of now
+Customer : Is the password the same
+Agent-Freehand : You are getting one-time $111 Credit toward the purchase of a Google Home Mini, Home, Home Max, Chromecast Ultra, Nest Cam Indoor or Outdoor, Nest Thermostat E, Nest Learning Thermostat, Nest Protect smoke + CO alarm, and Nest Hello video doorbell.
+Agent-Freehand : This is much better then referral reward points.
+Customer : Im talking about my daughter who referred me
+Customer : My internet isnt working yet
+Agent-Freehand : We are adding Internet in your daughter's account.
+Agent-Freehand : Referral bonus is available only if we choose new services at new address
+Customer : She already has internet you're confusing me
+Agent-Freehand : Let me clarify something here.
+Customer : Oh okay got it
+Customer : So wht about the internet now
+Agent-Freehand : Internet is added just now. It is under process.
+Agent-Freehand : Rest assured, by today only it would get activated.
+Agent-Freehand : I have selected 11/11 for activation date.
+Agent-Freehand : It would hardly take couple of hours.
+Customer : So wht time will it be working?
+Customer : Around about?
+Customer :  And will I be using same password
+Agent-Freehand : To be honest, we would not be able to check on exact time. But it would get activated at about 1 AM morning.
+Agent-Freehand : Yes, "My ABC" User ID and password would stay the same,.
+Customer : Cool sounds great now my points I can use for wht you sent and whtever else I want on there?
+Agent-Freehand : You can use points to rent/buy movies on On Demand and you can also use it to buy gift card
+Agent-Freehand : You can check your points here:   https://vzrewards.ABC.com/
+Agent-Freehand : It would get updated in 11 hours
+Customer : When I checked it said I didnt have 111pts it stated 111
+Agent-Freehand : Renewal points are not yet added as we have just renewed services by adding Internet plan.
+Agent-Freehand : It takes time to get added. I suggest check on account after 11 hours. It should be there.
+Agent-Freehand : If you do not see Reward Points, you can simply call our Reward Specialist at: 111-111-1111 who can add points manually for you.
+Customer : Cool thank you very much this was a long convo but things were done
+Agent-Freehand : This is a Direct Line Number. So, please keep it saved as you can also use it even in future.
+Agent-Freehand : I sincerely and deeply apologize for inconvenience you had with our past agents.
+Agent-Freehand : But I must say "Thank You" for listening me very carefully. Truly, not all customers have patience like you have!
+Agent-Freehand : It was my pleasure chatting with you.
+
+If you need assistance in the future, visit us anytime on the My ABC App or at www.ABC.com. Thank you for chatting with ABC.
+Agent-Freehand : Stay Blessed and please Take Care yourself.
+Customer : I will
+Agent-Freehand : Have a nice time ahead!
+Customer : How about the speed?
+Agent-Freehand : You are qualify for getting 111 Mbps speed with SpeedMatch.
+Customer : Is that good?
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : When its up and running?
+Agent-Freehand : Yes, correct
+Customer : I will
+Agent-Freehand : If needed, you can always upgrade the speed in future.
+Agent-Freehand : We have speed upto 111 Mbps
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Agent-Freehand : I'm so sorry to bother you a bit but I have not heard from you for a few moments. I feel, I have lost you!! Just to confirm, would you like to continue this chat session?
+Agent-Freehand : I've tried my best to draw your attention but I have not heard from you for several moments. I will assume you have everything you need. If you need assistance in the future, visit us anytime on the My ABC App or at www.ABC.com. Thank you for chatting with ABC.
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Customer connection lost. The customer lost network connectivity

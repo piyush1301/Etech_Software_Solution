@@ -1,0 +1,16 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : based on my choices what would the bottom line be with all taxes and fees per month?
+Agent : Agent 'abc@abc.com' enters chat (as Harold)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : okay
+Agent : Hey there! My name is Harold. Happy to help!
+Agent-Freehand : I see you have selected the plans and on the order page.
+Agent-Freehand : Please go to your cart (top right corner of your screen).
+Agent-Freehand : You'll see price with taxes and fees in your cart.
+Agent-Freehand : You'll get $111 towards a range of Google and Nest smart home devices with qualifying bundles with Auto Pay and 1-year agreement.
+Agent-Freehand : You'll also get $111 Visa prepaid cart with triple play deal.
+Customer : thank you for your assistance
+Agent-Freehand : You are welcome.
+Agent-Freehand : Let me know if you have any questions throughout the order process.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

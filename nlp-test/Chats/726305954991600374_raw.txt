@@ -1,0 +1,60 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : We noticed some of our movie channels have been eliminated.  
+Customer : I am looking for a better rate with the channels we use
+Agent : Agent 'abc@abc.com' enters chat (as Phoebe)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : ok
+Agent : Hey there! My name is Phoebe. Happy to help!
+Customer : looking at my cable plan.  some of our movie channels have been eliminated.  Looking for a better plan with a lower price per month
+Agent-Freehand : I will surely pull up your account and check on this for you .
+Customer : I am looking at your advertisement which indicates a plan for 1 years for $111.11/mo
+Customer : OK thank you.  I dont have much time because of work.  Just looking at this quickly.  
+Customer : Does Ultimate TV HD include showtime and EPIX?
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : ok thank you.  
+Agent-Freehand : Yes, the new Ultimate HD TV package includes Starz, Showtime and Epix .
+Customer : is EPIX the sports channels we have now?  Sorry it may be a silly question
+Agent-Freehand : Epix is a premium movie channel . The Sports channel may be ESPN.
+Customer : My husband wants his sports channels he has now.  Doe the bundle include this?
+Agent-Freehand : Yes, Ultimate HD TV package will include most of the sports channels .
+Agent-Freehand : I can see that currently you have our old Ultimate HD TV package .\
+Customer : yes we do
+Agent-Freehand : Thanks for confirming with me .
+Customer : So is it best for us to go with the new bundle.  Saving only $11 though : ( 
+Agent-Freehand : Allow me a moment to right size your account and get the best deal for you .
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Customer : thank you so much 
+Customer : sure
+Agent : What are your must have TV stations/networks?
+Agent-Freehand : You're most welcome!
+Customer : I dont watch much TV.  My husband loves the sport channels.  I guess the movie channels we have is best.  
+Agent-Freehand : Thanks for sharing about this .
+Customer : We are watching Netflix more because there are no good movies on our movie channels lately
+Agent-Freehand : Could you please share the channels that your husband prefers to watch so that I can check for an a TV package that would be best for you ?
+Customer : Oh gosh he is at work.  Golf channels he loves.  Does that help?
+Agent-Freehand : Sure! I will take care of this .
+Customer : Thank you
+Agent-Freehand : You're welcome!
+Agent-Freehand : Thanks for waiting .\
+Customer : your welcocme
+Agent-Freehand : I've checked the deals and promotions available for your account and I can see that Ultimate\ HD TV package would be the best package including the premium movie channels with the Golf channel .
+Customer : OK what would be the cost/month
+Agent-Freehand : Sure! Let me share that .
+Agent-Freehand : I can see that if we change to the new Ultimate HD TV package  that includes Showtime,Starz and Epix with same other services and renew your 1 year agreement the new monthly charges for you will be : $111.11 /mo with taxes and fees if you enroll to autopay with your debit card .
+Agent-Freehand : Along with this you'll get  $111 towards a range of Google and Nest smart home devices with qualifying bundles with Auto Pay and 1-year agreement.
+Customer : what is my price/month now?  
+Agent-Freehand : These new monthly charges will be approx $11/mo less than your current monthly charges.
+Customer : Not much of a decrease :( 
+Agent-Freehand : Yes, I can understand that ; however the new prices will be locked for next 11 months. I have included the best available $11/mo discounts and the Google and Nest promotion with this deal.
+Customer : What is the google and nest promotion? 
+Agent-Freehand : Sure! Let me share that .\
+Agent-Freehand : If we proceeded with this order, on the 11st day of the effective date of this order, you'll receive an email from ABC to redeem $111 credit that can be sued to purchase a wide variety of Google and Nest products.
+Customer : I will have to discuss this with my husband.  
+Agent : I understand the need to talk with your partner. I would hate for you to lose out on this promotion. What questions would they have? I will be happy to answer them for you and get you set up today.
+Customer : thank you for the information.  I appreciate you finding the best deal.  Just not a great reduction.  
+Agent-Freehand : I certainly understand your concern . Let me assure you that the deal I shared with you includes the best discounts that were available for your account .
+Customer : THANK YOU AGAIN.  Have to go to my meeting.  
+Agent-Freehand : Sure! I can understand.
+Agent-Freehand : You can take your time.
+Customer : The customer closed the browser window
+Agent : Agent 'abc@abc.com' exits chat

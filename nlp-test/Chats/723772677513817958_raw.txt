@@ -1,0 +1,49 @@
+Opener :  Opener: Welcome back, you are being reconnected.
+Agent : Agent 'abc@abc.com' enters chat (as Shane)
+Agent : Hey there! My name is Shane. Happy to help!
+Customer : I WOULD LIKE TO CHANGE MY PLAN.
+Agent : Thank you for your years of loyalty to ABC!
+Agent-Freehand : Could you please confirm what exact changes you're looking for?>
+Customer : I SEE AN AVAILABLE PALN FOR 11.11 IN MY AREA. I RECEIVED A BROCHURE TODAY FROM ABC. 
+Customer : 111/111 MBPS INTERNET FOR 11.11
+Agent-Freehand : To assist you in a better way, may I know what all services do you currently have through ABC?
+Customer : I HAVE 111 MBPS INTERNET FOR 11.11
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : The $11.11 deal you're referring to is applicable for the customer who sign up the services for the very first time with ABC. It is the base price and it does not includes taxes and equipment rental charges as well.
+Customer : I use my own equipment and still it is much better. 
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account and check the vest price for 111/111 Mbps
+Customer : Ok
+Agent-Freehand : Thank you.
+Agent-Freehand : I've checked and found that you're getting $11/mo discounts on your internet plan. Your term agreement have been expired and your discounts are good till 1111
+Agent-Freehand : I am so sorry to inform you that there are no additional discounts that I can apply to further lower down this bill.
+Customer : The reason I am trying to get discount because comcast is giving 111 mbps plus over 111 channels for the same price. 
+Agent-Freehand : As a customer myself, I can understand that price is a big factor.
+Agent-Freehand : I understand that our competitors are offering some lucrative rates for services; however, once their introductory period expires their price hikes to almost double. Unlike our competitors at ABC we value our customer and we are committed to give them best value for their money. I can assure you that you will not find the same quality of service at the same rates with our competitors while renewing the services.
+Customer : Ok. Thanks. I will consider comcast offer as they are also offering tv. 
+Agent-Freehand : Would you like me to check the price with TV?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : Yes
+Agent : What are your must have TV stations/networks?
+Customer : Documentaries news local channels 
+Agent-Freehand : Thank you for confirming
+Agent : How many TV’s are we connecting today?  Do you have existing outlets where you want your TVs?
+Customer : one
+Agent-Freehand : Thank you for answering all my questions.
+Agent-Freehand : Please allow me just 1-1 minutes more to make selections for you and share the exact deal.
+Customer : ok
+Agent-Freehand : Custom TV Home & Family (111+ channels) + ABC Internet 111/111 Mbps + Rent: HD Set-Top Box + Taxes = $111.11/mo
+Customer : ok. But it is really high for me
+Agent-Freehand : ABC has to increase rates from time to time to offset higher costs and to keep investing in our network to continue providing unsurpassed performance and reliability. We work hard to deliver more value for your money! Even with this rate adjustment, our prices are still competitive and often less expensive than what many competitors charge for comparable service.
+Customer : Ok. I will check both prices and I will make a decision as my current plan will end up in 1111 than it will increase more. 
+Agent-Freehand : Your term agreement have been already expired and your ongoing discounts will expire till 1111
+Agent-Freehand : With this deal, you'll get bundle price guaranteed for next 11 months.
+Customer : yes. But it is really high and I can not afford. 
+Agent-Freehand : + you're eligible for a $111 credit over a wide range of Google and Nest Home devices.
+Agent-Freehand : Okay, I understand.
+Customer : Thanks. 
+Agent-Freehand : You may please take your time and contact us later once you decide to add TV services.
+Agent-Freehand : We are 11x1 available for you.
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : Thanks. 
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

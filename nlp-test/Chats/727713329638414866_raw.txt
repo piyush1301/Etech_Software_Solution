@@ -1,0 +1,36 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : good morning
+Customer : I am trying to lower my monthly bill
+Customer : maybe reducing the tv package
+Agent : Agent 'abc@abc.com' enters chat (as Emily)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Thank you for being a valued ABC customer. I will be glad to check your account offers switching your TV plan.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Agent-Freehand : Thank you for safeguarding your account.
+Agent-Freehand : Please bear with me while check few details on your request.
+Agent-Freehand : I see that your current term is expired and so the discounts associated are expired; hence the price increased.
+Agent : I see that you are eligible to renew today. Let me ask you a few questions to make sure you are getting the best value for your service.
+Agent : What are your must have TV stations/networks?
+Customer : local stations for the news, sports, some kind of movie channel, some kids channels
+Agent-Freehand : Could you please name the channels so that I can compare the TV plans and get you the best that suits your household requirement/
+Agent-Freehand : Just to confirm, are we still connected?
+Customer : USA, Showtime, ESPN, any disney or Nick channel, TNT, Keep my current spanish package, CNN
+Agent-Freehand : Thank you for sharing these information. Please bear with me while check few details on your request.
+Agent-Freehand : I'm still working on your request. Please stay connected./
+Customer : ok
+Agent-Freehand : Thank you for your patience.
+Agent : Based on what we discussed here is what I put together for you.
+Agent-Freehand : You get Triple Play with upgraded ABC TV Ultimate HD including your must have channels + three premium movie channels including Showtime and Sports pass package instead of adding the fully loaded entertainment package for just $111.11/mo bundle price with 1 years price guarantee + $111 toward Google and Nest devices
+Agent-Freehand : You are saving approx $11.11/mo with this offer.
+Agent-Freehand : Your New Estimated Monthly Charges would be $111.11/mo with tax and fees.
+Customer : i pay now $111.11
+Agent-Freehand : $111.11 is your monthly subtotal before tax and fees.
+Agent-Freehand : Your New Estimated Monthly Subtotal would be $111.11/mo + tax and fees = $111.11 + $111 toward Google and Nest devices
+Agent-Freehand : Upon checking your last three bills, I see that your bill total were approx $111.11
+Customer : what would be consider basic + the spanish package and without the home number?
+Agent-Freehand : I understand you are looking to remove the phone services to curb costs. Removing phone service is not possible online, and since you lose bundle discounts, it might not turn out to be very cost effective.
+Agent-Freehand : Currently, we are unable to process your request via chat due to system limitations.
+Agent-Freehand : We do have a special department which takes care of disconnect and partial disconnect requests and provide you with the best deals on partial disconnect also. Would you like to have the number or the breakdown of the offer?
+Customer : no its ok, i will think about it for now, thank you for your time and help
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

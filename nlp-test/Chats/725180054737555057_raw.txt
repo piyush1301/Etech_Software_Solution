@@ -1,0 +1,39 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : Need number to call sales
+Agent : Agent 'abc@abc.com' enters chat (as Brianna)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Sure!
+Agent-Freehand : Please call our Consumer Sales and Solutions Center at 1-111 ABC (1-111-111-1111) between 1:11 AM and 1:11 AM EST. There will be Interactive Voice Responses to connect you to correct department.  However if you won't mind may I know the reason for the call?
+Customer : looking to get a lower price on my current service.....where I pay the bill via mail
+Customer : u raised my cost per month after my contract expired
+Customer : i have been with ABC for 11 years
+Agent-Freehand : Thank you for sharing the information, I can help you to check the available option for the renewal of the contract as per the services
+Agent-Freehand : Wish you a very good morning! May I know with whom do I have pleasure of chatting today?
+Customer : i see a special online that lowers my current cost n gets me 111 dollars toward home devices.....Peter is my name
+Agent-Freehand : Nice to meet you Peter!
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : Ok.....did u see my note above
+Customer : r u still there 
+Agent-Freehand : Yes I am right here, to check for the deals I would need to access your account and check the available options
+Agent-Freehand : Allow me few moments here
+Customer : I am at ur site n see 11.11 per month that keeps my current service....and gives me 111 toward Google n nest devices .....that is the one I want and I want to keep the same billing by mail
+Agent-Freehand : Yes sure I am in your account and I see we do have $11.11 as the bundle charges before taxes and equipment with  $111 toward Google and Nest devices currently
+Agent-Freehand : May I know if you have access to abc@abc.com?
+Customer : so what's the final cost with my current equipment n taxes
+Customer : i am on ur site now.....I logged on as pmay11
+Agent-Freehand : With the Rent: HD DVR for $11.11 and Rent: Digital Adapter for $1.11 the total charges will be  
+
+$111.11 before taxes and $111.11 after taxes
+Customer : so can u order this for me with the 111 dollars toward Google n nest devices n bill me by mail
+Agent-Freehand : I am sorry we won't be able to get the $111 for the services bill, and we will send you the redemption code for the  $111 dollars toward Google n nest device only after 11 days of the renewal order activation.
+Customer : can u call me
+Agent-Freehand : Since we are in the online chat department, the calling option is not available. However, I can assist you online with placing your order.
+Customer : 111-111-1111
+Agent-Freehand : I am sorry I won't be able to call you.
+Customer : ok.......let me review
+Agent-Freehand : Sure! Let me send you a link in the email for the price breakdown.
+Customer : send to abc@abc.com.    So I can review
+Agent-Freehand : Sure! I have sent you a link in the email
+Agent-Freehand : Please visit the link and enter the zip code to review the deal.
+Customer : Customer connection lost. The customer lost network connectivity
+Agent : Agent 'abc@abc.com' exits chat

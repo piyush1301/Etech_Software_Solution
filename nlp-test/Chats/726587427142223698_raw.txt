@@ -1,0 +1,43 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : we'd like to order a new remote control.  How can we do that?
+Agent : Agent 'abc@abc.com' enters chat (as Aaron)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Aaron. Happy to help!
+Customer : thanks
+Agent-Freehand : let me help you with a link to order it from ABC website.
+Customer : thank you
+Agent-Freehand : You are welcome.
+Customer : our ABC plan has expired and we also are trying to figure out what is included in the $111 plan being offered to us online
+Agent-Freehand : Thank yuo for sharing the information.
+Agent-Freehand : i will check the renewal plan as well.
+Customer : thank you
+Agent-Freehand : click the link and order your remote.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : thank you
+Agent-Freehand : My pleasure.
+Agent-Freehand : I see that you have ABC triple play.
+Customer : yes
+Agent-Freehand : Term agreement Expired :11/11/1111 
+Discount(s) ending : 11/11/1111
+Agent-Freehand : Your current bill is $111.
+Agent-Freehand : I am checking the renewal deal now.
+Customer : thanks
+Agent-Freehand : You are welcome.
+Agent-Freehand : I appreciate your patience.
+Agent-Freehand : ABC Digital Voice Unlimited  
+• Extreme HD TV  
+• ABC Internet 11/11  
+• $11 ABC Bundle Discount Included 
+
+same service and equipments
+
+New Estimated Monthly Charges  
+
+$111.11 with taxes and ees.
+Customer : Why is it more expensive?  
+Agent-Freehand : I see that you have few promotions which you will not get with new agreement. However with this agreement you will get $111 for Google and Nest home
+ devices.
+Customer : no thanks.  I'll look into this further and call when we're ready to deal with it.  Thanks for your help.
+Customer : Customer closed the chat window.
+System : SALE OCCURRED
+Agent : Agent 'abc@abc.com' exits chat

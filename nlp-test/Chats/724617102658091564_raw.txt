@@ -1,0 +1,113 @@
+Opener :  Opener: Hi! Chat now to get our best ABC offers and find out how to save $11!
+Customer : hello
+Agent : Agent 'abc@abc.com' enters chat (as Wilson)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : I am looking for prices for a package including HBO and Showtime
+Agent : Hey there! My name is Wilson. Happy to help!
+Customer : Hi Wilson, thank you for your help.  
+Agent-Freehand : I am sorry currently we don have any package includes HBO and showtime as to add these there is a chaege
+Agent-Freehand : charge
+Customer : what is the charge for these channels
+Agent-Freehand : to add both it will be of $11 and if you add any one then $11/mo
+Agent-Freehand : Just to confirm you are ordering new services?
+Customer : I am pricing it out at this point
+Agent-Freehand : sure
+Agent-Freehand : Let me know if you need my help so I can help you in that.
+Customer : I am having a hard time navigating to get prices on the packages
+Customer : and what the final costs would be with fees and equipment. 
+Agent-Freehand : Let me check and help
+Customer : i need enough internet to be able to run a couple different streaming devices through wifi.  I don't care too much about the phone, but I know it always seems cheaper to bundle. 
+Agent-Freehand : Yes
+Agent-Freehand : Let me help you with the best bundle for you
+Customer : thank you
+Agent-Freehand : You are welcome
+Agent-Freehand : would you like to add tv also?
+Customer : yes, I would like HBO and Showtime as well
+Agent-Freehand : sure
+Agent-Freehand : Please help me with your must have Tv channels.
+Agent-Freehand : I hope we are connected
+Customer : history channel, Bravo, TBS, E!
+Agent-Freehand : Thank you for confirming
+Customer : disney, nick, nick jr, disney jr
+Customer : hd channels
+Agent-Freehand : sure
+Customer : I don't want a ton of channels I won't use. so I can just add on HBO and Showtime.  I hate having to scan through a ton of channels to get to the few I acutally watch
+Agent-Freehand : Please help me with your email
+Customer : abc@abc.com
+Agent-Freehand : Please visit this link and proceed by entering this number-NJ11111111111
+
+Agent-Freehand : Please stay connected and proceed with checkout once reviewed
+Customer : I won't be able to check out at this time, as I said I am shopping around to see if ABC is the best option for me
+Agent-Freehand : No problem
+Agent-Freehand : As you will get the free installation with us and also you will never feel any hassle with us
+Customer : does the custom tv include HD channels?
+Agent-Freehand : Yes sure
+Customer : so this includes the $111 credit towards Google devices?
+Agent-Freehand : Yes and $111 visa card aslo
+Customer : wow, that's great. those would be rewarded how long after instalation?
+Agent-Freehand : it will be rewarded after 11days
+Customer : and if the new home is already equipped with ABC, would I be able to just switch their devices into my name? or does someone have to come out to do the installation?
+Agent-Freehand : You will need all the new equipment on your name and yes our tech will visit your location for installation in free
+Customer : ok. Another question, is the DVR multi room?
+Agent-Freehand : There are 1 DVR one is Basic and another is MULTI ROOM ENHANCED DVR
+Customer : ok
+Agent-Freehand : Please review and let me know
+Customer : so i just updated my cart.  What happens when these "specials" expire? How much is my bill going to be?
+Agent-Freehand : after 1 year your bill will go up by $11
+Customer : what is the ABC tv broadcast fee?
+Customer : and if I buy the router does that take away any of the discounts I am getting?
+Agent-Freehand : A monthly fee charged by Local Programming Providers to access basic programming channels and is subject to change.
+Agent-Freehand : if you buy the router you will not loose nay of the discount
+Customer : that fee could increase?
+Customer : at any time?
+Agent-Freehand : It will increase after 1 year as you will be in the contract
+Customer : what will that increase to?
+Customer : this seems like a lot of increases after 1 years
+Agent-Freehand : As I have shared it will increase total of $11 after your contract get ended
+Customer : that is the fee, what about all of the other parts of the package?
+Agent-Freehand : You can renew with the new deal before contract end so you can save all the discounts
+Agent-Freehand : fee will maximum go up  to by $1
+Customer : but you said $11?
+Customer : and with the package that I have now, HBO and Showtime are free, will I start to be charged for those as well?
+Agent-Freehand : As HBO and showtime is not included in free it is with the charge
+Customer : right now it is $111.11.  in two years I want to be sure I am not going to be paying upwards of 111. 
+Customer : that is not what my cart says.  I just looked at it after I changed the DVR options
+Customer : please check it again
+Agent-Freehand : Let me check
+Agent-Freehand : Let me share the full price after adding DVR
+Agent-Freehand : ABC Triple Play $11.11  
+ Custom TV Action & Entertainment   
+ ABC Gigabit Connection   
+ ABC Digital Voice US+11 Countries   
+$11 Auto Pay and Paper Free Discount Included   
+New  Multi-Room DVR Enhanced Service $11.11  
+New  Rent: ABC Quantum Gateway Router $11.11  
+New  Rent: HD Set-Top Box $11.11  
+New  $1 Multi-Room DVR Enhanced Service Included -$1.11  
+New  Pick Your Premiums - 1 Pack $11.11  
+ Showtime   
+ HBO   
+
+
+
+Estimated Monthly Subtotal  $111.11 
+Taxes, Fees, and Other ABC Charges $11.11 
+ABC TV Broadcast Fee $1.11 
+Estimated Monthly Charges  $111.11
+Agent-Freehand : this price is locked for 1 year
+Customer : I added it to it, the multiroom DVR as well as 1 cable boxes
+Customer : that isn't what it says in my cart that I just adjusted
+Customer : New	ABC Triple Play	$11.11Custom TV Action & Entertainment	ABC Gigabit Connection	ABC Digital Voice US+11 Countries	$11 ABC Custom TV 11 Mo. Discount thru Aug 1, 1111	$11 Special 11 Mo. Discount thru Aug 1, 1111	$11 Special 11 Mo. Discount thru Aug 1, 1111	$11 Special 11 Mo. Discount thru Aug 1, 1111	$11 Special Bundle Discount Included	$11 Auto Pay and Paper Free Discount Included	New	Multi-Room DVR Enhanced Service	$11.11New	Rent: ABC Quantum Gateway Router	$11.11New	Rent: HD Set-Top Box 1	$11.11New	Showtime	Fee WaivedNew	HBO	Fee WaivedEstimated Monthly Subtotal	$111.11Taxes, Fees, and Other ABC Charges	$11.11ABC TV Broadcast Fee	$1.11Estimated Monthly Charges	$111.11Special offer included:A $111 credit towards a range of Google and Nest smart home devices. You’ll receive an email with instructions to redeem your $111 credit approximately 11 days after your ABC service(s) are installed.What to Expect on Your 11/11/11 BillYour first bill with these services may vary due to partial month charges, one-time charges and duration of promotional discountMonthly AmountEstimated Monthly Total		$111.11One-Time Charges		ABC Setup @ $11	Fee Waived	One-Time Charges Subtotal		$1.11Estimated Bill Subtotal	$111.11Taxes, Fees and Other ABC Charges	$11.11ABC TV Broadcast Fee	$1.11Estimated Bill Total	$111.11
+Agent-Freehand : Let me checl
+Customer : This is still more than what my sister is paying now at that location for exactly the same service if not more
+Agent-Freehand : I am checking
+Agent-Freehand : Just to confirm do you have saved cart number of the cart with that you pasted.
+Customer : it is the one that was in the  email you sent
+Agent-Freehand : No problem If you can see the fee waived for it from your end please proceed once and check the price again
+Customer : ok, I have all the information I need for write now, 
+Customer : I appreciate your assistance. 
+Customer : thank you very much
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

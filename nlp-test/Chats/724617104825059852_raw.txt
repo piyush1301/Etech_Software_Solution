@@ -1,0 +1,126 @@
+Opener :  Opener: Hi! Can I help answer any questions about your order?
+Customer : hello
+Agent : Agent 'abc@abc.com' enters chat (as Charlotte)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Charlotte. Happy to help!
+Customer : Hello
+Agent-Freehand : Please go ahead with your question. I'm right here to assist you.
+Agent-Freehand : Just to confirm, are we still connected?
+Customer : we are
+Customer : I am trying to choose the offer and it is redirecting me to choose my own
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : I apologize for the inconvenience caused. May I know which offer you are selecting?
+Customer : its the 11.11 TV and 1 gig internet that comes with the $111 google credit and the $111 prepaid Visa
+Agent-Freehand : Thank you for sharing this information. Let me check this from my end.
+Agent-Freehand : Could you please help me with the complete address along with the zip code where you want us to install new services?
+Customer : 1 Laurel Pl Montclair NJ 11111
+Agent-Freehand : Thank you for sharing this information.
+Agent-Freehand : Please allow me a moment here.
+Agent-Freehand : Let me help you with saving a cart on my end. I would also like to inform, the $11.11 deal include Custom TV plan.
+Customer : yes exactly
+Agent-Freehand : ABC ABC offers Custom TV channel packages that fit real lifestyles. Pick from one of the following Custom packages and get the types of channels you want:
+
+Action & Entertainment
+Sports & News
+Kids & Pop
+News & Variety
+Infotainment & Drama
+Lifestyle & Reality
+Home & Family"
+Customer : the sports and news
+Agent-Freehand : Thank you.
+Agent-Freehand : May I know how many TVs you want to connect?
+Customer : 1
+Agent-Freehand : Thank you.
+Agent-Freehand : Would you like to rent the router for $11/mo or wish to purchase it by paying a one time charge of $111.11?
+Customer : will purchase it
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : Just to be sure, are you interested in home phone service as well?
+Customer : no not at this time
+Customer : ty
+Agent-Freehand : You are welcome.
+Agent-Freehand : Please allow me few moments here while I make the selection for you and share the final pricing.
+Agent-Freehand : I can see if we go with ABC Double Play $11.11  
+ Custom TV Sports & News   
+ ABC Gigabit Connection  
++ Rent: ABC Quantum Gateway Router $11.11  +  Rent: HD Set-Top Box 1 $11.11  = Estimated Monthly Subtotal  $111.11/mo before taxes and fees.
+Including taxes and fees the total comes up to $111.11/mo.
+Agent-Freehand : You will also get a $111 credit towards a range of Google and Nest smart home devices. You’ll receive an email with instructions to redeem your $111 credit approximately 11 days after your ABC service(s) are installed.
+Agent-Freehand : I am sorry, you mentioned you wanted to purchase the router.
+Agent-Freehand : If you purchase the router, your monthly charges will be $11.11/mo before taxes and fees. Including taxes and fees the total comes up to $111.11/mo.
+Customer : Ok... what was the $111 Visa prepaid card?
+Agent-Freehand : You can use the $111 Visa card to purchase anytime or to pay bills where you use your debit or credit cards to make the payment.
+Agent-Freehand : **anything
+Customer : and that comes with it?  just didn't see you mention it
+Agent-Freehand : Please allow me a moment to double check it for you.
+Agent-Freehand : I can see the $111 Visa card only comes with triple bundle service that includes TV , home phone and internet service.
+Agent-Freehand : If we add home phone service, you will get the $111 Visa card.
+Customer : and that is only $1.11 a month more?
+Agent-Freehand : Your monthly charges will be $111.11/mo including taxes and fees(if we add home phone servie).
+Customer : isn't that cheaper?
+Agent-Freehand : Let me share the pricing.
+Customer : ok great
+Customer : ty
+Agent-Freehand : You are welcome.
+Agent-Freehand : If we go with ABC Triple Play $11.11  
+ Custom TV Sports & News   
+ ABC Gigabit Connection   
+ ABC Digital Voice US+11 Countries  
++ Rent: HD Set-Top Box 1 $11.11  = Estimated Monthly Subtotal  $11.11/mo before taxes and fees.
+Including taxes and fees the total comes up to  $111.11/mo.
+Agent-Freehand : Now let me share the double bundle pricing.
+Agent-Freehand : If we go with ABC Double Play $11.11  
+ Custom TV Sports & News   
+ ABC Gigabit Connection  
++ Rent: HD Set-Top Box 1 $11.11  = Estimated Monthly Subtotal  $11.11/mo before taxes and fees.
+Including taxes and fees the total comes up to $111.11/mo.
+Customer : Lets do the triple play... finally I just want to make sure I can do this.  We rented the entire place of a 1 bedroom unit.  It is one house but I believe in the past has been two places.  I want to make sure that the 1nd box can go in that unit without any issues
+Agent-Freehand : It is a single house with 1 bedrooms, correct?
+Customer : It is a three bedroom house however in the past it has been separated as 1 units
+Customer : we rented the entire thing
+Agent-Freehand : Thank you for sharing this information.
+Agent-Freehand : There will be no issue in connecting the boxes. Our technician will take care this for you.
+Customer : ok great
+Agent-Freehand : Perfect! Let's proceed with the order.
+Customer : yes please
+Agent-Freehand : May I have your email address, please?
+Customer : abc@abc.com
+Agent-Freehand : Thank you.
+Agent-Freehand : I have sent the saved cart to your email address, please access the saved cart using the same browser you are using for chatting.
+Agent-Freehand : And once the saved cart gets loaded for you, please let me know. I will guide you further with the order.
+Customer : ahh.. I actually cant access that email from my work browser
+Customer : can you send to my work email
+Agent-Freehand : Sure!
+Customer : alex-abc@abc.com
+Agent-Freehand : Please allow me a moment here.
+Customer : sorry... alex-abc@abc.com
+Agent-Freehand : Thank you.
+Customer : can I switch to make sure my home email is the default though once I set up my account
+Agent-Freehand : While proceeding with the order, you can change the email address to home email .
+Agent-Freehand : I have sent the saved cart. Please access it.
+Customer : ok great
+Agent-Freehand : Thank you.
+Agent-Freehand : Just to be sure, does the cart gets loaded for you?
+Customer : it has
+Customer : filling out now
+Agent-Freehand : Perfect! Please proceed with the order.
+Agent-Freehand : Please keep this chat window open while you go through the order process. In case you have any questions during the order process, please feel free to ask me. I am right here with you.
+Agent-Freehand : How are you doing with your order?
+Customer : so far so good
+Customer : ty
+Agent-Freehand : Great! You are welcome.
+Agent-Freehand : Please let me know once you complete the order.
+System : SALE OCCURRED
+Agent-Freehand : I can see you have successfully placed the order. Welcome to ABC family!
+Agent-Freehand : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : can I link the ABC wireless acct?
+Agent-Freehand : I apologize, it is not possible to link both the accounts as wireless and residential account needs to be different and handled separately.
+Customer : gotcha
+Customer : no problem
+Agent-Freehand : Can you think of any additional questions that I can assist you with today?
+Customer : that's it
+Customer : ty for your help
+Agent-Freehand : You are welcome. Have a great day ahead!
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

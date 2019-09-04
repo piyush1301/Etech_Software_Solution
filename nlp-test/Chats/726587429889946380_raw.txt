@@ -1,0 +1,29 @@
+Opener :  Opener: Hi! Can I help answer any questions about our services?
+Customer : how do I redeem my Netflix offer?
+Agent : Agent 'abc@abc.com' enters chat (as Rhea)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Rhea. Happy to help!
+Agent-Freehand : You will require a subscription from Netflix to be able to view it on ABC TV service. You can access Netflix from your ABC TV boxes by tuning in to channel # 111.
+Customer : okay. I have a reward for 1 free year from ABC for netflix
+Customer : but I can not redeem through my email.
+Customer : i keep receiving an email to redeem my free Netflix but it is not letting me
+Agent-Freehand : We appreciate your interest in accessing Netflix from ABC TV box. You will require upgraded equipment to be able to access Netflix through ABC. Let's check the options to upgrade your existing boxes to Multi Room Enhanced/Premium DVR service.
+Customer : i can access Netflix on my tv
+Customer : is that how i redeem my free subscription?
+Agent-Freehand : Thank you for helping me with all the details
+Agent-Freehand : I'm really sorry to share that ABC does not offer Netflix offer
+Agent-Freehand : As you have received an email about the free subscription.
+Customer : but i received an email from ABC asking me to redeem netflix
+Agent-Freehand : You will receive a link as well there/
+Agent-Freehand : Are you able to access the link?
+Customer : there is but it brings me to my ABC account and there is nothing there
+Agent-Freehand : Thank you for sharing the details.
+Agent-Freehand : Please bear with me while check few details on your request.
+Agent-Freehand : I would suggest you clear all the cookies and browsing history, close all the ABC windows except chat window and let me know, so that I can re-send you a link to proceed. For different browsers there are different methods to delete cache and cookies. Please find below the steps to clear cache:
+1. Windows Explorer, Google Chrome, Firefox - Press ""Ctrl""+""Shift""+""Del"" and follow the prompts on pop up to delete the cache and cookies.
+1. Safari - Please access options and go to browsing history and delete by selecting all.
+Agent-Freehand : Let me know if you face any issue.
+Agent-Freehand : How is it going for you>?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,49 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : Yes. I need to lower my monthly payments. $111 a month is too much to pay for internet alone.  I DON'T want any TV/cable packages.  All I need is better price for what I currently have.
+Agent : Agent 'abc@abc.com' enters chat (as Brandon)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Thank you for being a valued ABC customer.
+Agent : I understand your situation and would like to help.
+Agent-Freehand : I would be glad to pull out your account and check for the best deal for services.
+Agent-Freehand : May I know with whom do I have pleasure of chatting today?
+Customer : This is Matt Mozingo, owner of account. Any deals to keep my current plan and lower my monthly price?
+Agent : I’ll take care of this for you! You're in good hands.
+Agent-Freehand : It's a pleasure to meet you Matt! I hope you are doing well today.
+Agent-Freehand : I can see that you are currently logged in to your account. Thank you for safeguarding your account. Please give me a moment while I pull up your account.
+Customer : Thank you for your help
+Agent-Freehand : You are always welcome.
+Agent : Thank you for your years of loyalty to ABC!
+Agent-Freehand : Please give me few moments while I gather some information on your request.
+Customer : You can reward that loyalty with a cheaper rate, so that I can continue to be loyal. Take your time, thank you. 
+Agent-Freehand : I have an amazing deal for you.
+Agent-Freehand : We can offer you a speed upgrade to 111/111 Mbps with Free Google Chromecast  with a new 1 year agreement at just $11.11/mo including taxes and fees.
+Agent : This is a fantastic entertainment package, customized to meet your needs!
+Agent-Freehand : Sounds good?
+Customer : That's faster than I currently have? And better price? I can do a 1 year agreement for that. 
+Agent-Freehand : Yes, you are correct! It is faster speed than you currently have,
+Agent-Freehand : Let's grab this plan, what do you say>
+Agent-Freehand : ?
+Customer : Yes. Let's do it.
+Agent-Freehand : Awesome!
+Agent-Freehand : I will customize the order and send you an email with link to review the order. Once you accept the order from your end I will go ahead and finalize it. Please stay connected during this process.
+Customer : Will do. Thank you. Which email are you sending it to?
+Agent-Freehand : May I have your email address, mobile telephone number and alternate telephone number please?
+Customer : abc@abc.com
+Customer : 111-111-1111
+Customer : 111-111-1111- wife's cell
+Agent-Freehand : Thank you for the information.
+Agent-Freehand : I have sent you an email at "abc@abc.com". Please click on the link in your email from ABC, review the order details and continue with the order. Once you click on "Continue", please enroll/skip Auto Pay and confirm the order by clicking " I agree ", so that I can process the order for you.
+Agent-Freehand : Let me know once you confirm it.
+Customer : Will do. Going through now
+Agent-Freehand : Sure thing!
+Agent-Freehand : Matt, Thank you for your order. Order number: VA11111111111
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : Completed
+Agent-Freehand : Awesome!
+Customer : Thank you very much. Have a great day.
+Agent-Freehand : You are most welcome, I am so glad that I am able to help you out with the best deal.
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent-Freehand : Have a great day! Take care.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

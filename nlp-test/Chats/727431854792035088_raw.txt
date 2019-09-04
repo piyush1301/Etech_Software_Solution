@@ -1,0 +1,50 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : So if I'm understanding this correctly my old plan was $111.11 per month and my new plan will be 111.11 per month? Guaranteed?
+Agent : Agent 'abc@abc.com' enters chat (as Sammy)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Sammy. Happy to help!
+Agent-Freehand : Thank you for being a valued ABC customer. I will be glad to assist you in checking details of prices with new plan.
+Agent-Freehand : Hope you are doing well today!
+Customer : I'd like to keep same plan for the new lower price
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : ok
+Agent-Freehand : Thank you.
+Agent : Thank you for your years of loyalty to ABC!
+Agent-Freehand : I am evaluating available deals for you.
+Agent-Freehand : Let me share that $111.11 is just bundle prices which is before equipment charges and taxes and fees.
+Customer : i'm looking at 111.11 deal
+Agent-Freehand : Let me fetch exact prices for you on same deal.
+Customer : ok
+Agent-Freehand : Thank you for your co-operation.
+Agent-Freehand : You can renew your 1 year agreement and your TV plan will be updated to in-market • ABC TV Ultimate HD and your new prices will be  $111.11/mo + taxes.
+Agent-Freehand : Also you will get 1 years price lock and $111 credit towards Google and Nest home deivces with this deal.
+Agent-Freehand : The deal I shared is with $111.11 bundle prices.
+Customer : I have a router that I was never able to use that was an upgrade over old one. Have been charged extra monthly fee because I'm still using old one. What can you guys do about that?
+Agent-Freehand : I can see that you are not being charged anything for router.
+Customer : Are you sure? I was told that I was.
+Agent-Freehand : You can surely check your last bill.
+Agent-Freehand : There are no monthly rental charges for router.
+Customer : So does did deal come with some equipment upgrades or use same stuff I have.
+Agent-Freehand : There will be no equipment changes with the deal.
+Agent-Freehand : As per ABC recent changes in channel line up, HBO and Cinemax are no longer included in new ABC Ultimate TV plan.
+Agent-Freehand : I hope we are still connected.
+Customer : SO I won't get those channels anymore?
+Agent-Freehand : Unfortunately that is correct.
+Customer : What plan are they included in?
+Agent-Freehand : I am sorry, HBO and Cinemax are not included with any of TV plan.
+Agent-Freehand : You can surely add it separately at $11/mo.
+Customer : You know what Sammy, I'll get back to you guys. Keep things as is for now. Thx.
+Agent-Freehand : Let me share deals and promotion are time sensitive and may not be available later on.
+Customer : Understood.
+Agent-Freehand : We respect your decision.
+Agent-Freehand : Do you have any more questions for me? I will be happy to answer all your questions.
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Agent-Freehand : It was my pleasure chatting with you.
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.
+Customer : Thank you.
+Agent-Freehand : You are welcome.
+Agent-Freehand : Bye.
+Agent-Freehand : Take care.
+Agent-Freehand : Have a happy day ahead!
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

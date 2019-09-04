@@ -1,0 +1,29 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : Hi, I have a few additional TV's now in basement.  I am looking to have a cable box on 1 of them but i was hoping that they could either be wireless or they could hook to the back of the TV.  Is either of this possible?
+Agent : Agent 'abc@abc.com' enters chat (as Nestor)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : I am really sorry but all our HD boxes are wired but it is small so it will be convenient for you.
+Agent-Freehand : Each HD Set-top box is for $11/mo.
+Customer : Is it the standard box or is there a different box.  someone told me there was a small one that could go behind the TV (attached to the back) as it is hanging on the wall.  
+Agent-Freehand : Yes that is the HD box we are talking about.
+Agent-Freehand : You an collect the boxes from the store and start the services tomorrow itself.
+Customer : Can I get them sent to me?
+Customer : Do you have a picture of them?
+Agent-Freehand : yes you can check it pictures on our website, please check the www.ABC.com and on the search box enter HD box and you will be able to see the pictures.
+Customer : Okay thanks.  Can I order these online and have them sent to me?
+Agent-Freehand : Yes please place the order online.
+Customer : Can you give me the exact details because I can't seem to find it on ABC.com
+Agent-Freehand : the new HD boxes will be delivered to you within 1-1 business days.
+Customer : Also, does it come with the wires?
+Agent-Freehand : Yes all the boxes comes with the new remotes, self installation kit and wiring.
+Agent-Freehand : You can easily plug in the new boxes by looking at the self-installation kit.
+Customer : Okay.  Can you confirm that this connects to the TV and is small enough to be attached to the back?  It does not seem like it when I googled it.  It just looks like the standard boxes?
+Agent-Freehand : The boxes are of medium sizes.  (W 11.11 in. D 11 in. H 1.11 in)
+Customer : This is not what I am looking for.  I was told there was a small box that can be attached to the back of the TV.  So there is no wires hanging down
+Agent-Freehand : I understand your concern but all our boxes are wired and we are not offering any boxes wireless.
+Customer : Okay.  Thank you
+Agent-Freehand : You are welcome!
+Agent-Freehand : May I provide you with any other support?
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat
+System : SALE OCCURRED

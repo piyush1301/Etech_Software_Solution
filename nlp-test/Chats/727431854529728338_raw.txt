@@ -1,0 +1,28 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : I think the installation address is incorrect on this order. I cant' see it to change.
+Agent : Agent 'abc@abc.com' enters chat (as Brock)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Brock. Happy to help!
+Agent-Freehand : I hope you are doing well!
+Agent-Freehand : I can see that the service address is?
+Agent-Freehand : 111  DANIELLE
+Customer : in Coatesville?
+Agent-Freehand : Correct!
+Agent-Freehand : 11111
+Customer : Perfect
+Agent-Freehand : You are good to proceed with the order. I will be right here with you.
+Customer : so the address is wrong. I don't know where the jenkintown address came from
+Agent-Freehand : May I have your address including zip-code?
+Customer : 111 danielle lane   coatesville, pa 11111
+Agent-Freehand : Thank you!
+Agent-Freehand : "I would suggest you clear all the cookies and browsing history, close all the ABC windows except chat window and let me know, so that I can send you a link to proceed. For different browsers there are different methods to delete cache and cookies. Please find below the steps to clear cache:
+1. Windows Explorer, Google Chrome, Firefox - Press ""Ctrl""+""Shift""+""Del"" and follow the prompts on pop up to delete the cache and cookies.
+1. Safari - Please access options and go to browsing history and delete by selecting all."
+Customer : ok
+Agent-Freehand : Thank you!
+Customer : DONE
+Agent-Freehand : Great
+Agent-Freehand : May I know know the TV plan name you have selected?
+Agent-Freehand : Can you please share with me your email address?
+Customer : The customer closed the browser window
+Agent : Agent 'abc@abc.com' exits chat

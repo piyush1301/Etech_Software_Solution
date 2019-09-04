@@ -1,0 +1,59 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : need to talk to a representative
+Agent : Agent 'abc@abc.com' enters chat (as Brock)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Brock. Happy to help!
+Agent-Freehand : I hope you are doing well!
+Agent : I see that you are working on your order, how can I assist you with any questions about the process?
+Customer : does not give me the choices I want; do not need a phone. want tv and internet. thak you
+Agent-Freehand : Sure!
+Agent-Freehand : I will work on it.
+Agent-Freehand : May I have your address including zip-code?
+Customer : 111 park creek rd. 11111
+Agent-Freehand : Thank you!
+Agent-Freehand : Just to confirm do you have existing (TV/Internet/Home phone) services with ABC?
+Customer : would prefer talking. No I do not have ABC.
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : I would recommend placing the order online as with online order we can help you waive off the installation charge worth $11.11
+Agent-Freehand : If you call you will be charged $11.11
+Agent-Freehand : I will only ask 1 questions and set you up with the plan
+Customer : Yikes; OK, but have a problem; just want internet and tv and need choices I do not see
+Agent-Freehand : I will check that for you
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : What are your must have TV stations/networks?
+Customer : pretty broad question; public tv cnn MSNBC weather weather certain movie and documentary channels. Hope that helps
+Agent-Freehand : Sure!
+Agent-Freehand : How many TV’s are we connecting today?
+Customer : 1
+Agent-Freehand : Sure!
+Customer : Are you a real person Brock
+Agent-Freehand : You are hurting my feelings by saying that.
+Agent-Freehand : I am a live person just like you.
+Customer : OK Sorry just asking.
+Agent-Freehand : It is alright.
+Customer : whew
+Agent-Freehand : I can see that if we place an order today with
+   Custom TV Home & Family 
+   ABC Gigabit Connection  111/111Mbps speed
+   
+
+Rent: ABC Quantum Gateway Router for $11
+Rent: HD Set-Top Box 1 for $11
+
+Your Estimated Monthly Subtotal  will be $111.11
+After adding taxes and fees it will be $111.11, LOCKED for 1 years.
+Agent-Freehand : A $111 credit towards a range of Google and Nest smart home devices. 
+
+You’ll receive an email with instructions to redeem your $111 credit approximately 11 days after your ABC service(s) are installed.
+Agent-Freehand : The one time ABC installation charge is $11.11. Online order today and you qualify for FREE installation.
+Hence there will be no initial/upfront charges.
+Customer : Do not need Google and Nest at this time. Set up installation for the 11th of August
+Agent-Freehand : It is optional and FREE, Let me help you order service
+Agent-Freehand : May I have your email address?
+Customer : abc@abc.com
+Agent-Freehand : Thank you!
+Agent-Freehand : I have sent you the cart on abc@abc.com
+Agent-Freehand : I request you to access the link and review the cart, I will be right here with you.
+Agent-Freehand : Once you are ready you can proceed with the checkout
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,49 @@
+Opener :  Opener: Hi! Chat now to get our best ABC offers and find out how to save $11!
+Customer : hi
+Agent : Agent 'abc@abc.com' enters chat (as Dominick)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Dominick. Happy to help!
+Agent-Freehand : Hi!
+Customer : do you provide internet and tv service to 111-1 north george mason drive?
+Agent-Freehand : Let me check that for you.
+Agent-Freehand : Allow me few minutes.
+Agent-Freehand : I can see that your location is available with the ABC Internet and the TV services.
+Customer : what is the ABC internet?
+Agent-Freehand : The services for the Internet and  the TV is provided on the Fibre optics which is the fastest and deicated connection.
+Agent-Freehand : dedicated*
+Customer : is it like the router?
+Agent-Freehand : There would be a box installed in your address and from that the connection would be connected to the router/modem which would be connected to your devices.
+Customer : what about the TV? do you offer a bundle? TV and internet? 
+Agent-Freehand : Yes.
+Customer : good, how much and what channels do you offer?
+Agent-Freehand : How many TV's would you like to connect?
+Customer : two, maybe three
+Agent-Freehand : One TV would require 1 set top box which charges $11.11/mo.
+Customer : i see, I guess you can record programs, right
+Agent-Freehand : Yes, that would be the DVR services that needed to be added which would charge $11.11/mo for the basic DVR service for recording 1 shows at a time.
+Customer : My son needs fast internet for videos, will this ABC fast enough for that?
+Customer : uploading and downloading videos
+Agent-Freehand : Here is the bundle package:
+ABC Internet 11/1 + Custom TV Lifestyle & Reality - $11.11/mo
+Rent: ABC Quantum Gateway Router - $11.11/mo
+Rent: HD Set-Top Box 1 - $11.11/mo
+DVR Service - $11.11/mo
+
+The total charges would be $111.11/mo including taxes and fees.
+Agent-Freehand : A $111 credit towards a range of Google and Nest smart home devices. You’ll receive an email with instructions to redeem your $111 credit approximately 11 days after your ABC service(s) are installed.
+Agent-Freehand : Order online and we'll waive the standard $11.11 setup charge!
+Agent-Freehand : Would you like to proceed with the order ?
+Customer : hd set top is pretty expensive.  one more question, what is ABC Internet 11/1?
+Agent-Freehand : ABC is the Fibre optics cable as I mentioned and the 11/1 is the internet speed that is 11Mbps download speed and 1Mbps upload speed.
+Customer : good.  Let me think about this.  If I decide, i just need to sign in through the website?
+Agent-Freehand : Yes. But the price may not be the same as the online price are changing time to time as offers and discounts are not the same all the time.
+Customer : ok, how much is to add sports? like to watch football, basketball, etc.?
+Agent-Freehand : There is a premium package that is the Sports Pass channel with the sports channels included that would be $11.11/mo additional.
+Customer : OK, so I am looking for $111.  thank you for your help. I will compare with Comcast.
+Agent-Freehand : I understand.
+Agent-Freehand : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : that should do it.  Thank you for help
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent-Freehand : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

@@ -1,0 +1,82 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : House was previously set up for ABC think only in livingroom. Need three bedroom set up. How much would that cost
+Agent : Agent 'abc@abc.com' enters chat (as Dominick)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Dominick. Happy to help!
+Agent-Freehand : Could you please help me with the complete address along with the zip code where you want  to install new services?
+Customer : verizo
+Customer : 1111 St. Boniface Lane Baltimore Md 11111
+Agent-Freehand : Thank you! Please allow me few minutes to review the details.
+Customer : K
+Agent-Freehand : How many TV's would you be connecting ?
+Customer : Four maybe five
+Agent-Freehand : I would like to share that 1 set top box is required for 1 TV. The charge for 1 box is $11.11/mo.
+Agent-Freehand : How many TV's should I select for connecting?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : house was set up in basement main connection but last tenant only had one line in livingroom. So five assuming rest of house bedrooms three need to be wired
+Customer : five
+Customer : battery running low sorry
+Agent-Freehand : I would like to share that as it would be new services , previous equipment with other previous account would not be compatible with the new services.
+Customer : ok yes understans
+Customer : D
+Agent-Freehand : Would you also like to include the phone in the bundle or only Internet and TV?
+Customer : Wondering about how to get free installation. No phone.
+Customer : but my daughter getting roommates dont knkw y
+Agent-Freehand : Thank you for confirming. If you complete the order online with me without closing the chat than the installation fee would be waived as online placed orders are free of installation charged .
+Agent-Freehand : Let me get the total charges for you.
+Agent-Freehand : Please stay connected.
+Customer : K
+Customer : the situation is my daughter getting roomates but dont know when they willmove 
+Agent-Freehand : Here is the package with the promotional discounts applied:
+ABC Gigabit Connection  + Custom TV Lifestyle & Reality  - $11.11/mo
+Digital Adapter 1 @ No Charge  - Free
+Rent: ABC Quantum Gateway Router - $11.11/mo
+Rent: HD Set-Top Box 1 - $11.11/mo
+
+The total charges including taxes and fees would be $111.11/mo.
+Agent-Freehand : A $111 credit towards a range of Google and Nest smart home devices. You’ll receive an email with instructions to redeem your $111 credit approximately 11 days after your ABC service(s) are installed.
+Customer : Thank you. I dont understand same price ratw
+Customer : Rate if i get phone included
+Agent-Freehand : Phone would be included in the bundle , the difference would be in the bundle if you include the phone. That is $1.11 less in the bundle section that would be $11.11/mo in place of $11.11/mo . But the equipment charges and the taxes and fees would be the same.
+Customer : i wil be in touch. May o l mhm
+Customer : May only need fohr t mhm
+Customer : mhm
+Customer : mhm
+Agent-Freehand : I would like to share that the promotional prices are not the same every time as it keeps changing. You can order now with a later date of installation so that you can lock the price and if you want you can cancel at any time within 11 days without charges. The charges for the services are billed after installation not from the date of ordering.
+Customer : Sorry send button directly below back clear button on my tablet. Can house be wired for five tvs but only pur ha mhm
+Customer : mhm
+Customer : Only urc mhm
+Customer : mhm
+Agent-Freehand : I am not able to understand your last statements , could you please be clear?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : Can house be wired for five boxes but only purchase four other may need later time. My daughter going in house and getting roommates. DonT need all boxes right away till she finds roomates. So may only need two boxes at first, but house wired to add later time.
+Agent-Freehand : You can add the other boxes at any time you require.
+Agent-Freehand : As of now should I add only 1 boxes?
+Customer : Yes but time of installation can all five lines be put in for later boxes to be added as needed
+Agent-Freehand : Yes. Later you only need to order the other boxes and connect them to the outlets.
+Customer : only need two when installation but other three rooms wired to be ready to go
+Agent-Freehand : Yes. With 1 boxes the total charges would be $111.11/mo including taxes and fees.
+Agent-Freehand : Would you like to proceed with the order?
+Customer : In the past when cable guys come oyt
+Customer : Mean come out to install wiri 
+Customer : Trying this again. When cable men come to go
+Customer : Hoys
+Customer : Sorry ut
+Agent-Freehand : Once we proceed with the order you would be getting the option for selecting the nearest available date for installation on the checkout page .
+Customer : When cable guy comes to houses in past they woukd
+Customer : Would only dun
+Customer : Run line in rooms gettj
+Customer : Getting box onky
+Agent-Freehand : That would not be the case with ABC as you would be getting ABC services and the technician would do all the needful at the  time of installation.
+Agent-Freehand : Would you like to proceed with the order now?
+Customer : No. She nay
+Customer : She may not move into hoyse
+Agent-Freehand : I understand .
+Agent-Freehand : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : House till october. So it will be next month october but not sure exact date. Will inform you when she actually moves in to install. House empty right now
+Agent-Freehand : I understand.
+Agent-Freehand : Is there anything else I can assist you with?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

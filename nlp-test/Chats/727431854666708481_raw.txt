@@ -1,0 +1,44 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : IT says my discount expires this month, is there any way to conutie getting it
+Agent : Agent 'abc@abc.com' enters chat (as Brandon)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Hey there! Thank you for being a valued ABC customer.
+Agent-Freehand : I would be glad to pull out your account and check the details of discount for the services.
+Agent : I’ll take care of this for you! You're in good hands.
+Agent-Freehand : May I know with whom do I have pleasure of chatting today?
+Customer : thank you so much
+Customer : christina wedderien
+Agent-Freehand : It's a pleasure to meet you Christina! I hope you are doing well today.
+Agent-Freehand : I can see that you are currently logged in to your account. Thank you for safeguarding your account. Please give me a moment while I pull up your account.
+Customer : i am thank you, hope you are too.
+Customer : okay.
+Agent-Freehand : Thank you, I am doing great.
+Agent : Thank you for your years of loyalty to ABC!
+Agent-Freehand : Please give me few moments while I gather some information on your request.
+Customer : thank you brandon. I saw that the same plan i have is offered to new customers at the same rate i was paying before (11.11 plus the 11 rent fee) and i was just hoping to get that again, im on a very tight budget and just cant afford anything else as embarrassing as that is
+Agent-Freehand : I will check that for you and if the deal is available, I will share with you.
+Agent-Freehand : Christina, I have checked your account and I would like to share that the same deal is currently unavailable in the account.
+Customer : ok
+Agent-Freehand : However, we can offer you 11/11 Mbps without any free 111/111 Mbps at $11.11 price. We can also go with 111/111 Mbps at $11.11 deal.
+Customer : if i do the 11/11 will it still go up $11.11 for the rent fee or does that price include the rent fee
+Agent-Freehand : Yes, you are correct!
+Agent-Freehand : Let me share a deal with you.
+Agent-Freehand : We can do the 11/11 Mbps plan at $11.11 + Rent: ABC Quantum Gateway Router = $11.11 + taxes and fees. With this deal we will offer you further $1 Auto Pay and Paper Free Discount and Free Google Chromecast.
+Agent-Freehand : If we go with deal and enroll in AutoPay and Paper Free billing, your monthly bill will be just $11.11/mo including taxes and fees.
+Agent-Freehand : You can purchase the router further at $111.11 to save $11/mo on rental.
+Customer : if i dont do autopay does it go up to $11.11 a month
+Agent-Freehand : It will be $1/mo more without Auto Pay.
+Customer : okay. 
+Customer : can you tell me when the actual discount expires, as in the day i should call and cancel the account
+Agent-Freehand : Your discount will expire on 11/11/1111
+Customer : all i wanmt is for my bill to stay the same. My plan is offered to new customers at a lower rate so i just dont understand why the same deals cant be extended to good customers, i mean i never even pay my bill late.
+Customer : okay thank you.
+Agent-Freehand : I understand your concern.  All new customers are offered incentives and promotions at the time of their initial order; therefore, when you placed your order as a new customer, you received the promotion that was being offered at that time.
+Agent-Freehand : We value you as a long-time customer and do have special offer like Free Chromecast that you can take advantage of as well.
+Agent-Freehand : I would have been more than happy if I could have helped you with the same price. However, as the deal is unavailable, we would not be able to share with you.
+Customer : its fine thank you.
+Agent-Freehand : You are welcome.
+Agent-Freehand : Can you think of any additional questions that I can assist you with today?
+Customer : no thsnk you.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

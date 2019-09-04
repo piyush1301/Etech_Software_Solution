@@ -1,0 +1,58 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : I'm looking for a cheaper plan
+Customer : thanks
+Customer : ok
+Customer : ok
+Agent : Agent 'abc@abc.com' enters chat (as Luther)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Luther. Happy to help!
+Customer : thank you
+Agent-Freehand : Welcome.
+Agent-Freehand : May I know if you have any specific plan decided?
+Customer : no
+Agent-Freehand : Not an issue.
+Customer : ok
+Agent-Freehand : Let me take a moment to go through the account notes to ensure that I have all the required details handy.
+Agent-Freehand : I see that you are logged on to your MyABC account.
+Agent-Freehand : Thank you for safeguarding your account, Vanessa!
+Customer : u r welcome
+Agent-Freehand : Thanks
+Agent-Freehand : I see that you have ABC Internet 11/11 + ABC Phone service + ABC Ultimate HD TV pack for the total price of $111.11 a month before taxes,
+Agent-Freehand : I see that your Term agreement ends on :11/11/1111
+Customer : yes
+Agent-Freehand : So, are we keeping the same service plan?
+Customer : I wouldlike something cheaper because I pay $111 or more each month and my bill just keeps going up
+Agent-Freehand : I will be glad to look in to your account and review the options to get best value for your money.
+Customer : ok thanks
+Agent-Freehand : You are welcome.
+Agent-Freehand : I appreciate your patience.
+Customer : no problem
+Agent-Freehand : I see that if we are to keep the same service plan, there are some promotions that I can add to get you the new bundle price of $111.11 a month which is currently $111.11 a month, with the Price Lock Protection for 11 months.
+Customer : ok what are they
+Agent-Freehand : I see that I can get you a new version of Ultimate HD TV pack that covers 111+ channels with 111+ in HD rather than 111+ channels with 111+ in HD.
+Customer : what channels will be missing
+Agent-Freehand : Here is the link to get the up-to-date channel line up with all the details of the channel pack that ABC has to offer.
+
+Customer : ok will check it out
+Agent-Freehand : The channels that are there will be remaining but there will be HD channels and also you get STARZ + Showtime  Epix with it as a complimentary promotional offer.
+Customer : for how long
+Agent-Freehand : As long as you have Ultimate HD TV pack or you get notified otherwise.
+Customer : oh ok will check offers and get back to you tomorrow
+Agent-Freehand : Ohh! I am afraid the promotions that I have added might not be available tomorrow.
+Agent-Freehand : I can do one thing though.
+Customer : what is that
+Agent-Freehand : I will update your account notes so that tomorrow if a rep accesses your account, he/she will know what promotions I was able to add and if possible, he/she can try to get the same promotions.
+Agent-Freehand : Also, I see that I can add another promotion that will get you $1 discount per month for 11 months for just enrolling top Auto Pay option today.
+Customer : I dont do 
+Customer : Auto Pay because I dont get my check until the 1rd of the month
+Agent-Freehand : Alright!
+Agent-Freehand : I see that I can get you $111 credit towards a range of Google and Nest smart home devices with this bundle with new 1-year agreement.
+Agent-Freehand : Here is the link to get the product details for Google and Nest offer.
+
+Customer : ok can you tell me where to  check my emails i forgot
+Agent-Freehand : I am sorry?
+Customer : will get back to you
+Agent-Freehand : Alright!
+Customer : thanks
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,52 @@
+Opener :  Opener: Hi! Can I help answer any questions about your order?
+Customer : do you offer RAI italian tv?
+Agent : Agent 'abc@abc.com' enters chat (as Spencer)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Spencer. Happy to help!
+Agent-Freehand : Thank you for considering ABC services. I will be glad to help you with your online order.
+Agent-Freehand : Yes, we do offer International channel packages.
+Agent-Freehand : ABC Italian ($11.11/mo) include:
+
+
+RAI Italia (Italian) 
+Mediaset Italia
+Customer : Ok I would like to price basic tv with basic internet and add RAI. nothing else
+Customer : I dont see that option on the website
+Agent-Freehand : International channel packs are not available online.
+Agent-Freehand : I'll add it for you once we complete your order.
+Agent-Freehand : Could you please help me with the complete address along with the zip code where you want us to install new services?
+Customer : 111 east central blvd Floor 1, Palisades Park NJ 11111
+Agent-Freehand : Thank you for sharing your address.
+Agent-Freehand : Allow me few moments to check.
+Agent-Freehand : Do you currently have any ABC services?
+Customer : mo
+Customer : no
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : Have you checked the channel line up and decided on specific TV plan?
+Customer : home the family plan
+Agent-Freehand : Thank you for sharing this information.
+Agent : How many TV’s are we connecting today?  Do you have existing outlets where you want your TVs?
+Customer : 1 and yes
+Customer : hbave direct tv now
+Customer : would like to switch
+Agent-Freehand : Are you looking for recording capabilities on your TV?
+Customer : no
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : You can rent the router for $11/mo.(effective 11/11/1111, it will be $11/mo) or you can buy it for $111.11 one time charge.
+Agent-Freehand : Which option you would prefer?
+Customer : rent
+Agent-Freehand : Sure! Allow me few moments to make selections for your order.
+Agent-Freehand : Great News! You'll get 11% discount on ABC Italian pack for 1 months.
+Agent-Freehand : Your estimated bill with taxes & fees will be $111.11/mo.
+Customer : thats with basic everything?
+Agent-Freehand : Yes, it covers all service, equipment charge and taxes/fees. After 1 months, it will be approx $1/mo. additional as discount on ABC Italian pack will expire.
+Agent-Freehand : You'll get $111 Visa prepaid card, $111 credit towards Google and Nest Smart home devices and $11 Set up fee will be waived.
+Agent-Freehand : How does that sounds to you?
+Customer : Spectrum is under $111/mo so ill be going that way 
+Agent-Freehand : No worries! It's completely your choice' however, let me share that cable providers cannot match ABC when it comes to quality and consistency of services and speeds which we provide with ABC Gigabit Connection.
+Customer : understood, thanks for your time.
+Agent-Freehand : This is real time deal and I do not guarantee the same price and promotion at later point of time.
+Agent-Freehand : I appreciate your valuable time and patience.
+Agent-Freehand : May I provide you with any other support?
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

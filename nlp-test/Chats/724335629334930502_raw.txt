@@ -1,0 +1,56 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : just checking when my deal expires . I am looking to keep same deal at same price  because we are retired
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Agent 'abc@abc.com' enters chat (as Mike)
+Customer : ok
+Agent : Hey there! My name is Mike. Happy to help!
+Agent-Freehand : We will check on best options to renew.
+Customer : ok
+Agent-Freehand : With whom do I have pleasure of chatting today?
+Customer : wayne
+Agent-Freehand : Nice to meet you, Wayne.
+Customer : thanks
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : ok
+Agent-Freehand : Thank you.
+Customer : mike are you still there
+Agent-Freehand : Yes, I am checking on best price to renew.
+Customer :        thanks
+Agent-Freehand : My pleasure.
+Agent-Freehand : I see your new total on renewal for same plan will be $111.11. This includes all taxes and fees.
+Agent-Freehand : Plus you will get $111 off towards Google and nest devices as part of renewal promotions.
+Customer : don,t know if I can afford that much of an increase
+Agent-Freehand : Your last bill was $111.11/mo including all taxes.
+Customer : Yes i know but we are limited with our budget
+Agent-Freehand : I understand and this is best price for level of service you have now and you will save on long term with price guarantee for 1 years.
+Agent-Freehand : The best I can do is add another $1/mo discount to complete renewal now.
+Agent-Freehand : This will be like another $111 savings on renewal price over 11 months.
+Agent-Freehand : This makes your new total $111.11
+Agent-Freehand : It includes all taxes and fees.
+Agent-Freehand : Would you like to go ahead and secure the renewal price we have now?
+Customer : mike give me a minute to discuss with my wife this price is for 11 months ,right
+Agent-Freehand : Yes, you get 11 months price guarantee on bundle price.
+Agent-Freehand : I will customize the order and send you an email with link to review the order. Can you help me with email address where you can get the link now?
+Customer : yes mike please renew  at  the quoted price of 111.11 for 11 months and also when does it starts  I hope at the end of my previous 1 year contract my e-mail address is abc@abc.com
+Agent-Freehand : Thank you. I can select 11/11/1111 as new renewal date.
+Agent-Freehand : Allow me a moment please.
+Customer : ok
+Agent-Freehand : Thank you.
+Agent-Freehand : I am working on your request and almost done.
+Customer : ok
+Agent-Freehand : Thank you.
+Agent-Freehand : I appreciate your patience.
+Customer : thanks
+Agent-Freehand : I've sent an email with the link to view the cart(with changes we have discussed). Please review the cart and let me know once you have reviewed it, so I can go ahead and finalize the order from my end. Please feel free to ask any questions you may have while reviewing the cart.
+Customer : ok
+Agent-Freehand : Thank you. I am right here with you.
+Agent-Freehand : Did you get the link in email?
+Customer : am trying to access it now
+Agent-Freehand : Thank you.
+Customer :  I am going to have to close this window to go to my e-mail account will you still be on line if  I do that
+Agent-Freehand : Please do not close chat window.
+Agent-Freehand : You can minimize the chat window and check your email.
+Customer : ok
+Agent-Freehand : Thank you. Let me know once you review quote and continue to agree terms and hit I agree so that I can submit order from my end.
+Customer : The customer closed the browser window
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,87 @@
+Opener :  Opener: Hi! Can I help answer any questions about your order?
+Customer : hellp
+Agent : Agent 'abc@abc.com' enters chat (as Spencer)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Spencer. Happy to help!
+Agent-Freehand : Good Morning!
+Agent-Freehand : Thank you for considering ABC services.
+Agent-Freehand : I'll be glad to assist you with your online order and scheduling installation.
+Customer : good morning,
+Customer : wanted to know if your service is available in my area
+Agent-Freehand : Could you please help me with the complete address along with the zip code where you want us to install new services?
+Customer : 111 franklin ave. brooklyn ny 11111
+Agent-Freehand : Thank you for sharing your address.
+Agent-Freehand : Do you currently have any ABC services?
+Customer : no i dont
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : Is that floor 1?
+Customer : yes
+Agent-Freehand : Thank you for confirming.
+Agent : Great news! You qualify for ABC! Let’s discuss which options are best for you.
+Agent : What are your must have TV stations/networks?
+Customer : im interested in the promotion you guys have 
+Agent-Freehand : Could you please share which promotion you are referring to?
+Customer : 11.11/ 111 visa card/ 111 towards range of google
+Agent-Freehand : Sure! Let me share that $11.11 is just bundle price and does not include equipment charge and taxes/fees.
+Agent : How many TV’s are we connecting today?  Do you have existing outlets where you want your TVs?
+Customer : 1 rooms
+Customer : when you say outliet your mean power outlets?
+Agent-Freehand : I am referring to coaxial outlet. Are your TV's connected now?
+Customer : i currently have optimum tv in my house
+Agent-Freehand : Are your TV's connected and working currently?
+Customer : yes
+Agent-Freehand : Great! Your existing outlets will work with ABC TV service as well.
+Agent-Freehand : Are you looking for recording capabilities on your TV's?
+Customer : no im not, is that a free service or an additional cost?
+Agent-Freehand : It is additional charge for DVR Service.
+Customer : ok
+Agent-Freehand : Each HD Set top box is $11/mo. So, 1 HD boxes for 1 TV's will be $11/mo. on top of $11.11/mo. bundle price.
+Customer : is it possible to finish this discussion over the phone? i have to move away from my computer for a while
+Agent-Freehand : You can rent the router for $11/mo.(effective 11/11/1111, it will be $11/mo.) or you can buy it for $111.11 one time charge.
+Agent-Freehand : Since we are in the online chat department, the calling option is not available.
+Agent-Freehand : Also, $11 Set up fee is waived with orders online only.
+Customer : ok so is there a tv and internet bundle, because i wouldn't ever use the phone service?
+Agent-Freehand : Would you like to rent the router or buy it?
+Agent-Freehand : Yes, you can sign up for TV and Internet bundle plan; however, it will be same price and it will not include Visa prepaid card.
+Customer : ok
+Agent-Freehand : Would you like to rent the router or buy it?
+Customer : i would more than likely buy it.
+Customer : it comes with a warrenty?
+Agent-Freehand : Yes, you'll get 11 months manufacturing warranty.
+Agent-Freehand : Are you interested in sports channels?
+Customer : no im not
+Customer : just looking for the minimum package
+Agent-Freehand : Please click on below link and check the channels included in Custom TV - Action & Entertainment plan:
+
+
+Customer : if i need an additional box in the future would i have to pay an additional conncetion fee?
+Agent-Freehand : You can get it in mail and connect it yourself or you can pick up from store as well.
+Customer : ok
+Customer : ok so 1 rooms with the service will cost me how much every month?
+Agent-Freehand : I am checking on your request.
+Agent-Freehand : Please let me know once you have checked the channel line up.
+Customer : yes i looked it over
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : It will be $11/mo. for three Set top box .
+Agent-Freehand : Your monthly charge will be $11.11 + $11 = $111.11/mo. plus taxes & fees.
+Agent-Freehand : Estimated bill with taxes & fees will be $111.11/,mo.
+Customer : so 1 boxes and 1 boxes are the same price. i ask because you said earlier that 1 boxes are 11
+Agent-Freehand : I apologize for the confusion. I mistakenly shared price for three boxes earlier. It will be $11/mo. for each HD box and three boxes will be $11/mo and 1 boxes will be $11/mo.
+Agent-Freehand : For your online order now, we will waive the $11 Set up fee.
+Agent-Freehand : You'll get $111 Visa prepaid card and $111 credit towards Google and Nest Smart home devices.
+Agent-Freehand : You'll not be charged upfront with your online order now.
+Agent-Freehand : It generally takes 1-1 business days to get service installed. You'll get option to select convenient installation date once you complete credit check.
+Agent-Freehand : I'll guide you step by step with your online order and scheduling installation.
+Agent-Freehand : Should we go ahead and lock this deal?
+Customer : so you require a social security number for your service?
+Agent-Freehand : Yes, that's correct. You can proceed without credit check; however, there might be refundable deposit required of $111 which will be charged upfront now with your order.
+Customer : i will have to discuss this over with my girlfriend when she get home, shes the one getting the service
+Customer : thank you for your time, i will contact you guys later this evening
+Agent-Freehand : I understand; however, this is time sensitive offer and same deal might not be available later.
+Agent-Freehand : You'll not be charged upfront now with the order and I would request you to go ahead and secure this deal now.
+Customer : yes but she isnt here and i dont have her information
+Agent-Freehand : I can hold while you get information and assist you further.
+Agent-Freehand : Just checking, are we still connected?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

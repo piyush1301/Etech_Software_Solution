@@ -1,0 +1,41 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : Need help with order status
+Agent : Agent 'abc@abc.com' enters chat (as Jamie)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Jamie. Happy to help!
+Agent-Freehand : Sure! May I know with whom do I have pleasure of chatting with?.
+Customer : Garrett Allen
+Agent-Freehand : Nice to meet you today!
+Agent-Freehand : Just to confirm, are you logged In to your My ABC account?
+Customer : Yes
+Agent-Freehand : Thank you for safeguarding your account
+Agent-Freehand : Please allow me few moments, I will pull up your account real quick
+Agent-Freehand : I appreciate your patience
+Agent-Freehand : I can see that Pending order VA11111111111 is active in your account
+Agent-Freehand : I can see that I appreciate your patience VA11111111111
+Agent-Freehand : Please ignore the above response, My apologies.
+Agent-Freehand : Your technician will arrive Monday, Aug. 11 , 1111 at 11:11 PM - 11:11 PM
+Customer : Yes I’ve tried to make changes but every time I log onto the app it’s says there are actions required for my changes
+Agent-Freehand : Oh, may I know what changes you're looking to make?
+Customer : I have preferred hd with no recording abilities and I’d like to list my number instead of $1 to have it unlisted 
+Agent-Freehand : Sure
+Agent-Freehand : Let me check this for you
+Agent-Freehand : Do you wish to add DVR service?
+Customer : No
+Agent-Freehand : Thank you for confirming
+Agent-Freehand : I have checked and you currently have listed number only.
+Customer : Ok just wanted to make sure when I log on it says unlisted for $1
+Agent-Freehand : Do not worry, I have checked and the number is "Listed"
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : Yes do you have access to the monthly bill estimate?
+Agent-Freehand : Yes
+Agent-Freehand : I have sent price quote at abc@abc.com
+Agent-Freehand : Please check
+Customer : Got it thanks
+Agent-Freehand : You're most welcome!
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : No thanks 
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,35 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : yes I am wondering what the plan provides
+Agent : Agent 'abc@abc.com' enters chat (as Carl)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : ok
+Agent : Hey there! My name is Carl. Happy to help!
+Agent-Freehand : Which plan are you checking?
+Customer : my current plan vs renewing
+Agent-Freehand : I see.
+Customer : current plan agreement is expired and want to know what new agreement is
+Agent-Freehand : The online account shows you the best customizable offer on your account per your current package.
+Agent-Freehand : Let me bring up the account and check the details.
+Customer : ok where are the details? I clicked on price details and chat box opened
+Agent-Freehand : I can see that you are currently logged in to your account. While I am pulling up the account, may I know with whom do I have pleasure of chatting today?
+Customer : Roberta Ross
+Agent-Freehand : Good morning Roberta.
+Agent-Freehand : Are you seeing the $111.11 per month offer on your account?
+Customer : yes
+Agent-Freehand : You have the old TV plan, Prime HD+11/11 mbps Internet and PHone in the bundle. The bundle price is $111.11+equipment charges+fees and taxes
+Agent-Freehand : The new plan gives you the latest Preferred HD TV plan +11/11 mbps Internet+Phone for $111.11+equipment charges+fees and taxes
+Customer : ok
+Agent-Freehand : With this plan the bill will be $111.11 per month including taxes. If you sign up for autopay the bill will be $111.11 per month.
+Customer : bundle price on current bill says 111.11
+Agent-Freehand : Correct, but with Month to Month plan the price would keep changing. What I see on my screen, the price is increased to $111.11
+Customer : ok thanks have to go
+Agent-Freehand : We lock the price $111.11/mo for next 11 months.
+Customer : will check back later
+Agent-Freehand : Okay.
+Agent-Freehand : Get $111 towards a range of Google and Nest smart home devices with this bundles with 1-year agreement.
+Agent-Freehand : Would you like renew with this offer?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Customer connection lost. The customer lost network connectivity
+System : SALE OCCURRED

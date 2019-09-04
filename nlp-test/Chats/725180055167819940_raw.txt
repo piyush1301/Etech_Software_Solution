@@ -1,0 +1,32 @@
+Opener :  Opener: Hi! Chat now to get our best ABC offers and find out how to save $11!
+Customer : hi
+Agent : Agent 'abc@abc.com' enters chat (as Jerome)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Hey there! My name is Jerome. Happy to help you in ordering the services.
+Customer : I just signed up for 11.11 deal + $111 towards google and forgot to apply the company discounts that adds additional $111 prepaid visa minus another $1 from the monthly payment. Can you help me with this?
+Agent-Freehand : Sure,. I would like to inform you that you can add the discounts once the service are installed. Have you checked for the eligibility for the discounts?
+Customer : yes
+Customer : and I'm eligible 
+Agent-Freehand : Thank you for confirming
+Agent-Freehand : We can add the employee discounts once the services are installed please do not worry about it, I will help you with the link to proceed with the steps.
+Customer : it is already installed. since Sunday
+Agent-Freehand : Have you got the order number so that I can check if $111 visa card is included in your order?
+Customer : one sec
+Agent-Freehand : Sure, take your time.
+Customer : VA11111111111
+Agent-Freehand : Thank you for helping me with the order number
+Customer : visa and additional $1 discunt
+Customer : correct?
+Agent-Freehand : I can check for the visa card details and for $1.11 discounts I will help you with the link to proceed.
+Agent : To check your eligibility for our great ABC Connections program, please visit the following link: http://www.ABC.com/home/ABCconnections 
+Agent-Freehand : Please access the above link and enter your employee email and check , after that please check your work email, you will got an email with a link.
+Agent-Freehand : Let me know once you complete these steps./
+Agent-Freehand : While I am pulling up the account, may I know with whom do I have pleasure of chatting today?
+Customer : Andrei.
+Customer : I have to go unfortunately we will have to pick this up another time sorry.,
+Agent-Freehand : Nice to meet you, hope you are doing good today!
+Agent-Freehand : To be sure, Are we still connected?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Customer connection lost. The customer lost network connectivity

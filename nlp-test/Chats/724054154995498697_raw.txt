@@ -1,0 +1,182 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : what is the cost for just ABC gig speeds in my area.  I noticed it asked me to add TV, but don't really care to have TV
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Agent 'abc@abc.com' enters chat (as Spencer)
+Agent : Hey there! My name is Spencer. Happy to help!
+Agent-Freehand : ABC Gigabit Connection plan only will be $11.11/mo. before taxes.
+Agent-Freehand : With this plan, we will waive the router rental fee.
+Agent-Freehand : There will be no contract and you'll get three year price guarantee and router rental fee waived for three years.
+Agent-Freehand : Also, you'll get $111 Visa prepaid card and $11 Set up fee will be waived.
+Agent-Freehand : How does that sounds to you?
+Customer : hello
+Agent-Freehand : Hi! Nice to meet you!
+Customer : okay...
+Agent-Freehand : You'll not be charged upfront with your online order now.
+Customer : depending how you search ABC on google, it seems like 11 different offers pop up
+Agent-Freehand : You'll get first bill within 11-11 days from the date of installation.
+Customer : all similar, but different
+Customer : what is the best bundle deal you offer?
+Agent-Freehand : It generally takes 1-1 business days to get services installed. You'll get option to select earliest installation date once you complete the credit check.
+Agent-Freehand : $11.11 bundle price with Custom TV, Internet, phone plus equipment charge, taxes & fees.
+Agent-Freehand : Are you looking to sig up for bundle package or internet only?
+Agent-Freehand : sign*
+Customer : depends... 
+Customer : some packaged "dangle" TV and phone (don't need) for like $11 bucks more
+Customer : but internet speeds is the most important
+Agent-Freehand : $11.11 is bundle price and does not include equipment charge.
+Customer : hmm.
+Customer : that's a $11 difference
+Agent-Freehand : $11.11 + $11 router rental fee + price for HD boxes + taxes/fees.
+Agent : How many TV’s are we connecting today?  Do you have existing outlets where you want your TVs?
+Customer : yes...
+Customer : 1 TV... not worried about the second one
+Customer : google chrome for that
+Agent-Freehand : Are you looking for recording capabilities on your TV?
+Customer : we had it before.. but it's not important enough to pay for it
+Agent-Freehand : Sure! It will be $11.11 + $11 router + $11 HD box = $111.11 plus taxes & fees.
+Customer : what speeds?
+Customer : 1g up/dwn?
+Agent : With 111 mbps download and 111 upload speeds our ABC Gigabit service allows you and your household the ability to game, stream, and securely browse online all at the same time.
+Agent-Freehand : 111* upload
+Customer : okay
+Customer : how many channels included in that mentioned package?
+Agent-Freehand : We have 1 different Custom TV plans. You can select any one of them.
+Agent-Freehand : Are you interested in sports channels?
+Customer : yes..
+Agent-Freehand : One moment please.
+Customer : okay... it looks like I have the pckg you are referring to in my cart
+Customer : last question, what is the install lead time for zipcode 11111
+Agent-Freehand : It generally takes 1-1 business days to get services installed. You'll get option to select earliest installation date once you complete the credit check.
+Agent-Freehand : Please check channels included in Custom TV - Sports & News plan:
+
+
+Customer : is it a hard check or soft check?
+Customer : I just don't like hard inquiries on my credit
+Agent-Freehand : It will be hard check.
+Agent-Freehand : You can proceed without credit check; however, there might be refundable deposit required of upto $111 which will be charged upfront now.
+Agent-Freehand : It is fully refundable deposit.
+Agent-Freehand : It can take any where from 1 to 11 months to receive your refundable deposit back.  ABC also requires that there are no greater than 1 payment delinquencies per 11 month period, 1 payment delinquency per any 1 month period.
+Customer : okay... I work through the options during checkout
+Agent-Freehand : Sure! Please keep this chat window open while you go through the order process. In case you have any questions during the order process, please feel free to ask me. I am right here with you.
+Customer : okay... can't promise it'll be quick though
+Customer : I'm pretty thurough
+Agent-Freehand : I completely understand your concern and I'll be right here with you to answer your questions while you proceed with the order online. Please let me know if you face any issue.
+Customer : what is "mundo" TV?
+Agent-Freehand : It include Spanish channels.
+Customer : Ah... that's what I was thinking
+Customer : thanks
+Agent-Freehand : No problem! Have you checked the channel line up for Sports & News plan?
+Customer : I did, I chose the preferred HD package which seemed to be the easiest
+Agent-Freehand : Sure! It will be $11/mo. additional as compared to Custom TV plan.
+Customer : actually I think I'll go with acustom plan
+Customer : its close enough and cheaper
+Agent-Freehand : No worries! If required, you can upgrade or downgrade your TV plan anytime.
+Customer : and the phone line is free?
+Agent-Freehand : It will be same price in bundle package; however, taxes on phone service will be additional.
+Customer : so, with the free digital adaptor it says that it doesn't have features like HD
+Customer : what does that mean?
+Customer : is that dependant on my current tv?
+Agent-Freehand : Yes, you'll not be able to watch HD channels, On Demand, Media Guide, Parental controls etc.. with Digital adapter.
+Agent-Freehand : It will only allow to watch standard channels.
+Customer : so the HD channels in said package is really a moot point?
+Agent-Freehand : Yes, you'll need HD box to watch all channels. It will be $11/mo. for HD box.
+Customer : okay
+Customer : so I need to add the DVR box for $11 or $11?
+Agent-Freehand : Please select "NO" for Digital adapter and select 1 under "how many additional TV's" option to get 1 HD box.
+Agent-Freehand : DVR is for recording capabilities on TV's and it will be additional on top of HD box charge.
+Customer : got it
+Customer : if I chose a DVR, does it include the HD box?
+Agent-Freehand : It does not include HD box.
+Agent-Freehand : It is service added on HD box.
+Agent-Freehand : So, it will be $11 for HD box + $11 for DVR service = $11/mo.
+Customer : ok
+Agent-Freehand : I appreciate your patience.
+Customer : for the quantum gateway rental
+Customer : if I chose to purchase it would it have to be from ABC?
+Agent-Freehand : Yes, it is only provided by ABC and there are no third party authorized to sell ABC branded equipment.
+Customer : does the purchase include software updates?
+Customer : and any equip refreshes/upgrade/turn-in options when the netowrk upgrades require an equip swap
+Agent-Freehand : It will not be replaced with new equipment. Software upgrade will be included. You'll get 11 months warranty on it.
+Customer : okay
+Customer : what is the current model number for the gateway
+Agent-Freehand : ABC Quantum Gateway #G1111
+Customer : thanks
+Agent-Freehand : You are welcome!
+Agent-Freehand : Have you made selections for bundle package?
+Customer : most of them
+Agent-Freehand : Great! Please let me know once you are on checkout page.
+Agent-Freehand : I hope everything is going well with your online order.
+Customer : haha it is. 
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : Please enter your contact info, billing address and click on "Continue".
+Customer : I'm comparing packages between xfinity and ABC
+Agent-Freehand : On next page, enter Date of Birth, SSN and run credit check, so that you can select convenient installation date without any hassle
+Customer : told I was thorough... I take a while
+Agent : While comparing services, you might want to keep in mind that with cable you might end up sharing your internet speeds with your neighbors. This isn't the case with ABC. We offer you reliability and quality that you deserve.
+Customer : got it
+Customer : my credit check needs your assistance
+Agent-Freehand : Have you entered your SSN and Date of Birth and selected check box for approving credit check?
+Customer : i'll try again
+Customer : but yes
+Agent-Freehand : Please do not enter SSN this time.
+Customer : I have a watchdog on my account
+Agent-Freehand : Please select "I do not wish to enter my ssn" and remove credit check option.
+Agent-Freehand : Just enter Date of Birth and SKIP security questions.
+Agent-Freehand : Once you complete the order, you'll need to call credit verification center.
+Customer : okay
+Agent-Freehand : Please proceed without SSN and credit check.
+Agent-Freehand : Let me know once you complete the order.
+System : SALE OCCURRED
+Customer : done
+Customer : also, how do I puchase the NEST/google products
+Customer : with that 111 credit
+Agent-Freehand : You'll get a unique link to redeem this offer in 11 days from the date of installation.
+Customer : okay
+Agent-Freehand : Please call our credit verification center and let me know once your credit check is approved, so that I can schedule the installation appointment.
+Agent-Freehand : Also, please check with them, if deposit is required to complete your order as we are not authorized to accept deposit over chat.
+Customer : ok
+Agent-Freehand : Please take your time.
+Customer : after installed I assume you can tweak the pckg
+Customer : as necessary
+Agent-Freehand : You can upgrade or downgrade your plans anytime.
+Customer : or add DVR capabilities anytime?
+Agent-Freehand : Yes, however, equipment replacement might be required to add DVR as HD box does not have recording capabilities.
+Agent-Freehand : Are you connected with representative over phone?
+Customer : so a drop off/pickup at a local store?
+Customer : yes
+Agent-Freehand : Yes, you can do that if there is store near by.
+Customer : your patience will be fruitful, haha
+Agent-Freehand : No problem! Please let me know once credit check is approved and also check if deposit is required.
+Customer : i am approved
+Customer : no deposit
+Agent-Freehand : Great! May I have your first name and last name, please?
+Customer : she wants transfer me to the sales department
+Customer : Jason Ylagan
+Agent-Freehand : You can say that you are already connected to sales team over chat.
+Customer : 1111ABC *sales department
+Agent-Freehand : One moment please.
+Customer : (sorry, needed to put that somewhere)
+Agent-Freehand : Your order is currently worked by our backend team. It may take few moments or 1-1 hours as well.
+Customer : after that you can provide a install date?
+Agent-Freehand : Yes, I am checking if I can get it now for you.
+Customer : I need the soonest, haha
+Agent-Freehand : I understand.
+Agent-Freehand : Thank you for your patience.
+Agent-Freehand : I apologize; however, order is on hold by our backend team. It may take 1-1 hours to get it approved by our backend team.
+Agent-Freehand : I would recommend you to chat with us after 1 hours. One of my colleague will be happy to help you in scheduling installation.
+Customer : okay.  how will I know when I can get scheduled?
+Customer : okay
+Customer : I'll call the number
+Customer : what is the backend team again?
+Agent-Freehand : Once you complete the order, our backend team verify the details and check if all the online discounts and bundle package is correct as per your order.
+Customer : okay
+Customer : thanks
+Agent-Freehand : I appreciate your valuable time and patience.
+Agent-Freehand : May I provide you with any other support?
+Customer : nope
+Customer : I'm good, thanks for your help
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.
+Agent-Freehand : Have a nice day!
+Agent-Freehand : Bye! Take care!!
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

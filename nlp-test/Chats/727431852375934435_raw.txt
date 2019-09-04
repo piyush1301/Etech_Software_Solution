@@ -1,0 +1,73 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : looking at plan options
+Agent : Agent 'abc@abc.com' enters chat (as Holly)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Holly. Happy to help!
+Customer : ok
+Agent-Freehand : Thank you for being a valued ABC customer.
+Agent-Freehand : I will review the account and assist you with options for the plans
+Agent-Freehand : To confirm are you already logged in and on ABC account page now?
+Customer : yes
+Agent-Freehand : Please give me few moment while I pull your account and review so that I can assist you further.
+Agent-Freehand : Thank you for your time for safeguarding the account Michelle.
+Agent-Freehand : I can see that you currently have ABC Triple Play bundle services and have our old ABC SElect HD plan now.
+Agent : Thank you for your years of loyalty to ABC!
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : What are your must have TV stations/networks?
+Agent : Agent 'abc@abc.com' loses connection
+Customer : History Channel, A&E, FX, ID, BBC, National Geographic, HGTV
+Agent : Agent 'abc@abc.com' enters chat (as Adrian)
+Agent : Hey there! My name is Adrian. Happy to help!
+Customer : ok
+Agent-Freehand : Please allow me a moment to go through your last chat.
+Agent-Freehand : I see you wish to look for the nest renewal plans, correct?
+Customer : ?
+Agent-Freehand : I see you wish to check for the best renewal plans correct?
+Customer : yes
+Agent-Freehand : I will be glad to check this for you, I will have to pull your account. I will need some details.
+
+May I please know with whom I have the pleasure of chatting?
+Customer : Michelle
+Customer : Gardner
+Agent-Freehand : Michelle!
+Agent-Freehand : v
+I hope you are having a great day.
+
+May I please know if you are logged in to your My ABC account?
+Customer : yes i am
+Agent-Freehand : Thank You for safeguarding your account.
+
+Please allow me a moment to pull your account and go through the details.
+Agent-Freehand : I am now going through all the new offers on your account, I will then share that best with you.
+Agent-Freehand : I have checked and I see your currentTerm agreement ends on :11/11/1111, however your disocunts will all end on 11/11/1111  however as the contract did end there will be rise in Bundle Charges by up to $11-$11. 
+
+As of now the best I see is with all the services the same , the new prices for you will be  $111.11 after taxes, it is $11 more than your current charges and with it you also 
+$111 toward Google and Nest devices  
+
+$1.11 
+ 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make Changes Checkout
+Customer : I don't understand.  My contract doesn't end until 1/1 but you say that it 'did end'?
+Agent-Freehand : My apologies, When it does ends.**
+Customer : ok. how much is just internet?
+Agent-Freehand : I am afraid as an online sales representative I am not the right man for this as we do not have access to process anything related to cancellation of services. I recommend contacting the Cancellation Department for assistance with your concern. Would you like me to provide you more information about contacting this department?
+Customer : no thank you
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

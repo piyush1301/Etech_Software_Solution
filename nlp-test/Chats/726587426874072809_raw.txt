@@ -1,0 +1,26 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : Hi 
+Agent : Agent 'abc@abc.com' enters chat (as Dominick)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Dominick. Happy to help!
+Customer : I need to move my services and was told it was not available on my street
+Agent-Freehand : Hi!
+Customer : but I see a ABC connection on a pole about 111 ft away from my house
+Customer : is it possible to move my services after all
+Agent-Freehand : Could you please let me know your new address with the Zip code?
+Agent-Freehand : Complete address*
+Customer : 11 Dunbar Ave, North Providence RI 11111
+Customer : the ABC connection is on pole 1 dunbar ave
+Customer : in front of 1 dunbar ave
+Agent-Freehand : Let me check , allow me few minutes.
+Customer : yes check google earth
+Customer : its visible on that also
+Agent-Freehand : I would like to inform that the connection may be in the location but may be in progress.
+Customer : I don't understand
+Agent-Freehand : Every location availability depends on the individual location. If it is not available as of now than it would not be possible.
+Customer : Thats what I mean I was told it was not on the street but its is built out
+Customer : it appears that someone idd have it at one point
+Customer : its just up the street from my new address
+Customer : Can a technician please attempt an install
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,63 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : Hi
+Agent : Agent 'abc@abc.com' enters chat (as Mike)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Mike. Happy to help!
+Customer : I recently joined you guys 
+Agent-Freehand : Welcome to the ABC family.
+Customer : but I need to get  rid of SD ports package 
+Agent-Freehand : I see.
+Customer : I need showtime, boomerang and usa
+Agent-Freehand : We will check on best package as per your needs.
+Agent-Freehand : With whom do I have pleasure of chatting today?
+Customer : ok
+Customer : trevor
+Agent-Freehand : Nice to meet you, Trevor.
+Customer : thank you
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : ok
+Agent-Freehand : Thank you.
+Agent-Freehand : I see ABC TV Custom-Kids & pop has both Boomerang and USA.
+Agent-Freehand : Let me send you channel line up link to review.
+Agent-Freehand : 
+Customer : That's probably gonna work better 
+Agent-Freehand : Please use above link and let me know if ABC Tv custom-Kids & Pop will work for you or not before we go ahead with changes.
+Customer : OK will it change the amount I have to pay? 
+Agent-Freehand : The bundle price will be same.
+Agent-Freehand : Are you looking to replace Starz with Showtime ?
+Agent-Freehand : Or just add Showtime as add on for $11/mo more?
+Customer : No we are going to need both 
+Agent-Freehand : Okay. Let me send you a quote.
+Customer : ok
+Agent-Freehand : May I have email address please?
+Customer : abc@abc.com
+Agent-Freehand : Thank you. Allow me a moment please.
+Agent-Freehand : I've sent an email with the link to view the cart(with changes we have discussed). Please review the cart and let me know once you have reviewed it, so I can go ahead and finalize the order from my end. Please feel free to ask any questions you may have while reviewing the cart.
+Agent-Freehand : Let me know once you review and continue to agree so that I can submit order from my end.
+Customer : OK that's perfect 
+Customer : one other thing 
+Customer : the sales rep said I will have a 11.11 reoccurring credit for being a medic with the fdny
+Customer : and that we have the option between the chrome book or the 111 dollar google voucher 
+Agent-Freehand : You get email after 11 days to redeem chromebook.
+Agent-Freehand : I will send you a link to check on connection discount you can get.
+Agent-Freehand : Please continue to review terms and let me know once you hit I agree so that I can submit order from my end.
+Customer : ok
+Customer : done 
+Agent-Freehand : Let me submit order from my end.
+Agent-Freehand : Thank you for your order.
+
+Order number: NY11111111111
+Agent : To check your eligibility for our great ABC Connections program, please visit the following link: http://www.ABC.com/home/ABCconnections 
+Customer : You're welcone
+Customer : welcome will changes take effect today 
+Agent-Freehand : Yes, it will be effective within 11 hours.
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : OK thank-you 
+Customer : so much
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Customer : Yes you have
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent-Freehand : Have a blessed day ahead. Take care.
+Agent-Freehand : Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

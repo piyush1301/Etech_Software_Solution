@@ -1,0 +1,141 @@
+Opener :  Opener: Hi! I can help complete your order. What questions do you have?
+Customer : why did the price change?
+Agent : Agent 'abc@abc.com' enters chat (as Lionel)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Lionel. Happy to help!
+Agent : I see that you are working on your order, how can I assist you with any questions about the process?
+Customer : i'm worried about the price change
+Customer : ist said 11.11
+Agent-Freehand : Ok.
+Customer : why did it change?
+Agent-Freehand : You are referring to the bundle price right?
+Customer : right
+Agent-Freehand : It is $11.11 now right?
+Customer : no they are giving a $11 bonus to employees of valley hospital
+Agent-Freehand : Perfect!
+Agent-Freehand : In that case your monthly deal will be $11 more less.
+Agent-Freehand : Were you able to see $11 discount as ABC Connections discount in your deal?
+Customer : I do not see that
+Customer : it was 11.11 until I added 1 tv
+Customer : so what is the 11.11 for?
+Agent-Freehand : Let me share the bundle price we offer is $11.11.
+Agent-Freehand : I am not sure about $11.11 deal.
+Agent-Freehand : Have you selected ABC Gigabit+ Custom TV plan + Phone service?
+Customer : no I did not
+Agent-Freehand : Which services you wish to order today?
+Customer : maybe I will call tomorrow for help
+Customer : tv, phone 
+Customer : and internet
+Agent-Freehand : In that case I recommend to go with the best in market deal as $11.11
+Agent : With our ABC triple play all your needs will be covered, Not only will you have stunning picture clarity with our ABC TV service to enjoy all your favorite shows, with 111 mbps download and 111mbps upload speeds our ABC Gigabit service allows you and your household the ability to game, stream, and securely browse online all at the same time. ABC Digital voice will give you the peace of mind and flexibility of having a home line to stay connected with friends and family and unlimited calling throughout the U.S.
+Agent-Freehand : I personally recommend to make the selections with best services and proceed with it as you wish for Internet, TV and phone this is the best deal.
+Customer : in that case what happens with my employee discount?
+Agent-Freehand : It will be added as it is. I recommend to place the order today itself as if you place the order tomorrow there might be chances you will loose it and have to add it again.
+Customer : Am I still goin to get my visa card with the rest of the offer?
+Agent : Order a Triple Play (Custom TV, Gigabit Connection and Phone) for $11.11 with Auto Pay and Two Year Price Guarantee and get $111 towards a range of Google and Nest smart home devices. Order now and also get a $111 Visa Prepaid card!
+Customer : ok Lionel
+Agent-Freehand : Perfect! Please make the selections as I have shared and proceed with your order.
+Customer : I don't know what is going on; I can't go back to that page
+Customer : Are you able to order it on my behalf?
+Agent-Freehand : I can make a deal but to apply the employee discount you have to proceed with it.
+Agent-Freehand : You are on the selections page right?
+Customer : it's gone
+Agent-Freehand : No problem.
+Agent-Freehand : Let me help you with a link to add employee discount and proceed with it.
+Agent : To check your eligibility for our great ABC Connections program, please visit the following link: http://www.ABC.com/home/ABCconnections 
+Agent-Freehand : Please proceed with the link to apply the employee discount.
+Agent-Freehand : Once you are on the selections page please update me.
+Customer : ok thanks
+Agent-Freehand : You are most welcome.
+Agent-Freehand : Please stay connected with me.
+Customer : i am on that page
+Agent-Freehand : Perfect!
+Agent-Freehand : Please make the selections as ABC Gigabit + Any custom TV plan + Phone service.
+Agent-Freehand : Update me once you are done with the selections.
+Agent-Freehand : You have my undivided attention.
+Customer : I dont see that option.
+Agent-Freehand : Which option you are referring?
+Customer : it asking me to pick my service
+Agent-Freehand : Yes. Please select as ABC Gigabit in the internet plan.
+Customer : do you mean the gigabit connection?
+Customer : i do not see ABC gigabit
+Agent-Freehand : Yes please select it,.
+Agent-Freehand : Then select any Custom TV plan as per your need.
+Customer : please, i did
+Agent-Freehand : Perfect! Please select ABC Phone plan.
+Customer : the phone option turned gray
+Customer : and not letting me select
+Agent-Freehand : Please double check if any actions is required in the above selections?
+Customer : ok
+Agent-Freehand : Thanks.
+Customer : ok I am finished, but the price 
+Customer : hi
+Agent-Freehand : Yes.
+Agent-Freehand : have you clicked on checkout?
+Customer : not yet.
+Agent-Freehand : Please check the deal as share the price with me.
+Customer : it said 11.11
+Agent-Freehand : Perfect!
+Agent-Freehand : Please go ahead with it.
+Agent-Freehand : The $11.11 deal is the best promotional deal with more than $111/mo discounts.
+Agent-Freehand : It's the best deal with amazing services.
+Agent-Freehand : Please proceed with your order by clicking on checkout.
+Agent-Freehand : You can keep this chat window open and minimized in case you need any assistance while proceeding with your order.
+Agent-Freehand : If you face any difficulty while proceeding with your order please feel free to ask me any question. I am right here to help you.
+Agent-Freehand : Please take your time. I am right here for your assistance.
+Customer : I hope I will get my deal?
+Agent-Freehand : Yes,. It's the best deal.
+Customer : i checked out
+Agent-Freehand : Please do not worry about the employee discount in case if it is not added you can add it later as well.
+Agent-Freehand : You have my undivided attention.
+Customer : I will trust your words
+Agent-Freehand : Please be assured as $11.11 is the best renewal deal.
+Agent-Freehand : There is no better deal then $11.11 deal.
+Agent-Freehand : There will be additional charges for equipments and taxes as per your selections.
+Agent-Freehand : Please go ahead with your deal.
+Agent-Freehand : yes please.
+Customer : what additional charges?
+Agent-Freehand : You are on the selections page right?
+Customer : yes please
+Agent-Freehand : Perfect!
+Agent-Freehand : You are able to see the price at the top right?
+Customer : yes
+Agent-Freehand : Perfect! Please click on it there will be a drop down to check the price after taxes. As this price is before tax price.
+Agent-Freehand : It will be in Blue color as "Monthly bill estimate + taxes and fees
+"
+Agent-Freehand : Please click on it.
+Agent-Freehand : Please update me once you are done so that I can help you in placing the order.
+Customer : i did not see my discount
+Agent-Freehand : You are not able to see the $11 ABC connections discount.
+Agent-Freehand : Please do not worry about it as It will be added anytime once your services are active you can simply add it.
+Agent-Freehand : I apologize,
+Customer : what happens if i have a router
+Agent-Freehand : Just to update as you are proceeding with Employee discount it need to be added before.
+Agent-Freehand : If you use your own router, you may not receive the full benefits of your service. ABC only installs and supports ABC-branded or ABC-provided routers. We do not advise on how any non-ABC router will operate with ABC Internet service.  ABC supports the ABC branded BHR1 or BHR1 routers for Internet speeds below 11Mbps subject to a monthly router maintenance fee, the Advanced Wi-Fi Router (Actiontec MI111WR Rev I) for Internet speeds below 111Mbps, and the ABC Quantum Gateway Router (ABC G1111) for all Internet speeds. If you use a non-supported router, our tech support will be limited to testing the connection to your home. We will not troubleshoot your router or dispatch a technician for Internet troubles if our testing shows a good connection.
+Agent-Freehand : I have a solution for Router.
+Agent-Freehand : I do see you have purchased it right?
+Customer : right
+Agent-Freehand : IN that case I recommend to go with it as buying the router will save you $111 year rental charges.
+Customer : ok thank you
+Agent-Freehand : YOu are most welcome.
+Agent-Freehand : Please proceed with your order.
+Agent-Freehand : You have my undivided attention.
+Agent-Freehand : Just click on checkout and proceed with it.l
+Agent-Freehand : :)
+Agent-Freehand : I am happy to help you with the order process.
+Customer : i did already
+Agent-Freehand : Great!
+Agent-Freehand : Please do not close the chat window until your order is placed.
+Agent-Freehand : You might have some last minute questions and I’ll be able to assist you step by step with the order process.
+Agent-Freehand : Please let me know once you are on the "Order summary" page.
+Customer : i have to go i'm at work
+Customer : thanks for your help
+Agent-Freehand : Have you placed the order?
+Agent-Freehand : To secure a early installation date I recommend to place the order now.
+Agent : Agent 'abc@abc.com' loses connection
+Agent : Agent 'abc@abc.com' reconnected
+Agent-Freehand : You don't have to pay any amount to place the order.
+Agent-Freehand : Your first bill will generate after 1-1 weeks from your installation date.
+Agent-Freehand : Would you like to place the order now?
+Customer : Customer has moved to an unresponsive or untagged page. Last URL tried by customer: https://www.ABC.com/FORYOURHOME/ORDERING/ordernew/Checkout.aspx#
+Agent : Agent 'abc@abc.com' exits chat

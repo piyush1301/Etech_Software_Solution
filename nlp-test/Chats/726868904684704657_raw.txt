@@ -1,0 +1,43 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : No, I am reviewing the special deals that are posted being they just informed me my Agreement is expired.  I will need to discuss this with my wife prior to making any decisions.
+Agent : Agent 'abc@abc.com' enters chat (as Brock)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Brock. Happy to help!
+Agent-Freehand : I hope you are doing well!
+Customer : Hi Brock, I am fine.  I was informed that my Agreement is expired.  I am reviewing the deals offered but I will need to discuss them with my wife prior to making any decisions.
+Agent-Freehand : Absolutely!
+Agent-Freehand : Would you like to check the offer available in your account with me?
+Customer : Yes please check how long I have to make a decision as well.
+Agent-Freehand : Sure!
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Agent-Freehand : With whom do I have the pleasure of chatting today>
+Agent-Freehand : ?
+Customer : Joseph T. Giambattista
+Agent-Freehand : Nice to meet you, Joseph
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : My son streams video, I play games and sometimes work from home.
+Agent : How many devices do you connect through Wi-Fi?
+Customer : 1 Laptop, 1 Chromebook, an Xbox and a few cellphones at times
+Agent : What are your must have TV stations/networks?
+Customer : Basic cable HD and the Sports Stations and HGTV and DIY
+Agent-Freehand : Sure!
+Agent-Freehand : I can see that we can renew our services with
+Triple Play
+• ABC Digital Voice Unlimited  
+• Extreme HD TV  
+• ABC Internet 11/11 
+
+Rent: 1 TV Equipment Package for $11.11
+Sports Pass for $11.11
+Multi-Room DVR Service for $11.11
+
+Your Estimated Monthly Charges  will be $111.11 + taxes and fees =$111.11,LOCKED for next 11 months
+Customer : As I said I need to discuss this with my wife prior to making a decision.  How long do I have to make a decision?
+Agent-Freehand : I recommend making the decision quickly as online offer are time sensitive, we do not have a time frame for the same.
+
+For today I see your qualify for $111 toward Google and Nest devices
+Customer : I will try and talk to her at her office this morning and make a decision and log in and make a decision,  Thank you for all of your help.
+Agent-Freehand : You're always welcome!
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

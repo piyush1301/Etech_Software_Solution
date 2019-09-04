@@ -1,0 +1,30 @@
+Opener :  Opener: Hi! Chat now to get our best ABC offers and find out how to save $11!
+Customer : how much would the 11 dollor plan be with taxes and fees a month 
+Customer : and what are the installation fees
+Agent : Agent 'abc@abc.com' enters chat (as Emily)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : I see that you are working on your order, how can I assist you with any questions about the process?
+Agent : Order online and we'll waive the standard $11.11 setup charge!
+Agent-Freehand : You will be able to view the final total with equipment and tax and fees once you have selected all the required fields per your requirement at the bottom of the page below Checkout button.
+Agent-Freehand : Order a Triple Play (Custom TV, Gigabit Connection and Phone) for $11.11 with Auto Pay and Two Year Price Guarantee and get $111 towards a range of Google and Nest smart home devices. Order now and also get a $111 Visa Prepaid card!
+
+$11.11/mo is the bundle price excluding equipment and taxes.
+Agent-Freehand : Please keep this chat window open while you go through the order process. In case you have any questions during the order process, please feel free to ask me. I am right here with you.
+Customer : their isn't an option for a 1 year contract
+Customer : how much are the dvr boxes a month 
+Agent-Freehand : I see that you only have the internet services in your cart and we do not provide the contract with internet standalone services. You may access the below link to checkout the deals we are providing at your location:
+
+Agent-Freehand : Is everything going well with the order process?
+Agent-Freehand : Just to confirm, are we still connected?
+Customer : no still cant bundle the tv
+Agent : To save you some time, I am building your cart with the services you need and will send you the link to review in a few moments.
+Agent-Freehand : Could you please help me with the complete address along with the zip code where you want us to install new services?
+Customer : 111 birchwood close cahppaqua ny 11111
+Customer : chappaqua
+Agent-Freehand : Thank you for sharing your address. Please give me a few moments while I check your address and help you with the pricing and promotions for available ABC services.
+Agent-Freehand : Do you have unit#?
+Customer : that's it 111
+Agent-Freehand : Is that Flr 1?
+Agent-Freehand : To be sure, are we still connected?
+Customer : Customer connection lost. The customer lost network connectivity
+Agent : Agent 'abc@abc.com' exits chat

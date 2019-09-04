@@ -1,0 +1,79 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : Yes. I got an offer to lower my monthly plan rate. Does the $111.11/mo include all the services I currently have?
+Customer : ok. I'll wait
+Agent : Agent 'abc@abc.com' enters chat (as Stanford)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Stanford. Happy to help!
+Agent-Freehand : Good morning, Helene!
+Customer : So this new plan is only $1 discount?
+Agent-Freehand : Sure thing! Let me help you to check the total estimate with the deal you see there.
+Agent-Freehand : Just to be sure, do you see the option "Estimated bill + taxes and fees" there?
+Customer : no
+Agent-Freehand : May I take care of the renewal process for you?
+Customer : Can you lower my monthly plan amount? I received a mailing saying I can lower my plan.
+Agent-Freehand : Sure thing! Let me access your account and I will certainly check the deaks for you.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : Great!
+Agent : Thank you for your years of loyalty to ABC!
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : Never online gaming. We don't stream. I work from home. My husband just surfs the net and uses Gmail.
+Customer : Very limited. We're old people... ; )
+Agent-Freehand : Got it!
+Agent : What are your must have TV stations/networks?
+Customer : TMC, Hallmark, TNT, NECN, 
+Agent-Freehand : Sounds good!
+Agent-Freehand : I see that your current bill is $111.11  with ABC Internet 11/11  + ABC TV Ultimate HD  + ABC Digital Voice Unlimited.
+Customer : Yes, I'd like to lower that. 
+Agent-Freehand : Sure, let me check the deals for you here.
+Customer : Are you still there?
+Agent-Freehand : Yes checking it.
+Customer : BTW, I forgot one channel - my husband likes the Golf channel.
+Agent-Freehand : No worries, checking deals for you.
+Customer : ok. Thanks
+Agent-Freehand : My apologies for the delay, I was look into the account.
+Agent-Freehand : May I know what is the price you see online so that I can compare to it?
+Customer : $111.11
+Customer : That includes triple play Internet 11 mbps, ultimate TV HD, STARZ showtime Epix Digital voice unlimed plan, 1 year agreement; multi-room DVR, set top box
+Agent-Freehand : Thanks for updating!
+Agent-Freehand : Checking on it.
+Customer : Sprots pass, quantum gateway rental $1 ABC quantm gatway router discount, return label for router; ABC digital voice mail; listed and published existing phone number 111...
+Agent-Freehand : Got it.
+Customer : I meant "sports pass"
+Agent-Freehand : NO worries, I got it.
+Agent-Freehand : Got the deal! Let me share it.
+Agent-Freehand : I have a renewal deal which will:
+
+1. Update your TV plan to Ultimate HD TV plan 1111 in which you will get 111+ channels which includes 111+ HD channels also! You will also get Showtime and Epix complimentary! Also, you will get Starz complimentary for 11 months!
+1. Will also get you price lock so that your bill does not increase for 1 years!
+Agent-Freehand : With this deal, you will also get $111 towards a range of Google and Nest smart home devices!
+Agent-Freehand : With this deal, your bill will also be reduced to $111.11 after all the taxes and fees along with 1 year price lock so that you do not have to worry about price hike and be worry free!
+Agent-Freehand : May I have your email address so that i can send you the review email?
+Customer : abc@abc.com
+Agent-Freehand : Thank you! Please stay connected while I send this review to you for approval.
+Agent-Freehand : You've been very nice. Thank you so much for your support throughout the chat.
+Customer : My pleasure.
+Agent-Freehand : Would you be able to access abc@abc.com now?
+Customer : looking now
+Agent-Freehand : Excellent! I have sent you the review email. Please check it and once looks good, simply click on Continue and then I Agree so that we can finalize the changes.
+Agent-Freehand : Feel free to ask if you have any questions.
+Customer : Nothing has come through. Can you resend? I checked my Spam too. Nothing
+Agent-Freehand : Sure, let me resend it.
+Agent-Freehand : I just resent it to abc@abc.com.
+Customer : Got it. BTW, why would I need that ABC app ?
+Agent-Freehand : It is not mandatory; however, it is good to download.
+Customer : To watch TV on my phone?
+Agent-Freehand : You can manage the billing and account by app.
+Agent-Freehand : Yes, you can do that also.
+Customer : So there's a choice "ABC TV" or "MY ABC App" - what's the difference?
+Agent-Freehand : I see that you have accepted the changes, let me submit it and share  confirmation for the same.
+Agent-Freehand : Using ABC TV app, you can watch TV online and using My ABC app, you can manage the account online.
+Agent-Freehand : Here is your Order confirmation number for the same: MA11111111111
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : Not today. Thanks.
+Agent-Freehand : Excellent! Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window. I hope I provided you with 1 Star service!
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent-Freehand : Have a great day ahead! Stay safe and stay blessed!
+Customer : You got it.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

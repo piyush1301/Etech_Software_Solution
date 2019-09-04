@@ -1,0 +1,109 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : contract is expiring we need to look at renewal options
+Agent : Agent 'abc@abc.com' enters chat (as Brock)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Brock. Happy to help!
+Agent-Freehand : I hope you are doing well!
+Agent-Freehand : I will surely check the best options for you
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : no issues with internet speed with current use
+Agent : What are your must have TV stations/networks?
+Customer : the ones we have currently are fine
+Agent-Freehand : Sure!
+Customer : we have two television sets; one with only hd and no other upgrades in our basement, and one with a dvr in our living room
+Agent-Freehand : Sounds good!
+Agent-Freehand : Working on your order
+Agent-Freehand : I can see that we can renew our services with
+Triple Play
+• ABC Internet 11/11  
+• ABC Digital Voice Unlimited  
+• Extreme HD TV 
+
+Rent: HD Set-Top Box 1  for $11.11
+DVR service for $11.11
+$1 Auto Pay and Paper Free Discount thru Aug 1, 1111 
+
+Your Estimated Monthly Charges  will be $111.11 + taxes and fees = $111.11,LOCKED for 11 months
+Agent-Freehand : With this offer you get  $111 toward Google and Nest devices
+Customer : that seems so high
+Customer : my daughter has one dvr set and no land line and pays $111 with ABC, so $11 must be for the land line and a single hd set
+Agent-Freehand : Your existing monthly with taxes and fees and expired discount is $111.11
+Customer : do you know how your rates compare to a similar Cox package
+Agent-Freehand : Your daughter may have a basic TV plan.
+Agent-Freehand : You currently have Extreme HD TV plan which include 111+ TV channels 111+ in HD
+Customer : extreme HD - can you send a link with those channels?  we have always had a fairly basic package of networks, news networks, sports, and hallmark
+Agent-Freehand : Sure!
+Agent-Freehand : Here is the TV channel line up:
+
+
+Customer : A quick look and I'm wondering without holding you up the difference between level 1 and level 1.  I still see espn, hallmark, hgtv, and the news networks on the first level
+Customer : what is the price difference between the two
+Agent-Freehand : Can you please share with me the TV plan name?
+Customer : ultimate vs. extreme i think I once was offered this and found out I didn't get something with ultimate that matee
+Customer : mattered
+Customer : i can't actually see the entire body that I type
+Customer : I'm just not seeing what the difference is between the two packages without a thorough study
+Agent-Freehand : You currently have Extreme HD TV plan
+Customer : right.  and i'm curious about ultimate
+Agent-Freehand : Ultimate HD TV plan included more channels and is around $11/mo more
+Agent-Freehand : Includes SHowtime,Starz and Epix for FREE
+Agent-Freehand : And 111+ TV channels
+Customer : right.  but a quick scan and I can't see what's missing.  Okay, good, I don't watch those
+Customer : so that isn't needed.  We watch all ESPN, HGTV, Hallmark, and the basic network stations
+Customer : no pay or movie channels
+Agent-Freehand : Please click on more plans and check if Custom TV home and Family plan includes all the channels you love
+Customer : lets just stay with extreme 
+Agent-Freehand : Sure!
+Agent-Freehand : The new plan also includes $111 toward Google and Nest devices
+Agent-Freehand : Should I proceed your order?
+Customer : quick question - we own Nest already.  what does the $111 offer mean?
+Agent-Freehand : You can pick from available google and nest devices , let me share with you the link to check.
+Customer : thanks.  would I need to do that today or do I have time? Would I own the device?
+Agent-Freehand : You will get a confirmation email to redeem the $111 credit in next 11 days
+Agent-Freehand : Here is the link:
+
+
+Customer : okay thanks we can process .  do I need to stay online?
+Agent-Freehand : Yes, please stay connected while I proceed your order
+Customer : ok
+Agent-Freehand : Thank you!
+Customer : One more question - if I get a nest product do I need to pay monthly fees ?
+Agent-Freehand : You can purchase it with a One time charge from the $111 credit and it is yours to keep
+Customer : right, and then does using it entail a monthly contract (just not familiar with it)
+Agent-Freehand : Not at all!
+Customer : great thanks
+Agent-Freehand : Most welcome!
+Agent-Freehand : "Do you have access to the internet via a mobile device or computer while you’re speaking with me? I'd like to send you a text message or email with a link to your order. Which would you prefer?“
+Agent-Freehand : Text or Email?
+Customer : all of that, we can text my cell 111 111 1111
+Agent-Freehand : Sure!
+Agent-Freehand : I have sent you the order review on   1111111111
+Customer : got it
+Agent-Freehand : Let me know once you review the charges, click on continue button , enroll in autopayment ,accept the terms and get the order number so that I can submit the order from my end.
+Customer : need to locate the routing info will take a minute
+Agent-Freehand : Absolutely!
+Agent-Freehand : Please take your time
+Customer : while we're looking can you confirm the total monthly bill again, all fees included?
+Agent-Freehand : Sure!
+Agent-Freehand : It will be $111.11 with taxes and fees with Extreme HD TV plan + 11/11Mbps Internet
+Customer : thanks
+Agent-Freehand : Most welcome!
+Customer : all set?
+Agent-Freehand : Let me quickly submit your order
+Agent-Freehand : We are all set!
+Thank you for being so calm and supportive throughout the chat. I hope I have provided you 1 star service.
+Do you have any more questions for me? I will be happy to answer all your questions.
+Customer : everything went great, thanks for your patience
+Agent-Freehand : You're most welcome!
+Agent-Freehand : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.
+Agent-Freehand : You can now click on the "X" button within the chat to close the chat window. Thank you for your valuable time.
+
+Have an amazing one!
+Customer : you too thanks
+Agent-Freehand : Most welcome!
+Agent-Freehand : Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Customer : The customer closed the browser window
+Agent : Agent 'abc@abc.com' exits chat

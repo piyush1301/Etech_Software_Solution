@@ -1,0 +1,61 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : Looking for pricing for the following: Gigabit connection with Extreme HD
+Agent : Agent 'abc@abc.com' enters chat (as Spencer)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Spencer. Happy to help!
+Agent-Freehand : Thank you for considering ABC services.
+Agent-Freehand : Could you please help me with the complete address along with the zip code where you want us to install new services?
+Customer : 11111 Hitching Post Lane 11111
+Agent-Freehand : Thank you for sharing your address.
+Agent-Freehand : Allow me few moments to check.
+Agent-Freehand : Do you currently have any ABC services?
+Customer : no
+Agent-Freehand : You can rent the router for $11/mo.(effective 11/11/1111, it will be $11/mo) or you can buy it for $111.11 one time charge.
+Agent-Freehand : Which option you would prefer?
+Customer : I will buy
+Agent : How many TV’s are we connecting today?  Do you have existing outlets where you want your TVs?
+Customer : 1
+Customer : yes
+Agent-Freehand : Are you looking for recording capabilities on your TV's?
+Customer : not a must, if the dvr coat as stb than I don't mind to have one
+Agent-Freehand : It will be additional for DVR service on top of HD boxes.
+Customer : than 1 hd stb
+Agent-Freehand : Sure! One moment please.
+Agent-Freehand : Your monthly charge will be $111.11/mo. plus taxes & fees.
+Agent-Freehand : Estimated bill with taxes & fees will be $111.11/mo.
+Agent-Freehand : You'll get $111 credit towards Google and Nest Smart home devices with this online deal.
+Agent-Freehand : Also, for your online order now, we will waive the $11 ABC Set up fee.
+Customer : Does this includes any payment for the router?
+Agent-Freehand : This is estimated monthly charge and does not include router charge.
+Agent-Freehand : It will be one time charge of $111.11 plus taxes for router. It will be charged in three installments in first three bills.
+Customer : please clarify what is the 111.11 and what is the 111.11
+Agent-Freehand : $111.11 is before taxes & fees. $111.11 is including taxes & fees.
+Customer : is this price good for 1 years?
+Agent-Freehand : Yes, you'll get 11 months price guarantee.
+Customer : is this price includes the premium channels? HBO, SHOWTIMEetc
+Agent-Freehand : It does not include premium movie channels.
+Agent-Freehand : You can go with Ultimate HD plan for $11/mo. additional and it will include Showtime, Starz, EPIX and Sports Pass.
+Customer : what about HBO, cinamax
+Agent-Freehand : You can add HBO/Cinemax with Ultimate HD plan for $11/mo. more.
+Agent-Freehand : With Ultimate HD and all premium movie channels, it will be $111.11/mo. plus taxes & fees.
+Customer : I see, thank you. 
+Agent-Freehand : Sorry for the confusion.
+Customer : can I save this chat?
+Agent-Freehand : It will be $111.11 plus taxes & fees. Estimated bill with taxes & fees will be $111.11/mo.
+Agent-Freehand : You can copy and paste the chat in word document.
+Agent-Freehand : This is real time deal and I would recommend you to sign up for services online now. You'll not be charged upfront with your online order now.
+Agent-Freehand : I hope you won't mind me asking, if there is anything holding you back from securing this amazing deal now?
+Customer : there are channels the I would like to have, for the family, the custom TV does not cut it. I'm looking for lower price than what you gave me. I'll have to do re-thinking
+Agent-Freehand : I can hold while you check channel line up and assist you further.
+Agent : What are your must have TV stations/networks?
+Customer : premium channels, kids channels and news channels.
+Agent-Freehand : Premium channels can be added with any TV plan. You can get Kids and News channels with Custom TV - Home & Family plan.
+Agent-Freehand : Please click on below link to check channels included in Custom TV -  Home & Family plan:
+
+
+Customer : no fox news in this package
+Agent-Freehand : Please check News & Variety and Sports & News plan as well.
+Customer : no kids channels there
+Customer : as I said, I will have to re-think this.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

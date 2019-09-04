@@ -1,0 +1,153 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : Hello great, and yours?
+Customer : Alright
+Customer : No worries
+Customer : I had the triple play and had moved to Spain, and had decided to move back from Spain, I still have everything the way you all have lefted it. Would i be able to have my old phone number back? 111.111.1111? I would need a box and that would be it for this end connection wise
+Agent : Agent 'abc@abc.com' enters chat (as Joey)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Joey. Happy to help!
+Agent-Freehand : Thank you for considering ABC services.
+Customer : Hi joey, ive had ABC about a month ago my old phone number was 111.1111
+Agent-Freehand : Alright.
+Customer : I apologize 111.111.1111
+Agent-Freehand : Thank you!
+Agent-Freehand : Please be assured, I would be happy to check on the best available deals and offers for your home.
+Customer : Im interested in getting my triple play back, i was in Spain I came back due to the health if a family member
+Agent-Freehand : Go it.
+Agent : Thank you so much for considering us, let's pull up your address and see what great services are available.
+Agent-Freehand : Could you please help me with the complete address along with the zip code where you want us to install new services?
+Customer : Everthing is the same i just need a box 111 West Chestnut Hill Rd Newark De, and i was wondering if i could still have the same number i had from last month? 111.111.1111?
+Customer : I have not done anything except bring the box to the ABC store
+Customer : Which was in june
+Agent-Freehand : May know if you canceled the services when you moved out of country?
+Customer : Well i left in june and if you show that then why did i have 1 pay for someone wanting orange is the new black in june? When i never ordered anything
+Agent-Freehand : I'm sorry, I did not get you.
+Customer : And brought my box back in june?
+Customer : What do yoy mean you did not get me?
+Agent-Freehand : I'm asking, may I know if you canceled the services when you moved out of country?
+Customer : Oh? I yes i still have myABC login, i had too,but came back in july
+Agent-Freehand : So, you canceled the services.
+Agent-Freehand : In order to get the services back, you'd need everything new.
+Customer : I left in june , and came back in july yes i thought i was going to. Stay in Spain;however,i came back due to ill relative, had i knowed that i was coming back i would not have cancelled my services
+Agent-Freehand : Okay.
+Agent-Freehand : Not a problem.
+Customer : Soi would not get my old number i had 1 months ago?
+Agent-Freehand : You can surely get a services back; however, as this would be a new services, new equipment, new account, new installation and credit would be required.
+
+I'll check on home phone number, if we can keep.
+Customer : Wow, well i can tell you my credit isnt great now, since june im in the process if bankruptcy and why would they need to do an installation it makes no sense especialky since someone put orange is the new bkack ob my acct
+Customer : Im sure u can see my acct? On your screen? 
+Agent-Freehand : Just to be sure, are you currently logged in to your Online MyABC account?
+Customer : No im noy logged on now
+Customer : Why do i need to be logged on?
+Agent-Freehand : I'm not sure when I said you need to log out.
+Agent-Freehand : May I have your Name, Name on the account and Account # as well?
+Customer : Bernadine McNally 
+Agent-Freehand : Thanks!
+Agent-Freehand : Are you able to locate the account #?
+Customer : I have my old order #DE1111111111 
+Agent-Freehand : Thank you!
+Agent-Freehand : However, without account # we won't be able to check anything.
+Customer : 11
+Agent-Freehand : Please open the link to check your Ebill for your account #.
+Customer : xxxxxxxxxxxxxxx
+Agent : Please provide your account number in the following format so I can view it in the chat window:  ###-###-###-####
+Customer : 111-111-111-1111-11
+Agent-Freehand : Perfect! Thank you for safeguarding your account.
+Customer : You are welcome
+Agent-Freehand : It seems your account is already canceled.
+Customer :  I told you this alr
+Customer : already joey
+Agent-Freehand : Yes, as this would be a new services, new equipment, new account, new installation (may be) and credit would be required.
+Agent-Freehand : I can see what you had so I will create a Triple bundle for you.
+Customer : Yes please and could you please tell me what it will cost
+Agent-Freehand : Sure!
+Agent-Freehand : Let me check that for you.
+Agent-Freehand : May I know if you will be at the same address?
+Customer : Thank you,Joey i appreciate it
+Agent-Freehand : YOu're welcome~
+Customer : Yes i will be everthing is the same
+Agent-Freehand : Okay./
+Agent-Freehand : Please allow me a moment.
+Agent-Freehand : Thank you for your patience.
+Customer : You are Welcome
+Agent-Freehand : Thanks!
+Agent-Freehand : I see you had the old TV plan which we no longer provide. So, in order to check on the best Tv plan could you please tell me,
+Agent : What are your must have TV stations/networks?
+Customer : Daystar, id lik my showtime and hbo back
+Agent-Freehand : Okay.
+Customer : WE tv Ci think it was
+Agent-Freehand : Okay.
+Customer : I mean CW
+Agent-Freehand : Okay.
+Agent-Freehand : Please stay connected.
+Customer : Ok
+Agent-Freehand : Thanks!
+Customer : No Sports
+Agent-Freehand : Okay.
+Customer : I normally would watch on demand the channels on demand, like what was on fox ,and other stations
+Agent-Freehand : Let me share, I would recommend recommend ABC Gigabit Internet + ABC Custom TV + ABC home phone triple play for $11.11/mo + $11/mo (for 1 Set top box) + $11/mo (for HBO & Showtime) + $11/mo (for router rent) + taxes & fees = $111/mo.
+
+On top, you'll get $111 Visa Prepaid Card + $111 towards a range of Google and Nest smart home devices with this deal.
+
+How does that sound?
+Customer : What is a top box joey?
+Agent-Freehand : Set top Box is required to access Fos TV service.
+Customer : I dont need a router
+Agent-Freehand : May I know if you already have ABC Quantum gateway G1111 router?
+Customer : No i never needed a rputer with the box i had before
+Agent-Freehand : I'm sorry, ABC router would be required to install ABC services.
+Agent-Freehand : You previously had a router and Set top Box both.
+Customer : Oh ok i know what ur talking about i apologize joey, i forgot i had it on the top of the box 
+Agent-Freehand : Not a problem.
+Customer : Do u have a less expensive topbox? I was looking to be alittle lower than what you quoted
+Agent-Freehand : I'm sorry, we have only 1 box.
+Customer : Anything around what i was paying?
+Customer : Which you got close
+Agent-Freehand : You were paying $11.11 and I am giving yo u$11/mo price.
+Customer : Joey when can we get this done and can i have my old phone number?
+Agent-Freehand : We will only be check if you keep the old number, once the order is placed for the services.
+
+Would you like to order the deal I shared above?
+Customer : Ok Joey you have a deal
+Customer : Thank you
+Agent-Freehand : Perfect!
+Agent-Freehand : Let's get this order done.
+Agent-Freehand : May I have your new email address?
+Customer : Awesome!
+Customer : abc@abc.com
+Agent-Freehand : Thanks!
+Agent-Freehand : Please open this link.
+Agent-Freehand : Once this page is up, enter the Cart #: DE11111111111 and Continue.          
+
+Please keep the chat window open and let me know once you get the next page.
+Customer : Ok
+Agent-Freehand : Thanks!
+Customer : Joey it keeps popping back to this screen when i go to the screen and try and put the DE in
+Customer : Should i try it again?
+Agent-Freehand : Please minimize the chat to do so?
+Customer : 1th time
+Customer : Im on my cellphone
+Agent-Freehand : Yes, please minimize the chat to proceed.
+Customer : Ok
+Agent-Freehand : Let me know once you get the next page.
+Customer : Ok im on the next page
+Agent-Freehand : Great! Now, please click on checkout button to proceed.
+Customer : Ok do i just fill out the info and send it? Or what do i do after to get my old number back? And when its all going to happen
+Agent-Freehand : Once you are there, please fill out 'Your Contact Information' and 'Billing Information'. Then click on "Continue" to proceed.
+Customer : Ok
+Agent-Freehand : Let me know once you get to the next Installation section.
+Customer : Ok
+Agent-Freehand : Thanks!
+Customer : Ok im on next page
+Agent-Freehand : Okay.
+Agent-Freehand : May I know if you are getting a calender?
+Customer : Im right there right now
+Agent-Freehand : Okay.
+Agent-Freehand : Please select the date and proceed further.
+Customer : Ok
+Agent-Freehand : Let me know once you get the Order #.
+Customer : Ok
+Agent-Freehand : Thanks!
+Customer : I lst the info im going back thru again
+Agent-Freehand : Let me help you out.

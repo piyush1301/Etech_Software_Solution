@@ -1,0 +1,89 @@
+Opener :  Opener: Hi! Can I help you with our different offers?
+Customer : hi
+Customer : how much do I have to pay more if I upgrade to internet of 11mb
+Agent : Agent 'abc@abc.com' enters chat (as Stanford)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Stanford. Happy to help!
+Agent-Freehand : Good evening!
+Customer : hi
+Agent-Freehand : Sure thing! Let me access your account and check  pricing with 11/11 Mbps  Internet.
+Agent-Freehand : Please provide your full name on the account and the Account Number to retrieve account information.
+Customer : ok
+Customer : Lien Ho
+Customer : 1111111111
+Agent-Freehand : Hi, Lien! I hope you are doing well today.
+Agent-Freehand : 
+Agent-Freehand : This link will get you the account number.
+Customer : 1111111111111
+Agent-Freehand : Thank you for sharing your account information. Please give me a few moments while I pull up your account information in my system.
+Customer : sure
+Agent-Freehand : Thank you!
+Agent : Thank you for your years of loyalty to ABC!
+Agent-Freehand : Checking on it.
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : I just use it for read new and searching. nothing major
+Agent-Freehand : Sounds good!
+Agent-Freehand : Checking deals for you here.
+Customer : thanks
+Customer : if you have a great package like tv-fio and phone
+Agent-Freehand : We do!
+Agent : What are your must have TV stations/networks?
+Customer : tv
+Customer : I don't get you do you mean
+Agent-Freehand : Which are the channels you wish to have?
+Customer : I don't understand what it mean stations/networks
+Customer : sport and news
+Customer : not much movies
+Agent-Freehand : Got it.
+Agent-Freehand : Please help me with the number of TVs you are going to connect and also would you need DVR services?
+Customer : 1tv and no dvr
+Agent-Freehand : That's all the information I needed! Let me check the deals for you here.
+Customer : sure thanks
+Agent-Freehand : You're welcome!
+Agent : Based on what we’ve chatted about, I recommend the following products and services.
+Agent-Freehand : I would recommend you to go with the deal of Custom TV Sports & News  + ABC Gigabit Connection  + ABC Digital Voice Unlimited  + Rent: HD Set-Top Box 1  + Rent: ABC Quantum Gateway Router.
+Agent-Freehand : Custom TV Sports & News will get you 111 + channels which includes HD channels also!
+Agent : With 111 mbps download and 111 upload speeds our ABC Gigabit service allows you and your household the ability to game, stream, and securely browse online all at the same time.
+Agent-Freehand : ABC Digital Voice Unlimited will get you unlimited calling access to Local, Regional and Long distance calling!
+Agent-Freehand : With this deal, you will also get $111 towards a range of Google and Nest smart home devices with qualifying bundles with Auto Pay and 1-year agreement.
+Agent-Freehand : Also, you will get $111 Visa Prepaid Card !
+Agent-Freehand : With this deal, your bill will be only $111.11  + taxes and fees and this price will be guaranteed for 1 years!
+Agent-Freehand : Would you like to proceed with this deal?
+Customer : its over my buget
+Customer : I just need a basic 
+Customer : basic internet and basic tv
+Agent-Freehand : Yes, this is the basic TV plan we offer.
+Customer : what is total all after the tax
+Agent-Freehand : With taxes,  it comes to $111.11 only
+Agent-Freehand : Would you like to take advantage of this deal?
+Customer : how about phone and internet not TV
+Agent-Freehand : Sure, let me check.
+Agent-Freehand : ABC Gigabit Connection  + ABC Digital Voice Unlimited  +  
+
+
+Rent: ABC Quantum Gateway Router comes to $111.11  with taxes only!
+Agent-Freehand : How does that sound?
+Customer : uhmm it is hard for me
+Customer : I need to think about it
+Customer : can you put it on hold for me
+Agent-Freehand : I have one more deal for you here.
+Customer : sure
+Agent-Freehand : Just a moment.
+Agent-Freehand : Thank for waiting!
+Agent-Freehand : I have checked it here and I see that as you have phone, going with Local TV Plan is not getting lower price. The deal I shared is the best deal for you as it is a introductory deal.
+Customer : thanks for checking
+Agent-Freehand : Do you have any more questions for me? I will be happy to answer all your questions.
+Customer : Keep on hold of 1 deal for me. I wil get back with you tomorrow for either one of them
+Agent-Freehand : Sure thing!
+Customer : you have a great night
+Agent-Freehand : Excellent! Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window. I hope I provided you with 1 Star service!
+Customer : I will
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC. 
+
+ I hope I provided you with 1 Star service!
+Agent-Freehand : Glad to hear that!
+Agent-Freehand : Have a great night ahead! Stay safe and stay blessed.
+Customer : bb
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

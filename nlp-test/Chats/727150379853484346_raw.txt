@@ -1,0 +1,63 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : why are you charging $11 for a rental router when I already have one?
+Agent : Agent 'abc@abc.com' enters chat (as Shawn)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Shawn. Happy to help!
+Agent-Freehand : May I know what specific changes you are making on your account and it is reflecting the $11 rental charge?
+Agent-Freehand : Just to check, are we still connected?
+Customer : My current plan is ending soon. Was told to go and choose a new plan and both plans one for $11.11 for 11Mbps and $11.11 for 11Mbps have an add on for $11.
+Agent-Freehand : I see. In that case you will need to rent/buy new router with speed upgrade. If you go with the same speed you can keep the current router.
+Agent-Freehand : The current router will not continue if it is complimentary. It is also possible that your current router is not compatible with 11/11 Mbps internet and hence system is showing new router.
+Customer : The router is new. Just got it 1 yr ago
+Agent-Freehand : No worries, let me check on it for you.
+Agent-Freehand : I can see that you currently you are logged in to your My ABC account, am I correct?
+Customer : Yes
+Agent-Freehand : Thank you for safeguarding your account, let me go ahead and pull up your account details here to assist you further. Please allow me few moments here.
+Customer : okay
+Agent-Freehand : Thank you!
+Agent-Freehand : Let me take a moment to review the services on your account to ensure I have all information.
+Agent-Freehand : Thank you for your patience, I see that currently you have our latest router ABC Quantum Gateway and that is provided to you as a complimentary with your current internet speed and currently you are not paying any rental charges for it.
+Agent-Freehand : If you upgrade the internet speed the complimentary router will not continue and you will need to Rent/Buy the router.
+Customer : What would be the price if I bought the router
+Agent-Freehand : Sure, let me check it for you.
+Agent-Freehand : Please confirm if you have access to : abc@abc.com
+
+I will send you the email preview to review new 1 year agreement deal.
+Customer : yes, okay
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : Email preview has been sent! Please check.
+Agent-Freehand : Specials included with this deal:
+$111 toward Google and Nest devices
+Agent-Freehand : This deal includes our latest ABC Digital Voice Unlimited Phone plan which works on ABC and you can make Unlimited local, regional and long distance calls with this plan as well plus you get 11+ calling features.
+Customer : How do I place an order?
+Agent-Freehand : I will take care of this for you! I will submit the order from my end and before that I will send you the final order confirmation email to confirm the order last time.
+Agent-Freehand : Would you like to continue with your order now?
+Customer : One other question re the router.  I see a $11 shipping charge.  As I said I have the router which can handle at least 111Mbps
+Agent-Freehand : I understand you have the latest router and it is compatible with our Gigabit internet (111/111 Mbps) speed as well; however the case is the current router will only remain free with your current speed. It will not continue with speed upgrade as complimentary.
+Agent-Freehand : I hope I haven't lost you and we are still connected.
+Customer : Yes, I understand. However, it was not clearly stated the router was rental free and would remain ABC's property. So now you are asking for me to pay the full price of the router including the shipping when the router is now 1 years old and already here.
+Agent-Freehand : Please be assured you will get the new router and current router will need to be retuened.
+Agent-Freehand : returned*
+Customer : I don't understand why do I need a new router? It is only 1 years old. You are now saying that I not only have to buy a new one and pay the shipping but I also have to pay to ship the current one back.
+Agent-Freehand : I totally understand your concern and got that the router is only 1 year old; however it will not be possible to keep the same router (as Free) with internet speed upgrade OR to Buy the router (which you currently have)
+
+If you Buy the router we will send you new router and shipping charge will be there. We will send you Return kit (at no charge) to Return your current router.
+Customer : Thank you for the clarification. I will needs to think about this a bit more.  If I decide to go with the offer can I do it through the web or the phone?
+Agent-Freehand : You can place the order from your My ABC account or initiate the same chat services; however please be assured our online deals are time sensitive and it might be possible that the same deal will not be available at a later time.
+Customer : Alright.  Go ahead and place the order.
+Agent-Freehand : Awesome!
+Agent-Freehand : I will customize the order and send you an email with link to review the order. Once you accept the order from your end I will go ahead and finalize it. Please stay connected during this process.
+Customer : okay
+Agent-Freehand : Thank you!
+Agent-Freehand : I am now working on your order and will let you know when to check for the new email Alan.
+Agent-Freehand : Sorry top keep you waiting, system is taking much more time.
+Agent-Freehand : to*
+Agent-Freehand : Confirmation link to your order has been sent via Email. Please access the link as it is time sensitive to review your order and confirm it by clicking "I agree" button so that I can Submit your order.
+Agent-Freehand : Please keep this chat window open/minimized and let me know once you get the "Thank you for your order" page.
+Agent-Freehand : Please be advised the email link I shared is time sensitive to review order and will expire after few minutes. Let me know if you have any questions on order review so that I can answer all your last minute questions.
+Agent-Freehand : I hope I haven't lost you and we are still connected?
+Customer : I understand most of it but we are up to date with our bill so why $111 plus?
+Agent-Freehand : Sorry, could you please be more specific regarding your last response?
+Customer : It has $111.11 for a balance brought forward. We pay our bills regularly and they are only 111.11 Also, why doesn't the new contract just pick up at the end of the old one?
+Agent-Freehand : I can understand your concern; however since ABC Bills are in a month advance and hence it is not possible to adjust the printed bill. After your next bill your regular monthly bill be $111.11 approx. as per our discussion.
+Agent-Freehand : If you wish I can select the effective date of this order at the end of your current date as well.

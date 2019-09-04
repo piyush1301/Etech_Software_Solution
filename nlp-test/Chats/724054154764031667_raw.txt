@@ -1,0 +1,61 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : If I keep my current package, as is, the price does not change?
+Agent : Agent 'abc@abc.com' enters chat (as Aston)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Thank you for being a valued ABC customer. I will be glad to check your account for the details on price.
+Customer : ok
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a minute or two while I pull up your account.
+Customer : ok
+Agent-Freehand : Thank you.
+Agent-Freehand : Thank you for waiting, I appreciate your patience.
+Agent-Freehand : I can see that your contract is ending on 11/11/1111, the bundle price remains the same but the taxes and fees will increase some what.
+Customer : so what is the difference between  the new agreement of 111.11 versus my current plan of 111.11 beside the price, do I get the same package for 111.11?
+Agent-Freehand : Please allow me to check that for you,.
+Customer : Thanks
+Agent-Freehand : You are welcome.
+Agent-Freehand : I can see that the $111.11 deal is the same services that you currently have with the $111 credit for Google Nest Products.
+Customer : what is google nest products?
+Agent-Freehand : Let me share the link with you where you can check the Google nest products.
+Customer : if I want to extend my agreement for the next 1 years and keep everything the same the price of 111.11 stays the same.
+Agent-Freehand : 
+Agent-Freehand : I apologize, but keeping the price same is not possible as the price of the services and the taxes have increased.
+Customer : You told me that the 111.11 is the same service I have with a 111.11 google nest service credit
+Agent-Freehand : Yes! that is the same services with lower overall price.
+Customer : So I can go with the 111.11 and keep my plan as is and also get a 111.11 credit with the google nest offer
+Agent-Freehand : Yes! You can.
+Agent-Freehand : Your current price of the deal is $111.11 including the taxes and fees, but the new deal with the Google nest offer is $111.11 including the taxes and fees.
+Agent-Freehand : What do you think of the deal?
+Customer : I am not really into the google gigabit connection idea. I just want to keep things as they are, so what are my other options?
+Agent-Freehand : The services will remain the same as it is. No changes made to the services.
+Customer : ok so if I don’t get the google gigabit connection, shouldn’t my package be lower in price
+Agent-Freehand : The Google offer is not for the internet, but the Google nest products.
+Agent-Freehand : Now once you renew the agreement with new deal the Google offer is by default offered.
+Customer : so what is my monthly cost to keep everything as is, with no changes?
+Agent-Freehand : Your monthly cost keeping all the services will be $111.11.
+Agent-Freehand : Would you like to continue?
+Customer : that price of 111.11 covers tv,internet, and land line?
+Agent-Freehand : Yes! That is correct.
+Customer : ok so what do I have to do to get this set up or will you do it now
+Agent-Freehand : Please allow me a minute or two to proceed with the order and I will send you an order review of the deal and the terms of services for the agreement.
+Customer : ok
+Agent-Freehand : Thank you.
+Agent-Freehand : I apologize for the delay, I am facing some technical issues. I will send the order review in a minute or two more.
+Customer : ok
+Agent-Freehand : Thank you for your patience.
+Agent-Freehand : Do you have access to abc@abc.com ?
+Customer : yes
+Agent-Freehand : Thank you for the confirmation.
+Agent-Freehand : I have sent you the order review with the terms of services, please accept the terms of services and let me know so that I can submit the order for you.
+Customer : ok I have agreed to the contract
+Agent-Freehand : Thank you for the confirmation. Your order number is : MA11111111111
+Customer : got it, thank you very much for your help
+Agent-Freehand : I have submitted the order for you and the order confirmation will be sent to you within 11 hours.
+Customer : thank younagain
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : no I am all set
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Customer : you did
+Agent-Freehand : Thank you.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

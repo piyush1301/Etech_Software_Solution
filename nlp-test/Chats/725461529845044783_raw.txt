@@ -1,0 +1,37 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : People at work are telling me i will lose all HBO channels
+Agent : Agent 'abc@abc.com' enters chat (as Ted)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Ted. Happy to help!
+Agent-Freehand : I'll be glad to assist you with that.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Agent-Freehand : Anne, I can see that currently you have Internet 11/11, Extreme HD TV 1111 and ABC Voice for $111.11/mo. 
+Your Term Agreement has Expired on 11/11/1111 and Discounts are ending on 11/11/1111.
+Agent-Freehand : You currently have a TV package Extreme HD including Showtime and HBO which is not provided by ABC anymore. So when you'll renew your contract you'll lose the both Premium channels.
+Agent-Freehand : As long as you haven't renewed your contract, HBO and Showtime will remain the same.
+Agent-Freehand : Anne, are we still connected?
+Customer : If i renew and want HBO and Showtime; how much will it cost?
+Agent-Freehand : It will be $11/mo.
+Agent-Freehand : There is a deal available on your account, would you like to review it?
+Customer : Whats the deal, Ted.
+Agent-Freehand : Please allow me a moment.
+Agent-Freehand : You can keep you current services with HBO and Showtime added for $111.11/mo.
+Agent-Freehand : There is $11 bundle discount included plus $111 towards Google and Nest Devices.
+Agent-Freehand : Would you like to review the renewal deal? I can send you the bill quote to your email address.
+Customer : Thats a deal?  I'm currently paying $111 a month.with HBO and Showtime
+Agent-Freehand : I'm sorry Anne, but your total balance is $111.11 including the taxes and equipment charges.
+Agent-Freehand : Current Balance for you plan.
+Agent-Freehand : 
+Agent-Freehand : You can go to the above link and check the products of Google and Nest.
+Customer : So by renewing i save $1 a month? Or, are taxes and equiptment added on to the bill?
+Agent-Freehand : Yes.
+Customer : Yes to what question.  Are taxes and equiptment added on to the 111.11?
+Agent-Freehand : Yes, taxes and equipment are added on the $111.11.
+Customer : If I dont renew, i still keep HBO and Showtime?
+Agent-Freehand : Yes.
+Customer : Thank you for your time,
+Agent-Freehand : No Problem. Is there anything else I can help you with?
+Customer : No.  Thank you.
+Agent-Freehand : Have a Nice Day ahead!
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

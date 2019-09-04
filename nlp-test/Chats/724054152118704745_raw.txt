@@ -1,0 +1,41 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : This is the "special" deal you are offering for me to stay with ABC for two more years?  Seriously?  I don't want a Google or Nest smart home device in my home, and I'm not interested in paying more for my service than I'm paying now.
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Agent 'abc@abc.com' enters chat (as Ned)
+Agent-Freehand : Thank you for being a valued ABC customer. I will be glad to check your account.
+I will be glad to look in to your account and review the options to get best value for your money.
+Customer : How much advance notice to I need to give ABC to say I'm not interested in a new contract?
+Agent-Freehand : Please allow me a moment to check your account.
+Customer : Sure.  Thanks
+Agent-Freehand : You are welcome!
+Agent-Freehand : While I am pulling up the account, may I know with whom do I have pleasure of chatting today?
+Customer : Brian MacDonald
+Agent-Freehand : Hello Brian!
+Customer : Hello
+Agent-Freehand : Please give me few moments while I gather some information on your request.
+1
+Agent : Thank you for your years of loyalty to ABC!
+Agent-Freehand : I can see that you're having 11/11M + Preferred HD and the bill is $11.11/mo after taxes.
+Customer : That's correct.
+Agent-Freehand : Please allow me a moment.
+Agent-Freehand : Brian, I can see that this is the best deal you are having now.
+Agent-Freehand : I have checked your account completely and can find that this is the best deal you are having.
+Customer : That's not a deal.  How much for just the Internet portion?
+Agent-Freehand : I understand you want to check pricing for removal of a bundled component; however, we do not have ability to check pricing after unbundling the bundled services. We have a specialist team which handles this requests. I will be glad to provide you the direct number to reach out our specialist team.
+Customer : Tell you what - I'm done with ABC.  When this contract ends in September, I'm moving over to one of your competitors.
+Agent-Freehand : I can completely understand your frustration Brian.
+Customer : How do I officially let you know that I'm ending my contract?
+Customer : No, You really don't .  You are losing a good customer.
+Agent-Freehand : It will be reflected online on your account.
+Agent-Freehand : Sorry to hear that.
+Agent-Freehand : We would hate losing you Brian.
+Customer : Apparently not.  Charge me a fair price, and I might have stayed.  Thanks
+Customer : How do I send my box back once the service ends in Sep?
+Agent-Freehand : You need to contact our disconnection team and cancel the TV. They will be sending you the return kit to send the boxes back.
+Customer : Thanks.  Do you have their number handy?
+Agent-Freehand : Please contact one of our specialists at 111-111-1111 during 1:11AM-1:11PM(Mon-Fri) and they will be glad to assist you with your request.
+Customer : Thanks for your help.
+Agent-Freehand : It was my pleasure assisting you today. If you have any additional questions, please do not hesitate to contact us again. Thank you for choosing ABC. Have a nice day.
+Agent-Freehand : Stay blessed.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

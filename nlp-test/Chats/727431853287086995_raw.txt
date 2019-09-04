@@ -1,0 +1,27 @@
+Opener :  Opener: Hi! Can I help answer any questions about your order?
+Customer : Hi, I'm browsing the Triple Play package and wonder if I can opt out the HD Set-Top Box ($11/mo) option.
+Agent : Agent 'abc@abc.com' enters chat (as Ian)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Hey there! My name is Ian. I will be glad to share information on this.
+Agent-Freehand : You will need at least 1 Set top box to order ABC ABC Triple Play for your ABC ABC TV service.
+Agent-Freehand : A Set Top Box allows you to watch standard definition and HD channels & programming. You will also be able to access over 111,111 monthly Video On Demand movies and shows.
+Agent-Freehand : You won't get the channels without Set top box. So, its better to select at least 1 Set top box for getting ABC ABC TV channels on at least one of your TV.
+Agent-Freehand : Just to confirm, does this answer your question?
+Customer : yea, so I have to pay that $11/mo basically if I want to go for Triple Play.
+Agent-Freehand : Yes, that's right.
+Customer : Is there a way I can be qualified for the $111 Google and Nest promotion without the extra $11/mo?
+Agent-Freehand : It looks like ABC ABC TV service is required to bundle with ABC ABC Internet to qualify for $111 Google and Nest promotion with 1 year agreement.
+Agent-Freehand : Just to confirm, how you are going to access your ABC ABC TV without Set top box?
+Customer : we don't really watch TV...
+Agent-Freehand : In this case, you can select at least 1 Set top box for getting ABC ABC TV service and qualify for $111 Google and Nest promotion.
+Customer : Got it. Thanks.
+Agent-Freehand : My pleasure! Just to confirm, would you like to go ahead and complete your online order now?
+Customer : Not really. Thanks though.
+Agent-Freehand : I can understand that. However, if you want, you may select a Digital Adapter worth $1.11/month price instead of Set top box.
+Agent-Freehand : The Motorola DCT 111 Digital Adapter provides digital access to only local, premium, and national standard definition channels.
+Not compatible with the following: HD Channels, Video On Demand, Impulse PPV, Interactive Media Guide, TV listings, parental controls, Home Media DVR, Media Manager and games.
+Agent-Freehand : Just to confirm, would that work for you?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : I'll think about it. Thanks.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

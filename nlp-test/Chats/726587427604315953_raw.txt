@@ -1,0 +1,153 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : Landline isn’t working 
+Agent : Agent 'abc@abc.com' enters chat (as Marcus)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Hey there! My name is Marcus.
+Agent-Freehand : Hope you are doing well today.
+Agent-Freehand : Just to be sure you are facing issue with the landline. Correct?
+Customer : My landline has been down for hours. It says “line in use” and it isn’t. I’ve unplugged it, disconnected the jack, etc. and it’s still not working 
+Agent-Freehand : It seems it is a technical issue.
+Agent-Freehand : Let me connect you to our tech team.
+Agent : Agent 'abc@abc.com' enters chat (as Sudheer)
+Customer : thank you
+Agent : Agent 'abc@abc.com' exits chat
+Agent-Freehand : Thank you for contacting ABC repair support. My name is Sudheer.
+Customer : hi I’m Gina. My land line has been down for hours.
+Agent-Freehand : I understand the problem you have had to face with your home phone.
+Agent-Freehand : Hi Gina,
+Agent-Freehand : I know how important this service is to you. Please do not worry. I am here to help you.
+Agent-Freehand : ¿¿ ¿¿¿¿¿¿¿¿oot further?
+Customer : the phone says “line in use” but it isn’t. I’ve already unplugged it (several times), disconnected the jack and turned the power source off and back on. Nothing has fixed it.
+Agent-Freehand : Could you please help me with the home phone number so that I can pull up your account and troubleshoot further?
+Customer : 111-111-1111
+Agent-Freehand : Thank you for the details.
+Agent-Freehand : I am now running a line test to identify the issue.
+Customer : thank you
+Agent-Freehand : My pleasure!
+Agent-Freehand : Thank you for waiting.
+Agent-Freehand : I am now required to reboot the main ABC box.
+Customer : no prob ok
+Agent-Freehand : Please switch to mobile data so that our chat do not get disconnected.
+Customer : im on my phone
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : We are still connected.
+Agent-Freehand : The test is still running.
+Customer : ok
+Agent-Freehand : Thank you for waiting.
+Agent-Freehand : Could you please check if there is dial tone?
+Customer : nothing and it still says line in use
+Agent-Freehand : Could you please verify if the cable is connected firmly?
+Customer : Everything is connected firmly. I even unplugged and plugged back in...
+Agent-Freehand : I appreciate your efforts!
+Agent-Freehand : I have now rechecked this for you.
+Agent-Freehand : I see that I have to send a technician who would check the lines physically. In case the technician finds any issue with the equipment provided by ABC, there will be no charge.
+Agent-Freehand : If there is any trouble found with the equipment not provided by ABC then there will be a possible charge for the repair and it will be informed by the technician. Is this okay with you?
+Agent-Freehand : Not to rush, may I know if we are still connected?
+Customer : no, I can’t afford to take a chance of being charged for something I can afford. Just have them check and confirm the ABC stuff is operational 
+Agent-Freehand : Sure. We will take care of the issue.
+Agent : In order to schedule the technician, I need a few details from you:
+Agent : 1) Type of premise and any access codesAny petsComplete service address Two best can be reached numbersEmail address, to send you the technician details
+Customer : no pets
+Customer : 111 Albany St Pittsburgh 11111
+Customer : 111-111-1111
+Customer : abc@abc.com
+Agent-Freehand : Thank you for the details.
+Customer : no prob
+Agent : On the day of your appointment, you will begin receiving text message updates of the technician's arrival.
+Agent : The technician will call from a number with an 111 prefix to let you know while they are on their way.
+Customer : Ok
+Agent-Freehand : Please rest assured that we, at ABC will do our best to fix this issue for you as soon as possible on high priority.
+Agent-Freehand : I have an important information for you.
+Customer : Thank you
+Agent-Freehand : My pleasure.
+Agent-Freehand : Please allow me a quick minute.
+Customer : ??
+Agent-Freehand : I see that your contract has been expired on 11/11/1111. It would be beneficial to extend/renew the contract as you may get promotional/discount offers. It is likely that the renewal may reduce your bill too.
+Agent-Freehand : You will be provided a $111 credit towards any combination of eligible Google and Nest via our unique accessories site.
+Agent-Freehand : Upon renewing your account.
+Agent-Freehand : I would get the chat connected to the Sales Representative who will explain you the details. You may decide and proceed accordingly. May I have your permission to do so?
+Customer : i called a couple of months ago and was told the only thing they could do was take $11 off if I let them do auto pay.
+Customer : i inquired about getting rid of my phone to make things cheaper but it was on a few dollars, not worth my time. Ive actually been on line looking a Comcast. 
+Customer : Sure, connect me
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : Please stay connected.
+Customer : ok
+Agent : Agent 'abc@abc.com' enters chat (as Quinton)
+Agent-Freehand : Hi!
+Agent-Freehand : How may I assist you today?
+Customer : do you have any bundle deals that are cheaper than what I’m paying but I want to keep all my channels. I’m willing to get rid of my landline 
+Agent : Agent 'abc@abc.com' exits chat
+Agent-Freehand : Thank you for being a valued ABC customer.
+Agent-Freehand : I am sorry to hear that you are looking to cancel the ABC home phone service.
+Agent-Freehand : May I know the reason to cancel it?
+Customer : I can’t afford 111+ every month. It’s ridiculous. I lost my husband a few months ago and am looking to cut back on stuff I can’t afford. 
+Customer : I even asked if I could “be a new customer” since stuff is in my husbands name and I was trying to change it to mine. But no one was willing to work with me
+Agent-Freehand : I am sorry to hear the news about your husband.
+Customer : thank you 
+Agent-Freehand : You can transfer the service in your name. You will just need to call our Consumer Solution Center. A rep will be happy to assist you with that. 
+
+I understand that the cost is a concern for you these days.
+Agent-Freehand : Let me share that ABC offers more discount with more services. So, customers can enjoy the services at best available price. 
+
+You will lose your special triple bundle discount by removing home phone service. So, I would recommend you to stay with triple play package to secure triple bundle savings. 
+
+You are loyal ABC customer. Your business and savings means a lot to us. I will put my all efforts to check the best deal available to you to lower the bill.
+Agent-Freehand : Would you like to check the deals to lower the bill and retain with triple play package?
+Customer : sure, tell me what you have available 
+Agent-Freehand : Thank you very much for giving me permission to assist you.
+Agent-Freehand : To assist you better, I will need to confirm few details. Once I verify details, I will check your current plans and charges. Then I will check the options to lower the bill, share new price and process the order.
+
+I appreciate for your constant support during chat.
+Agent-Freehand : Could you please share first name and last name as showing on ABC account plus ABC account number to access and authenticate your account? 
+
+You will find account number on ABC bill or by accessing above link.
+Agent-Freehand : To confirm, are you logged into My ABC account?
+Agent-Freehand : I hope we are still connected, right?
+Customer : Eugene Vennare is the name on the account. xxxxxxxxxxxxxxx
+Agent-Freehand : Thank you.
+Agent-Freehand : But the chat window will not allow me to view your account number.
+Agent : Please provide your account number in the following format so I can view it in the chat window:  ###-###-###-####
+Agent-Freehand : It will work that way. I apologize for that inconvenience.
+Customer : Sorry the site kept telling me things weren’t available. So it took me a while
+Agent-Freehand : No problem.
+Agent-Freehand : Could you please share account number in  ###-###-###-#### format?
+Customer : 111-111-111-1111
+Agent-Freehand : Thank you for sharing your account information. Please give me a few moments while I pull up your account information in my system.
+Agent-Freehand : I am sorry. The system is unable to recognize the account details. Could you please share the mobile number registered with ABC account?
+Customer : 111-111-1111 or 111-111-1111 (which was my husbands but no longer on)
+Agent-Freehand : Thank you.
+Agent-Freehand : I am still trying to access your account.
+Agent-Freehand : Please allow me few more moments.
+Customer : no problem 
+Agent-Freehand : Your constant support is really appreciated.
+Agent-Freehand : I am sorry. The account number which you have shared doesn't meet with ABC account. Could you please share account number as showing on ABC bill or account?
+Customer : wait one sec
+Agent-Freehand : Sure, take your time.
+Customer : Account Number: 111-111-111-1111-11
+Customer : Copied from a bill
+Agent-Freehand : I am sorry. It still doesn't meet with ABC account.
+Agent-Freehand : The  111-111-1111 number is not working currently, correct?
+Customer : Correct. I can use WiFi but can’t call out or get calls
+Customer : You try 111-111-1111
+Agent-Freehand : I am sorry. But that is not the registered mobile number.
+Customer : I looked at the profile and it does have my cell number????
+Customer : 111-111-1111
+Agent-Freehand : The security and protection of your account is our first priority. So, it is necessary for us to authenticate the account prior to share any information related to account. I hope you will understand it.
+Customer : i do
+Agent-Freehand : Thank you for your great support.
+Customer : im just not understanding why you can get into the stuff. The account name was copied directly from the bill and I’ve given all the phone numbers it could possibly be
+Customer : in going to give up soon, I need to get some sleep.
+Agent-Freehand : I certainly understand your concern.
+Agent-Freehand : I apologize for any inconvenience caused to you; however, it is necessary for us to authenticate the account. 
+
+In that case, I would recommend you to call our Consumer Sales and Solution Center. A rep will be happy to check the deals available to you to renew the contract. Let me share their contact number.
+Agent-Freehand : Please call our Consumer Sales and Solutions Center at 1-111 ABC (1-111-111-1111) between 1:11 AM and 1:11 AM EST.
+Agent-Freehand : They will also try their best level to help you to lower the bill.
+Agent-Freehand : Can you think of any additional questions that I can assist you with today?
+Customer : no but thank you very much for trying 
+Customer : good night
+Agent-Freehand : It's my pleasure to assist you. We are pleased to have such a nice customer like you.
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.
+Agent-Freehand : Have a good night and take care of yourself.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

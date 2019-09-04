@@ -1,0 +1,48 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : i would like to eliminate phone service and cut cable back to save costs.   I see many specials in the mail such as similar package to what i have for 11,11.  my bill is over $111 and I can not afford to wait 1 months to reduce service.  can i do online somehow or do I need to call
+Customer : really
+Customer : is this really working
+Agent : Agent 'abc@abc.com' enters chat (as Stanford)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Stanford. Happy to help!
+Agent-Freehand : Good evening!
+Customer : hello
+Agent-Freehand : Sure thing! Let me access your account and I will be glad to check the deals for you.
+Agent-Freehand : Please provide your full name on the account and the Account Number to retrieve account information.
+Customer : joseph mclarney 1111111111111
+Agent-Freehand : Thank you for sharing your account information. Please give me a few moments while I pull up your account information in my system.
+Agent : Thank you for your years of loyalty to ABC!
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : working from home
+Customer : do not need phone got originally because I thought I would use fax machine.
+Agent : What are your must have TV stations/networks?
+Customer : really local channels maybe some of the other networks like game channel some of the home improvement shows.  Really do not watch much anymore.  HBo runs old outdated movies so could do with out it also.
+Agent-Freehand : I see that your current bill is $111.11 with ABC Digital Voice Unlimited Plan  + 11/11 Mbps Internet  + ABC TV Ultimate HD.
+Agent-Freehand : I see that removing phone would not be a good option as it will remove the bundle discounts and you may end up paying almost the same or higher price. Let me check deals for you here.
+Customer : I got advertisement in mail for internet of 111MBPS for $11.11 month or internet phine and tvfor $11.11 syas goigabit connectin
+Agent-Freehand : The deal you are referring to is for new installations and also the rate you shared is just the plan rate which does not include rent of the equipment, taxes and fees.
+Agent-Freehand : Checking deals for you here.
+Customer : okay
+Agent-Freehand : Thank you!
+Customer : how much to cancel service overall.
+Agent-Freehand : I see that if you cancel the services today, there will be a cancellation fee of $11.
+Customer : i might be better off to cancel and find another provider.  What is process for canceling?  I want to think it over and see. Also did you come across any deals.
+Agent-Freehand : I am checking on deals. If we do not find good deals, I will get you the number to call and cancel.
+Agent-Freehand : Sounds good?
+Customer : ok
+Agent-Freehand : Thank you! Just a moment here.
+Agent-Freehand : We can renew the services along with changing the TV plan to Extreme TV plan 1111 and your bill will be reduced to $111.11 after all the taxes and fees along with 1 year price lock so that you do not have to worry about price hike and be worry free!
+Agent-Freehand : With this deal, you will also get $111 towards a range of Google and Nest smart home devices!
+Agent-Freehand : How does this deal sound to you?
+Customer : price is too high I am attempting to reduce my cost
+Agent-Freehand : We can remove HBO and your bill will be reduced to $111.11 including all the taxes and fees.
+Customer : Please provide number for me to call and discuss cancellation.
+Agent-Freehand : Sure, let me share the number.
+Agent-Freehand : Since are unable to process your request over the chat; please contact one of our specialists at 111-111-1111 during 1:11AM-1:11PM(Mon-Fri) and they will be glad to assist you with your request.
+Agent-Freehand : Do you have any more questions for me? I will be happy to answer all your questions.
+Customer : no Thanks for trying.
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.
+Agent-Freehand : Have a great night ahead! Stay safe and stay blessed.
+Customer : The customer closed the browser window
+Agent : Agent 'abc@abc.com' exits chat

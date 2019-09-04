@@ -1,0 +1,52 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : I currently have optimum cable and I’m in a contract till 1/11 will you be able to buy it out if we switch to ABC?
+Agent : Agent 'abc@abc.com' enters chat (as Brandon)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Brandon. Happy to help!
+Agent-Freehand : I apologize for the longer wait time. Yes, we will buyout the contract if you join ABC.
+Agent : Stuck in a contract? Get up to $111 credit to help cover your early termination fee! I can help explain how this works.
+Agent : After your ABC service is installed, please go to  www.ABC.com/switch  for assistance in getting your up to $111 Early Termination Fee credit. This site will also provide status updates after submission.
+Customer : I’m interested in getting started with ABC ASAP 
+Agent-Freehand : Awesome!
+Agent-Freehand : I will help you in ordering services.Thank you for considering ABC services. I will be glad to help you with your request.
+Agent-Freehand : I see you have already added the plan to the cart, may I know which plan you have selected?
+Customer : I need 1 boxes one which a dove and a high speed router 
+Customer : Dvr 
+Agent : I’ll take care of this for you! You're in good hands.
+Agent-Freehand : Could you please help me with the complete address along with the zip code where you want us to install new services?
+Customer : 11 West 1th street, Deer Park NY 11111
+Agent-Freehand : Thank you for sharing your address. Please give me a few moments while I check your address and help you with the pricing and promotions for available ABC services.
+Customer :  I’d prefer to speak to you 
+Agent-Freehand : Since we are in the online chat department, the calling option is not available. However, I can assist you online with placing your order.
+Agent : Order online and we'll waive the standard $11.11 setup charge!
+Customer : and would like a excellent package 
+Agent-Freehand : Sure!
+Agent : Great news! You qualify for ABC! Let’s discuss which options are best for you.
+Agent : To save you some time, I am building your cart with the services you need and will send you the link to review in a few moments.
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : What are your must have TV stations/networks?
+Customer : Most stations and no adult channels 
+Agent-Freehand : May I know which genre you watch the most?
+Customer : my wife likes hgtv , bravo, I like sports. No adult pornographer 
+Agent-Freehand : Thank you!
+Customer : we like the movie channels 
+Agent-Freehand : Would you like to include all the movie channels?
+Customer : $$$$
+Agent-Freehand : You can select 1 for $11, 1 for $11, 1 for $11, 1/1 for $11 from 1 Premium Movie channel packs: HBO, Showtime, Starz, EPIX, Starz
+Customer : How much for 1
+Agent-Freehand : It will be $11/mo for all the channels.
+Customer : Figure that 
+Agent-Freehand : Sure!
+Customer : High speed internet 
+Customer : bundle pkg 
+Agent-Freehand : Sure thing!
+Agent : Based on what we discussed here is what I put together for you.
+Agent-Freehand : We will offer you ABC Triple Play at $11.11:
+ Custom TV Home & Family ( includes Sports, HGTV, Bravo and many more )
+ ABC Gigabit Connection with 111/111 Mbps
+ ABC Digital Voice with 11 calling features
+Estimated Monthly Subtotal : $11.11 + Rent: ABC Quantum Gateway Router : $11 + Rent: HD Set-Top Box 1 : $11 + DVR Service : $11 + Premium Entertainment Value Pack : $11 = $111.11 + taxes and fees. The final bill will be $111.11/mo including taxes and fees.
+Agent : Get $111 towards a range of Google and Nest smart home devices with qualifying bundles with Auto Pay and 1-year agreement.
+Agent-Freehand : Sounds good?
+Customer : Customer connection lost. The customer lost network connectivity
+Agent : Agent 'abc@abc.com' exits chat

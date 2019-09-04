@@ -1,0 +1,18 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : Due to misleading web. a place was placed on my account. I would like it reversed and put back on monthly with no addition cost. Is there a number to regional supervisor or manager 
+Agent : Agent 'abc@abc.com' enters chat (as Phoebe)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Hey there! My name is Phoebe.
+Customer : okay
+Agent-Freehand : I will surety pull up your account and check if the order that you're referring to is still pending and if it can be canceled or the changes can be undo .
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Agent-Freehand : Thanks for waiting .
+Agent-Freehand : I can see that the order that you're referring to is already completed and I do not see an option for the order to be canceled at my end.
+Agent-Freehand : You're getting the best $11/mo discounts and the best Google and Nest Promotion with this deal.
+Customer : May I have the phone number, text or email for whoever is the highest person in charge of order
+Customer : I understand however I did not want a 11 month contract.
+Agent-Freehand : Yes, I can understand .
+Agent-Freehand : You can contact our Offline Support Team at 1-111 ABC (1-111-111-1111) between 1:11 AM and 1:11 AM EST and check if they are able to cancel these changes at their end.
+Agent-Freehand : May I provide you with any other support?
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

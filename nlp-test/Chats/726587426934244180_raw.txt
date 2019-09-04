@@ -1,0 +1,43 @@
+Opener :  Opener: Hi! I can help complete your order. What questions do you have?
+Customer : LOOKING for an discount or free channels offer 
+Customer : Hi 
+Agent : Agent 'abc@abc.com' enters chat (as Dominick)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Dominick. Happy to help!
+Customer : Hi Dominick
+Agent-Freehand : Hi!
+Agent-Freehand : Just to be sure. Are you ordering bundle services or internet only?
+Customer : Looking out any offer available to get new connection
+Customer : yes just internet 
+Agent-Freehand : Could you please help me with the complete address along with the zip code where you want  to install new services?
+Customer : 111 Fox Run Drive, Plainsboro,NJ - 11111
+Customer : Any free channels 
+Customer : if I go with contract what benefit
+Agent-Freehand : I would like to share that with internet only TV services are not available.
+Customer : with out contract what I can get 
+Customer : HBO , Netflix 
+Customer : which I can use from smart app / TV
+Agent-Freehand : If you order internet and TV in bundle without contract but the equipment would be chargeable and the HBO is a premium channel that is chargeable at $11.11/mo and the Netflix is needed to be subscribed from the Netflix provider.
+Customer : no channels free
+Customer : my friend said they get Netflix 
+Agent-Freehand : There was a offer for Netflix earlier but that offer expired and now it is not available.
+Agent-Freehand : Get $111 towards a range of Google and Nest smart home devices with qualifying bundles with Auto Pay and 1-year agreement.
+Customer : For the internet only 
+Customer : with $11 per month 
+Agent-Freehand : Let me check the available services in your location.
+Agent-Freehand : Please stay connected.
+Agent-Freehand : Here is the package:
+ABC Internet 111/111 - $11.11/mo
+Rent: ABC Quantum Gateway Router - $11.11/mo
+
+The total charges would be $11.11/mo including taxes and fees.
+Customer : Got it will I get $111 reward 
+Agent-Freehand : You need to have the bundle service with 1 year agreement for the $111 reward.
+Customer : Okay will do that 
+Customer : thanks 
+Agent-Freehand : Are you referring for bundle services?
+Agent-Freehand : Would you like to check for the bundle services including TV?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : Oh got it no need thanks 
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

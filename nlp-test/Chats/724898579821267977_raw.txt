@@ -1,0 +1,49 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : $111 google offer
+Agent : Agent 'abc@abc.com' enters chat (as Alice)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Alice. Happy to help!
+Customer : Hi Alice.
+Agent-Freehand : Hello Wei!
+Customer : I am reviewing my account information, and I saw "$111 toward Google and Nest smart home devices" under my agreement info.
+Customer : I would like to know how to claim it.
+Agent-Freehand : You will get an email after 11 days of the contract renewal. and you can redeem the offer.
+Customer : So this offer is not activated until my contract renewal? That's 11 months from now.
+Agent-Freehand : Let me check that for you.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : Thank you.
+Agent-Freehand : You are welcome!
+Agent-Freehand : I appreciate your patience.
+Customer : Yes?
+Agent-Freehand : I see that you are already getting the best available discounts.
+Agent-Freehand : Also the $111 offer you are referring to is available with a contract renewal deal.
+Agent-Freehand : And if you renew your contract as of now, you will lose the available discounts.
+Customer : It doesn't make sense.
+Customer : I am seeing "Offer valid until 11/11/11 via the ABC accessories website. " under the offer details.
+Customer : How is that possible to happen if my renewal is 11 months from now? The offer will be expired long before
+Agent-Freehand : I totally understand that. however its available with a contract renewal deal only.
+Customer : Could you explain to me why the offer is showing under my agreement details if that's the case?
+Customer : I am not referring to general offer page. It is listed in my 1 year agreement details.
+Agent-Freehand : Thats just a new offer launched as of now. Thats why you must be able to see that with a contract renewal deal.
+Customer : It is not.
+Customer : I can show you the screen print. Or if you have the access, you can review it.
+Customer : 1 year agreement detailsMonthly price includes $11.11 in discounts$11 ABC Bundle Discount$111 toward Google and Nest smart home devicesABC Connections $11 Discount
+Agent-Freehand : Yes thats with a contract renewal deal.
+Customer : I believe you are contradicting yourself.
+Agent-Freehand : I already shared that you will get the offer after 11 days of your contract renewal.
+Customer : You just told me that I am getting the best available discount, and if I renew now, i will lost the discount.
+Customer : And under my 1 year agreement details, I have $11 monthly price discount. $11 from bundle, and $11 from connections.
+Agent-Freehand : Yes. Currently your bundle price is $11.11, if you want to avail this offer and go with a contract renewal deal, your bundle price will be $111/mo before taxes and fees.
+Customer : Which means that the 1 year agreement details is for my current agreement.
+Customer : So how could you say the $111 google discount in my current agreement is for renewal?
+Agent-Freehand : I have just send you the price quote with the Google offer for a clear understanding.
+Customer : So you are saying there's nothing you can do. Am I understood it correctly?
+Agent-Freehand : Let me explain this to you.
+Agent-Freehand : I see that you are under a 1 year contract as of now and gettting the best available discounts. Also you are getting $111 bundle discount included and these discounts are included with the primary order only .i.e., when you sign up for the services.
+
+We can renew your contract now, in that case you will lose the $111 discount and will get $11 discount included with the new contract, which will increase your monthly bill by $11/mp
+Agent-Freehand : 1
+Customer : Thank you Alice.
+Agent-Freehand : You are welcome! I hope I was able to explain this to you clearly.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,83 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : I would like to lower my monthly payment
+Agent : Agent 'abc@abc.com' enters chat (as Harold)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : ok
+Agent : Hey there! My name is Harold. Happy to help!
+Customer : I would like to only keep the NFL Network including Redzone and HBO. I don't need all the other premium channels
+Agent-Freehand : I would be glad to check the deals in your account that can lower your bill.
+Customer : Ok Thanks
+Agent-Freehand : I can see that you are logged into your My ABC account
+Agent-Freehand : I got your account Daniel!
+Agent-Freehand : Thank you for authenticating your account
+Customer : no problem
+Agent-Freehand : Let me take a moment to review your account
+Customer : Ok
+Agent-Freehand : Thanks.
+Agent-Freehand : I am checking options in your account that can lower your bill.
+Customer : okj
+Agent-Freehand : Is HBO important for you?
+Customer : Yes, but please give me both options with and without
+Customer : Redzone is most important
+Agent-Freehand : Got it.
+Agent-Freehand : Do you have access to this email abc@abc.com?
+Customer : yes
+Agent-Freehand : I have sent you a detailed quote of the new deal with HBO.
+Agent-Freehand : Please review it and let me know if you want to make any changes in it.
+Customer : ok thanks
+Customer : That is more then I pay currently
+Agent-Freehand : If we remove HBO then your New Estimated Monthly Charges will be $111.11 +taxes and fees= $111.11  total.
+Agent-Freehand : You'll get $111 towards a range of Google and Nest smart home devices with this deal.
+Customer : Ok that's nice. So basically I have to lose HBO and pay the same as my current bill .I don't really like that deal
+Agent-Freehand : I can add additional $1/mo auto pay discount to this deal.
+Customer : Any other deals? I'm not really satisfied with these offers
+Agent-Freehand : There are other deals but those are more expensive than this deal.
+Agent-Freehand : This is the best deal available in your account.
+Agent-Freehand : The Ultimate HD plan includes NFL RedZone as well.
+Customer : Ok I will look at Cablevision to see what they offer
+Agent-Freehand : I understand that our competitors are offering some lucrative rates for services; however, once their introductory period expires their price hikes to almost double. Unlike our competitors at ABC we value our customer and we are committed to give them best value for their money. I can assure you that you will not find the same quality of service at the same rates with our competitors while renewing the services.
+Customer : I can not keep paying that much for only watching a few channels\
+Agent-Freehand : May I know your important channels other than NFL RedZone?
+Customer : I have none. I only need the basic channels
+Agent-Freehand : Let me check your most watched channels.
+Agent-Freehand : We have Sports pass add on which includes NFL rEDzONE.
+Agent-Freehand : I am checking option with basic TV plan with Sports pass as add on.
+Customer : Ok thanks
+Agent-Freehand : You are welcome.
+Customer : Any ideas?
+Agent-Freehand : I do have a deal for you.
+Agent-Freehand : The deal includes 
+Double Play
+• ABC Internet 11/11  
+• ABC TV Preferred HD  
+• $11 ABC Bundle Discount Included  $11.11 
+Rent: HD DVR  $11.11 
+Rent: HD Set-Top Box  $1.11 
+Sports Pass  $11.11  
+Will be  $111.11  +taxes and fees= $111.11  total.
+Customer : I like that deal. Does that include HBO? I can also get rid of the DVR?
+Agent-Freehand : The deal does not include HBO.
+Agent-Freehand : We can remove DVR from your account.
+Customer : Can you write that deal up for me to look at?
+Agent-Freehand : To be sure,you want to add HBO and remove DVR.Correct?
+Customer : Yes please
+Agent-Freehand : If we add HBO and remove DVR to the above deal then your New Estimated Monthly Charges will be $111.11 +taxes and fees= $111.11  total.
+Customer : How long is this contract?
+Agent-Freehand : This is 1 year deal.
+Agent-Freehand : You'll get price guarantee for full 1 years with the deal.
+Customer : Ok can you email me thay
+Customer : that
+Agent-Freehand : Sure.
+Agent-Freehand : Just a moment.
+Agent-Freehand : I have sent you a detailed quote of the new deal.
+Agent-Freehand : Please have a look and let me know if we are good to proceed.
+Customer : Ok I just have to review this. Can I email someone back or use this application when I am ready to move forward
+Agent-Freehand : You can chat with us anytime to place an order.
+Customer : Ok great. Thanks for your help
+Agent-Freehand : I hope you don't mind me asking, is there anything holding you back from placing your order online today?
+Customer : Just the prices
+Agent-Freehand : No Problem.
+Agent-Freehand : You can try coming back later to place an order. If you need any assistance, please click on the Chat Window option; we are here to assist you 11/1.
+Customer : Thanks
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,93 @@
+Opener :  Opener: Hi! Chat now to get our best ABC offers and find out how to save $11!
+Customer : I had previously gone thru this process and was asked by another chat peerson to clear ny cache which I did. He was going to send a link fo rme to finisgh.
+Agent : Agent 'abc@abc.com' enters chat (as Leslie)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Leslie. Happy to help!
+Agent-Freehand : Yes, I can see that you are on CHECKOUT page.
+Agent-Freehand : Let me help you with the steps to complete the order.
+Agent-Freehand : Please fill out all the information required and make sure that no field is left blank, so that you can get the earliest installation date right away.
+Customer : I've already done this including the credit check, auto pay, etc. The problem was an incorrect installation address. 
+Agent-Freehand : Could you please share the complete address including zip code with me?
+Customer : 111 danielle lane  coatesville, pa 11111
+Agent-Freehand : Thank you.
+Agent-Freehand : I will share a new link with correct address.
+Customer : thanks!
+Agent-Freehand : Most welcome.
+Agent-Freehand : May I know which TV plan have you selected in cart?
+Customer : utlimate
+Agent-Freehand : You have selected 1 boxes and No for recording. Correct?
+Customer : yes
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : May I have your email address, please?
+Customer : blessed11
+Customer : abc@abc.com
+Agent-Freehand : Thank you. Please stay connected.
+Customer : got it
+Agent-Freehand : Please check your email and let me know if you have received any link at your email address from ABC.
+Agent-Freehand : Enter the cart number as PA11111111111 and click on the CONTINUE button.
+
+If possible open that link in the same browser from which we are chatting.
+Agent-Freehand : Please fill out all the information required and make sure that no field is left blank, so that you can get the earliest installation date right away.
+Customer : So, I've oopened it. this is no different then when I opened the chat. I do not want to do a second credit check. Also, the price is $11.11 more than previously.
+Agent-Freehand : Let me share that coatesville and VALLEYboth are same things.
+Customer : yes
+Agent-Freehand : The street address is also correct.
+Customer : yes
+Agent-Freehand : May I know earlier what price were you getting?
+Customer : 111.11
+Agent-Freehand : Were you getting $111 toward Google and Nest smart home devices + $111 Visa prepaid card with that deal?
+Customer : yexs
+Agent-Freehand : Could you please open the link and enter the old saved cart and click on "SAVE" at the top so that I can check it from my end?
+Customer : done. so basically you can't retrieve the original order? I find it interesting that I do what ABC recommends tofix an incorrect address and find myself starting over. at a HIGHER price!
+Agent-Freehand : Your address is corrected in the second saved cart which I have just created.
+Agent-Freehand : Would you like to make any changes in the address mentioned in the second saved cart?
+Customer : no
+Agent-Freehand : Thank you for conforming.
+Agent-Freehand : Now let me check why there is difference in the price for the same packages.
+Agent-Freehand : May I have the saved cart of old order number so that I can identify the difference in plan selected?
+Customer : I don't have it - thats the problem. The first chat person told me to close the window and he would send a link!!!!!!!!!!
+Agent-Freehand : Please go to below link to go back to the old checkout page:
+
+
+Agent-Freehand : Let me know once you are on that page. I am right here with you.
+Customer : so basically because ABC doesn't know what it is doing, I start over, pay more and have to run a second credit check!!!! Not a good way to start.
+Agent-Freehand : Could you please click on "SAVE" button on the currently page so that I can check it from my end before making any changes or placing the order?
+Customer : done
+Agent-Freehand : Please help you with 11 digit's order number.
+Customer : PA11111111111
+Agent-Freehand : Just to confirm, are you looking to rent the router or buy the router?
+Customer : buy
+Agent-Freehand : Okay so that where the $11 difference is coming.
+Agent-Freehand : I have selected rent option for router for $11/mo instead of buy option.
+Agent-Freehand : Please click on BACK button and go back to the build ABC page and then changes the router option to purchase option for router and then click on CHECKOUT button. I am right here with you.
+Agent-Freehand : Under the Internet section you will get the option to change rental option with buy option for Quantum Gateway Router.
+Agent-Freehand : You have still not changed the router rental option to purchase option.
+Agent-Freehand : Please click on "Gigabit connection" and then click on "Quantum Gateway Rental" option.
+Agent-Freehand : Then you will see "Rent" option checked and just have to click on "BUY" option.
+Agent-Freehand : Should I make the changes for you?
+Agent-Freehand : Okay now you did it.
+Customer : It is actuall yunder the TV choice. Done
+Agent-Freehand : Perfect! Now please click on CHECKOUT button and let me know once the next page is up. I m right here with you.
+Customer : it s there
+Customer : so no matter what i still have to rerum a credit check????????
+Agent-Freehand : Nope there won't be any credit check but to proceed to the next page you will have to fill out the information on the current page.
+Agent-Freehand : It won't effect the credit score if you have done the credit check within 11 hours.
+Customer : im stuck
+Agent-Freehand : Please fill out all the information required and make sure that no field is left blank, so that you can proceed to the next page.
+Agent-Freehand : If you do not want to fill out any information then it's okay I will place the order for you.
+Agent-Freehand : Just to confirm, do you see "SAVE" button at the top right side of the page?
+Agent-Freehand : Perfect! Now please enroll in autopay option, select the best available installation date, accept the terms of services and then click on "Place Order" button.
+System : SALE OCCURRED
+Customer : done
+Agent-Freehand : Congratulations on completing your ABC order successfully online.
+
+You will receive an e-mail confirmation letter, within 11 hours, from ABC. This e-mail will have your online order number which you can use to check your online order status.
+Agent : Congratulations! Welcome to the ABC family and enjoy your life on ABC!
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : I'm good thanks!
+Agent-Freehand : You're most welcome.
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC. Have a great day ahead!
+
+Good bye and tale care.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

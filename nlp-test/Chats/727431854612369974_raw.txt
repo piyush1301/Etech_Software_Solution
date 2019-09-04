@@ -1,0 +1,53 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : Hi, I'm looking to switch over from Comcast, my bill just increased almost $11. What kind of deals do you have for internet and cable that will make my payments no more than $111 including tax and fees? 
+Agent : Agent 'abc@abc.com' enters chat (as Tony)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Thank you for considering ABC services. I will be glad to check the best deals available for Internet and TV for your location!
+Agent-Freehand : Please allow me a moment.
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : What are your must have TV stations/networks?
+Customer : Bravo, food network, tlc, fx
+Customer : among others
+Agent-Freehand : Thank you for sharing your must have channels.
+Agent-Freehand : May I know how many TV's you will be connecting?
+Customer : 1
+Agent-Freehand : Thank you for confirming!
+Agent-Freehand : Do you want to include DVR recording services?
+Customer : yes
+Customer : we only have it for one tv now, but depending on how much extra it is for the second one we'd consider it
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : Please allow me a moment.
+Agent-Freehand : I would recommend you ABC Double Play - ABC Gigabit Internet with  Custom TV Action & Entertainment TV package, your monthly total including the current promotional discounts will be $111.11(including taxes fees equipment and DVR recording for 1 TV)
+Agent-Freehand : Special offer includes -
+Agent-Freehand : A $111 credit towards a range of Google and Nest smart home devices. You’ll receive an email with instructions to redeem your $111 credit approximately 11 days after your ABC service(s) are installed.
+Agent-Freehand : With the fastest internet - ABC Gigabit internet with speed 111/111Mbs, powerful enough to support more than 11 devices streaming 1K HD movies/videos, Online gaming, working from home(Uploading/downloading/sharing large files).
+Agent-Freehand : Custom TV Action & Entertainment TV package will include 111+ channels including your must have channels, Food Network, FX, TLC and Bravo.
+Customer : is there a modem included or do we need to purchase/rent one?
+Agent-Freehand : I have included the rental router in the $111 total
+Agent-Freehand : !
+Agent-Freehand : I would also like to share that your one time installation/set up fee of $11 will be waived for placing order online as a special offer!
+Customer : okay, thank you.  How long does this last? I have one more month with my current provider
+Agent-Freehand : I am not sure, this is a promotional offer for limited time and might not be available after sometime.
+Customer : okay
+Agent-Freehand : Would you like to place order and secure this deal today?
+Customer : I would have to check with my roommate first 
+Agent-Freehand : Sure! Please take your time!
+Customer : to place an order if we decide to switch I can just contact someone again through the chat feature? 
+Agent-Freehand : Yes you can!
+Customer : okay great, thank you
+Agent-Freehand : Do you have any more questions for me? I will be happy to check and answer all your questions.
+Customer : if we wanted to add on a second dvr how much would that cost?
+Agent-Freehand : Sure! It will be additional $11/mo
+Customer : okay 
+Agent-Freehand : But I would recommend you to add Multi-Room DVR Enhanced services which is for $11/mo and will support both TV's
+Customer : that's not on top of the original dvr cost?
+Agent-Freehand : No that is not on top of the original DVR, it will be just $11/mo for Multi-Room DVR Enhanced services.
+Customer : okay
+Agent-Freehand : Alright!
+Customer : thanks for all of the information, I'll talk to my roommate and see what she wants to do
+Agent-Freehand : You're welcome!
+Agent-Freehand : It was my pleasure assisting you today!
+Agent-Freehand : Please take a moment to complete our post chat survey once you close the chat window!
+Customer : great I will thank you
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

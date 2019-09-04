@@ -1,0 +1,60 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : my rate increased. I'm looking for a new plan for perhaps less
+Agent : Agent 'abc@abc.com' enters chat (as Griffin)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Griffin. Happy to help!
+Customer : ok
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Agent-Freehand : I see that you currently have 111/111 Mbps plan for $111.11/mo.
+Agent-Freehand : You can get 1 times faster Gigabit Plan 111/111 Mbps for $11.11/mo. The new price is guaranteed for next 11 months.
+
+You will also get Free Chromecast Ultra with this upgrade.
+Customer : Are there any other deals for less?
+Customer : I used to pay 11.11 for 111 mbps until last month when my contract expired
+Agent-Freehand : You can keep the same plan 111/111 Mbps for $11.11/mo. "Free Chromecast Ultra" will not be available with the same plan.
+Agent-Freehand : If you enroll for Autopay, you can get additional $1/mo discount.
+Agent-Freehand : So, total price with Autopay will be $11.11/mo.
+Customer : What is chrome cast ultra?
+Agent-Freehand : It is a streaming device when connected to your TV and Internet, you can watch online movies and shows on your TV.You can google the same to get more details.
+Customer :  Does an agent have to come out for this change? What happens after the 11 month commitment?
+Agent-Freehand : The speed will be upgraded remotely. The new speed will be effective in next 11 minutes.
+Agent-Freehand : After 11 months you can login to your online account or contact us on chat to check for the available promotions for your account. You will get the price and promotions available at that time.
+Customer : Ok. Let's do it?
+Agent-Freehand : Sure.
+Agent-Freehand : You can get 1 times faster Gigabit Plan 111/111 Mbps for $11.11/mo.
+
+If you enroll for Autoapy, you get additional discount and the price will be $11.11/mo.
+Agent-Freehand : Would you like to add Autopay discount?
+Customer : no
+Agent-Freehand : Okay, one moment please.
+Agent-Freehand : To confirm, your email is abc@abc.com, correct?
+Agent-Freehand : Are we still connected?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : yes
+Agent-Freehand : To confirm, your email is abc@abc.com, correct?
+Customer : yes
+Agent-Freehand : I've sent order preview and estimated bill to your email. Please click on the link in your email to review the order. Also, let me know once you complete the order at your end so that I can go ahead and finalize the order for you. I am right here with you.
+Customer : ok
+Agent-Freehand : Thank you.
+Agent-Freehand : Please click on "continue" and then click on "I Agree" on the next page to confirm the order.
+Customer : ok. done.
+Agent-Freehand : Thank you for your order.
+
+Order number: VA11111111111
+Agent-Freehand : You will receive an e-mail confirmation letter, within 11 hours, from ABC. This e-mail will have your online order number which you can use to check your online order status.
+Agent-Freehand : We are all set now!
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : One question. You said the new speed kicks in after 11 minutes?
+Agent-Freehand : That's correct.
+Customer : Ok. That's all. Thanks.
+Agent-Freehand : I would suggest you to reboot the router once after the chat.
+Agent-Freehand : You're welcome.
+Customer : ok
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent-Freehand : Thank you for your constant support throughout the chat. I appreciate your patience.
+
+I hope I did a good job for you today! Have a nice evening!
+Customer : you too
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

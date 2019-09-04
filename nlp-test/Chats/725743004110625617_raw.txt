@@ -1,0 +1,72 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : Hello, I am considering upgrading to the Double Play with 11 mbps.  Is it 11/11 ?
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Agent 'abc@abc.com' enters chat (as Jelin)
+Agent : Hey there! My name is Jelin. Happy to help!
+Customer : Hi Jelin!
+Agent-Freehand : Hello Good Morning!
+Customer : Good morning!  I am considering upgrading to the Double Play with 11 mbps. Is it 11/11 ?
+Agent-Freehand : I would be happy to assist you in upgrading to Double play with 11/11Mbps.
+Agent-Freehand : Yes! You are correct!
+Agent-Freehand : It is 11/11Mbps plan only.
+Agent-Freehand : Let's pull out your account an check the information related to that for you.
+Agent-Freehand : May I confirm, are you logged into your account right now?
+Agent-Freehand : Hope we haven't lost the connectivity?
+Customer : I'm sorry....
+Customer : Didn't see your messages.  Yes, I am logged in.
+Agent-Freehand : No problem at all.
+Agent-Freehand : Thank you for safeguarding your account.
+Agent-Freehand : Now, I'm checking the information for you on it.
+Agent-Freehand : Please allow me a moment.
+Agent-Freehand : I appreciate your patience.
+Customer : No prob
+Agent-Freehand : This is a new 1 year agreement offer. With this offer, you'll get upgraded to 11/11Mbps and Digital Voice phone services. The cost of this package is $111.11/mo before taxes; however, as you are our valued existing customer I would add $11/mo discount for you and make your monthly bill as $11.11/mo before taxes.
+Agent-Freehand : How does that sound to you?
+Customer : What would be the cost if I need to add a wireless extender/booster to the account?
+Agent-Freehand : Sure!
+Agent-Freehand : There are 1 options for you in getting the Network Extender. You can either rent it for $1/mo or your purchase it for one time charge of $11.11.
+Agent-Freehand : May I know which options you would like to go with?
+Customer : OK.  If we rent, and it becomes no longer needed, what is required to stop the rental?
+Agent-Freehand : You can purchase it for one time charge.
+Customer : So, I cannot stop a rental?
+Agent-Freehand : If you are purchasing the equipment, then there is no rental charge for it.
+Agent-Freehand : without purchasing, you want be able to stop the rental if you are getting it for rent.
+Customer : That is correct.  Can I stop the rental at any point?  Is there a fee?
+Agent-Freehand : Yes! You can stop the rental any time you want, by returning the extender back to ABC.
+Agent-Freehand : there won't be any extra fee or charge for it.
+Customer : Ok, thank you.  And can I add the rental at any point (if I do not do it today)?
+Agent-Freehand : yes! You can do in anytime in the future.
+Agent-Freehand : Just to confirm, would you like to add it?
+Customer : Great, thank you. 
+Customer : Not at this time.
+Agent-Freehand : Sure!
+Agent-Freehand : Let's proceed and secure that deal for you today!
+Customer :  And, could you please explain the $111 toward a range of Google and Nest Smart Home devices?  How does that work?
+Agent-Freehand : Sure!
+Customer : Hello, I would just like to confirm we are still connected?
+Agent-Freehand : Yes! We are still connected.
+Agent-Freehand : You'll get a confirmation email on 11st day for the Google and Nest Home smart devices. From that day, within 11 day you've to redeem the offer.
+Customer : Ok, so it becomes $111 off the purchase of one of these devices on the ABC.com website?
+Customer : Hello?
+Agent : Agent 'abc@abc.com' loses connection
+Agent : Agent 'abc@abc.com' enters chat (as Tony)
+Agent : Hey there! My name is Tony. Happy to help!
+Agent-Freehand : I see you were chatting with Jelin.
+Customer : Hi Tony, yes, that is correct
+Agent-Freehand : She was explaining you about the $111 Google and Nest offer.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : Ok
+Agent-Freehand : Thank you!
+Agent-Freehand : Thank you for staying on hold.
+Customer : Sure
+Agent-Freehand : ABC 11/11Mbps Internet with Digital Voice Unlimited(home phone) with new 1 year contract, your monthly total will be $111.11  including taxes fees equipment.
+Agent-Freehand : This total is after including the additional $1 Auto-pay enrollment discount with the renewal.
+Agent-Freehand : Special added offer includes 111 toward a range of Google and Nest smart home devices
+Customer : I see.  Jelin mentioned that total (well, 11.11+taxes, fees, equip, but didn't mention the autopay requirement
+Agent-Freehand : Yes she forgot to mentioned the Auto-pay discount
+Agent-Freehand : Also you will be able to use the $111 credit to redeem cowards Google or Nest devices.
+Agent-Freehand : 
+Customer : Understood about the $1.
+Agent-Freehand : Okay
+Customer : Customer connection lost. The customer lost network connectivity
+Agent : Agent 'abc@abc.com' exits chat

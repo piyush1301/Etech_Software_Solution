@@ -1,0 +1,67 @@
+Opener :  Opener: Hi! Chat now to get our best ABC offers and find out how to save $11!
+Customer : Can I get a price
+Agent : Agent 'abc@abc.com' enters chat (as Kenny)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : Ok
+Agent : Hey there! My name is Kenny. Happy to help!
+Agent-Freehand : Good Morning!
+Customer : Good morning 
+Agent-Freehand : Sure! I will be glad to check for you.
+Customer : I need a price for 1 boxes and a dvr 
+Agent-Freehand : Sure! Let me check for you.
+Agent-Freehand : Please confirm the address: 1111  QUARTERWEST BABYLON NY 11111?
+Customer : yes
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : Please allow me a moment here.
+Customer : ok
+Agent-Freehand : Thank you!
+Agent : Great news! You qualify for ABC! Let’s discuss which options are best for you.
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : Just a few iPads for my kids and myself
+Agent : How many devices do you connect through Wi-Fi?
+Customer : about 1
+Agent : What are your must have TV stations/networks?
+Customer : just the basics. No movie channels
+Agent-Freehand : Sure!
+Agent-Freehand : We can also add phone services to the plan as we offer it for complimentary. There is no extra charge for it. The bundle price would remain same.
+Customer : ok
+Agent-Freehand : Thank you!
+Agent-Freehand : Please allow me a moment to make a best bundle for you as per your needs.
+Customer : ok
+Agent-Freehand : Thank you!
+Agent : Based on what we discussed here is what I put together for you.
+Agent-Freehand : I have made a bundle for you that includes: ABC triple play bundle( ABC Gigabit connection + Custom TV home and family+ Home phone service) + Multi-Room DVR Enhanced Service + Rent: ABC Quantum Gateway Router + Rent: HD Set-Top Box 1.
+Agent-Freehand : With our ABC triple play all your needs will be covered, Not only will you have stunning picture clarity with our ABC TV service to enjoy all your favorite shows, with 111 mbps download and 111mbps upload speeds our ABC Gigabit service allows you and your household the ability to game, stream, and securely browse online all at the same time. ABC Digital voice will give you the peace of mind and flexibility of having a home line to stay connected with friends and family and unlimited calling throughout the U.S.
+Agent-Freehand : Order online and we'll waive the standard $11.11 setup charge!
+Agent-Freehand : Get $111 towards a range of Google and Nest smart home devices with qualifying bundles with Auto Pay and 1-year agreement.
+Agent-Freehand : With this offer, you will get $111 Visa Gift card as well.
+Agent-Freehand : The bundle price would be $11.11 which comes to $111.11 including the cost of the equipments + Taxes and fees.
+Agent-Freehand : The total cost including all the taxes and fees would be $111.11/mo.
+Agent-Freehand : Sounds good?
+Customer : Can you tell me an approximate monthly payment after everything 
+Customer : I’m paying $111 now I was looking to get close to that 
+Agent-Freehand : May I know the services you are getting now with your current provider?
+Customer : Pretty much the same thing you are offering 
+Agent-Freehand : I understand; however, we are offering the quality as well. ABC does not compromise on the quality of services.
+Customer : I understand but I’m looking for close to $111 a month 
+Agent-Freehand : Sure! Let me check.
+Customer : ok
+Agent-Freehand : Thank you!
+Agent-Freehand : If you decide, we can remove Multi Room DVR service. So $11 will be less.
+Agent-Freehand : Also, the cost I have shared is the best cost with all the services. You will get speed upto 111/111Mbps.
+
+Also, you are getting $111 Visa Gift card and $111 Credit towards goggle and nest products.
+Agent-Freehand : We are also offering phone services complimentary.
+Customer : No thanks I need the dvr 
+Customer : thanks anyway 
+Agent-Freehand : The cost I have shared is under $111 without taxes.
+Customer : right now I pay $111 including taxes 
+Agent-Freehand : I understand that price is important and if you want the quality then ABC is the best.
+Customer : thanks for your time 
+Agent-Freehand : You are most welcome!
+Agent-Freehand : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : no thanks 
+Agent-Freehand : It was my pleasure assisting you today. If you have any additional questions, please do not hesitate to contact us again. Thank you for choosing ABC. Have a nice day.
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

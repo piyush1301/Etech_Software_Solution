@@ -1,0 +1,68 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : I'd like to remove HBO, Starz and Cinemax from my account.
+Agent : Agent 'abc@abc.com' enters chat (as Kate)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Kate. Happy to help!
+Agent-Freehand : Sure, could you confirm if you're logged into your account ?
+Customer : I am
+Agent-Freehand : Please share the full name of account holder.
+Customer : Michael V Ortman
+Customer : I'd also like to remove the Sports Pass.
+Agent-Freehand : Sure, one moment please.
+Agent-Freehand : I see that you only pay for HBO.
+Agent-Freehand : Everything else is free for you.
+Agent-Freehand : Would you still like to remove it ?
+Customer : Do I pay for Sports Pass?
+Agent-Freehand : You do not pay for Sports pass.
+Customer : Then please remove HBO.
+Agent-Freehand : Please share your email address and contact number.
+Customer : abc@abc.com
+Customer : 111-111-1111
+Agent-Freehand : I have sent the review email on your email address. Please access the link and review the order before I hit submit.
+Agent : Agent 'abc@abc.com' loses connection
+Agent : Agent 'abc@abc.com' enters chat (as Sandy)
+Agent : Hey there! My name is Sandy. Happy to help!
+Agent-Freehand : I see that you just got disconnected from the previous rep, I apologize for the inconvenience caused to you. I would be happy to help you further. Please allow me a moment while I review your previous chat so as to help you further in a better way.
+Customer : We're mid-transaction.  Your colleague Kate was helping me, but I think she bailed, or we got disconnected.
+Customer : She had sent me an e-mail which has not yet arrived.
+Customer : Stuck in cyberspace?
+Agent-Freehand : Sorry for the trouble caused to you
+Agent-Freehand : Not to worry, I will help you with your request
+Agent-Freehand : I see you wanted to remove Starz and HBO and Cinemax from your account , correct ?
+Agent-Freehand : Just to be sure are you logged in, into your My ABC Account ?
+Customer : I am.  Kate said I was not paying for Sports Pass, Cinemax or Starz.
+Agent-Freehand : Thank you for authenticating the account. Please allow me a moment while I pull your account details from my end.
+Agent-Freehand : I checked for you, Currently you have the Ultimate HD TV, It has a whopping 111+channels with FREE Sports Pass (worth $11 ) and NFL Red Zone included for FREE. It is our most popular package, for total entertainment junkies. You get access to ALL of the top sports and movies.
+Agent-Freehand : Epix , Showtime are included within it also.
+Customer : Trying to significantly reduce my bill.  I don't watch any of the premium channels.  I also don't watch any of the channels on the Sports Pass.  I'm returning one of my boxes tonight.
+Agent-Freehand : I completely understand your concern, not to worry you are in good hands
+Agent-Freehand : I will be happy to look in to your account and review the options to get best value for your money.
+Agent-Freehand : Let me ask you a couple of questions, so as to ensure that we do not miss on any information in order to find the best deal for you.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : Our speed is fine.  11 MG
+Agent : What are your must have TV stations/networks?
+Customer : Only channels I needs are NBC Sports Washington and MASN.
+Agent-Freehand : Any Premium Content, like HBO, Cinemax , Starz ?
+Customer : No.  
+Agent-Freehand : Thank you for answering all my questions. I appreciate your cooperation. Please allow me a few moment while I check and help you with the best deal applicable on your account.
+Agent-Freehand : Thank you for your patience.
+Customer : I have a hard stop in 1 minutes.  The e-mail Kate supposed sent still has not arrived.
+Agent-Freehand : Due to disconnection there might be some issues, please do not worry, I'm sharing some amazing deal for you
+Customer : Clock's ticking.
+Agent-Freehand : I'm woprking on your request
+Customer : I may have to start over with someone else.  I really do have a hard stop in a few minutes.
+Agent-Freehand : I completely understand your situation  here
+Customer : Time's up.  Have a nice day.
+Agent : Based on what we discussed here is what I put together for you.
+Agent-Freehand : Triple Play
+• ABC Internet 11/11  
+• ABC Digital Voice Unlimited  
+• ABC TV Preferred HD   
+• $11 ABC Bundle Discount Included 
+With new 1 year term deal
+Agent-Freehand : New Estimated Monthly Charges  = $111.11 + taxes and fees  = $111.11
+Agent : This is a fantastic entertainment package, customized to meet your needs!
+Agent-Freehand : You get all the channel you want to have on your account
+Agent : Get $111 towards a range of Google and Nest smart home devices with qualifying bundles with Auto Pay and 1-year agreement.
+Customer : The customer closed the browser window
+Agent : Agent 'abc@abc.com' exits chat

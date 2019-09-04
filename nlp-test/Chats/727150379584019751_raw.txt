@@ -1,0 +1,46 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : id like to know what day my 1yr agreement expires
+Agent : Agent 'abc@abc.com' enters chat (as Ted)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Ted. Happy to help!
+Agent-Freehand : I'll be glad to assist you with that Louis!
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : ?
+Agent-Freehand : Louis, I can see that currently you have ABC Internet 111/111 and ABC Tv Custom and your Term is expiring on 11/11/1111 and your discounts are expiring on 11/11/1111
+Customer : my 1 yr contract expires 11-11-11 correct
+Agent-Freehand : Yes.
+Customer : probably switching to another provider
+Customer : so no early cancelation penalty as of 11-11-11
+Agent-Freehand : No.
+Agent-Freehand : Would you like to see some deals available for renewal?
+Customer : fits getting too expensive
+Customer : ABC
+Customer : do I return on the 11th or should I return on the 11th?
+Agent-Freehand : Just to confirm, are you referring to returning of the equipments?
+Customer : yes
+Customer : I have 1 boxes
+Customer : rest of equipment  is mine
+Agent-Freehand : You have to call our Consumer Sales and Solutions Center at 1-111 ABC (1-111-111-1111) for cancellation. They will provide you the date for cancellation and date for returning the equipmants.
+Agent-Freehand : equipments*
+Agent-Freehand : I understand that our competitors are offering some lucrative rates for services; however, once their introductory period expires their price hikes to almost double. Unlike our competitors at ABC we value our customer and we are committed to give them best value for their money. I can assure you that you will not find the same quality of service at the same rates with our competitors while renewing the services.
+Agent-Freehand : Can you help me with your requirements, so that I can make a best bundle for renewal with discounts and offers?
+Customer : same like I have now
+Agent-Freehand : Thank You. Please allow me a moment.
+Customer : direct tv is offering me a lot more for a lot less
+Agent-Freehand : I can understand. But there services wouldn't be great as ABC. You have been with ABC for 1 years and you know that.
+Customer : so what can u offer me 
+Customer : it has to be substantially cheaper
+Agent-Freehand : I'm working on it. Please allow me a moment.
+Agent-Freehand : Louis, I can see that in you current term you are getting a $11 discount and your monthly charges are $111/mo. 
+With renewal with the same services your bill will become $111.11 including $11 discount on bundle and $111 towards Google and Nest Devices.
+Customer : y would I stay with fins then if my bill will be more expensive
+Customer : direct tv is $111 with same service
+Customer : and with 1 boxes not 1
+Agent-Freehand : I can understand, but that is the best renewal price available on your account.
+Customer : I need cheaper not more expensive I guess fits doesn't appreciate customer loyalty
+Agent-Freehand : There is another offer in your account where you can get Gigabit Connection. Would you like to review that?
+Customer : ill just be returning equipment  thank you for your help
+Customer : no thx have a nice day
+Agent-Freehand : Thank You for your time. Have a Nice Day ahead.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

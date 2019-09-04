@@ -1,0 +1,58 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : My plan is up in one month and unless I get a substantial price break with more internet speed, I will be switching to Comcast.  Let me know what you can do otherwise, consider this your one month notice.
+Agent : Agent 'abc@abc.com' enters chat (as Stanford)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Stanford. Happy to help!
+Customer : Your service sucks
+Agent-Freehand : Good morning!
+Agent-Freehand : I am sorry to hear  that.
+Agent-Freehand : May I know what went wrong?
+Customer : No you.  ABC ABC
+Customer : Comcast offers more innovation.  How do I cancel and what do I do with the equipment
+Agent-Freehand : I'm sorry to hear that you would like to cancel your service. We truly value your business!  Please allow me the opportunity to fix this for you!
+Agent-Freehand : Shall we check the deals before you decide to leave?
+Customer : Internet is too slow at 111 Mbps.  I can get over 111 from Comcast
+Customer : Cut the bullshit and state the bottom line
+Agent-Freehand : We do have a special department which takes care of disconnect process. Would you like to have the number?
+Customer : Yes, please give me the number.
+Agent-Freehand : Sure, let me share it.
+Agent-Freehand : You may pease contact one of our specialists at 111-111-1111 during 1:11AM-1:11PM(Mon-Fri) and they will be glad to assist you with your request.
+
+
+However, if you allow me a chance to check on the deals with Internet upgrade, I will be glad to check it for you and I hope we will come up with something good.
+Agent-Freehand : May I check the options for you?
+Customer : Go for it
+Agent-Freehand : Thank you! I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Agent : Thank you for your years of loyalty to ABC!
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : No gaming, working from home.  General internet and Netfilix
+Agent-Freehand : Sounds good.
+Agent : What are your must have TV stations/networks?
+Customer : No Premium Stations
+Agent-Freehand : I see that your agreement expired on 11/11/1111 and your current bill is $111.11 with ABC TV Extreme HD  + ABC Digital Voice Unlimited Plan  + 111/111 Mbps.
+Agent-Freehand : You have a legacy TV package which is no longer offered by ABC. With this renewal we will add an updated version of the Extreme HD plan. When this change occurs, you will lose access to Hallmark Movies and Mysteries and RLTV along with GSN.
+Agent-Freehand : Are you okay without these channels?
+Customer : Yes.  
+Agent-Freehand : Thanks for confirming!
+Agent-Freehand : Let me check the deals for you here.
+Agent-Freehand : Comparing options for you.
+Agent-Freehand : Almost done.
+Agent-Freehand : Got the deal! Let me share it.
+Agent-Freehand : I have a renewal deal which will:
+
+1. Upgrade your Internet speed to 111/111 Mbps from 111/111 MBps
+1. Will also update your TV plan to Extreme HD TV Plan 1111 in which you will get 111+ channels which includes 11+ HD channels also!
+1. Will also get you price lock so that your bill does not increase for 1 years!
+Agent-Freehand : With this deal, you will also get $111 towards a range of Google and Nest smart home devices
+Agent-Freehand : With this deal, your bill will be only $111.11 + taxes and fees along with 1 year price lock so that you do not have to worry about price hike and be worry free!
+Agent-Freehand : With taxes, it comes to $111.11 only!
+Agent-Freehand : May I have your email address so that I can send you the review email?
+Customer : Thanks for checking.  What you propose is disappointing.  I will call the cancelation line after speaking to Comcast.  Have a great day
+Customer : You lost me on the measly internet imrprovement
+Customer : And I land up paying more.
+Agent-Freehand : I am sorry to hear that.
+Agent-Freehand : Would you like to check the deals with Lower TV plan?
+Customer : As I just said, I will call Comcast to see what my business is worth to them and then make a decision.  Probably will cancel as ABC is losing subscribers in SE Pennsylvania
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

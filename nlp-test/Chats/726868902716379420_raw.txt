@@ -1,0 +1,350 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : would I be able to transfer my service to another location but only use the internet?
+Agent : Agent 'abc@abc.com' enters chat (as Adrian)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Adrian. Happy to help!
+Agent-Freehand : Yes, You can.
+Customer : hi. So if I have internet, phone, and cable I can cancel the cable 
+Customer : hello
+Agent-Freehand : While moving the services. Yes, you can.
+Customer : would I be able to do that online 
+Agent-Freehand : Yes, I can , May I please have your account number?
+Customer : okay one second 
+Agent-Freehand : Sure, I am right here for you, take your time.
+Customer : okay it's 1111111111111
+Agent-Freehand : Thank You for safeguarding your account.
+Agent-Freehand : Could you please help me with the complete address along with the zip code where you want us to install new services?
+Customer : 1111 schley st hillside NJ 11111
+Agent-Freehand : I see that you are now on a contract terms and let me here share that if we cancel and Bundle Services , there will be a ETF amount charged to you.
+Customer : how much would it be 
+Agent-Freehand : I am checking, May I please have the unit number?
+Customer : the number from the box?
+Agent-Freehand : The Apartment number?
+Customer :  apt 1 
+Agent-Freehand : While I am checking the availability of the services, may I know with whom do I have pleasure of chatting today?
+Customer : Rosemarie Mattis 
+Agent-Freehand : Rosemarie, I hope you are having a great day.
+Agent-Freehand : Please allow me a moment here, I am making the selections for you.
+Customer : yes thank u 
+Agent-Freehand : It is my pleasure.
+Agent-Freehand : I see with the best there is, Gigabit Internet and the Router, the new prices for you will be $11.11 after taxes
+Customer : okay can you set that up for me or would I have to call 
+Agent-Freehand : I can.
+Agent-Freehand : May I please know when would you want to cancel the services at your old address?
+Agent-Freehand : Also, let me here share that as we are removing the services, there will be a $111.11 as 11 Month Bundle Early Termination Fee .
+Customer : would this be effective immediately or on a date that I set 
+Agent-Freehand : On the date you det?
+Agent-Freehand : det**
+Agent-Freehand : set**
+Customer : ok and what would I be charged in total to cancel the service 
+Agent-Freehand : Also, let me here share that as we are removing the services, there will be a $111.11 as 11 Month Bundle Early Termination Fee .
+Agent-Freehand : And, a ABC Set up charge of $11.
+Agent-Freehand : Would you like it if I send a quote of this to you so that you can have a look at the price break?
+Customer : yes please 
+Customer : thank u 
+Agent-Freehand : It is my pleasure, may I please know if you have access to abc@abc.com?
+Customer : yes 
+Agent-Freehand :  
+Review Order
+  
+
+  
+
+  
+
+
+
+  
+
+Products and Promotions 
+
+Monthly Charges 
+
+
+
+
+ 
+
+
+
+ 
+   
+
+
+
+ 
+New 
+
+
+ABC Gigabit Connection  
+ 
+$111.11 
+
+ 
+New 
+
+
+$11 Special Bonus Discount Included  
+ 
+-$11.11 
+
+ 
+New 
+
+
+$11 Auto Pay and Paper Free Discount Included  
+ 
+-$11.11 
+
+ 
+New 
+
+
+Rent: ABC Quantum Gateway Router - $11 per month no charge thru Aug 1, 1111  
+ 
+Fee Waived 
+ 
+
+ 
+ 
+  
+
+ 
+Estimated Monthly Charges Next Month Onwards 
+  
+  
+ 
+
+
+  
+
+ New Estimated Monthly Subtotal  
+
+$11.11 
+
+ 
+  
+
+Taxes, Fees and Other ABC Charges 
+
+$1.11 
+ 
+ 
+  
+
+ New Estimated Monthly Charges  
+
+$11.11 
+   
+
+ 
+
+ 
+ 
+
+  
+
+One-Time Charges and Credits 
+
+
+
+
+  
+
+• 11 Month Bundle Early Termination Fee 
+• ABC Setup 
+ 
+$111.11 
+$11.11 
+   
+ 
+   
+ 
+ 
+ Offer Summary 
+
+ 
+Removed 
+
+
+$11 ABC Bundle Discount Included  
+
+-$11.11 
+
+ 
+Removed 
+
+
+$11 Multi-Room DVR Service Discount thru Feb 11, 1111 (expiring 1/11/1111) 
+
+-$11.11 
+
+ 
+New 
+
+
+$11 111% FQG Router Rental Waiver thru Aug 1, 1111 (expiring 1/1/1111) 
+
+-$11.11 
+
+ 
+New 
+
+
+$11 Special Bonus Discount Included  
+
+-$11.11 
+
+ 
+New 
+
+
+$11 Auto Pay and Paper Free Discount Included  
+
+-$11.11 
+
+ 
+New 
+
+
+$111 Visa Prepaid Card  
+
+$1.11 
+ 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make Changes Checkout     
+  
+
+ 
+
+Email Address
+
+
+
+
+ 
+Email sent successfully!!
+Agent-Freehand : Please review the new charges, I am right here if you have any queries.
+Customer : thank u 
+Agent-Freehand : It is my pleasure, I am right here for you.
+Agent-Freehand : And, if we move all the services as is, the new prices for you will be $111.11  after taxes, it will be with Gigabit Connection and all the services the same.
+Agent-Freehand : I am right here if you have any queries.
+Customer : okay so the email was incorrect. it's abc@abc.com
+Agent-Freehand : NO worries.
+Customer : lol thanks 
+Agent-Freehand : Email sent successfully!!
+Customer : is it possible to distribute the $111 fee throughout out the billing cycle 
+Customer : or waive it? 
+Agent-Freehand : I am sorry, if you where moving all the services, Ic an then would have waived it.
+Agent-Freehand : As of now, I am sorry it can not be waived however if you want, you can pay the set up fees in installment of 1 and the ETF you will have to pay in one time.
+Customer : I would like to stay with ABC but I won't be able to pay the termination fee 
+Agent-Freehand : I understand, however, if the services are canceled in contract period, there is ETF been charfes.
+Agent-Freehand : May I suggest you move all the services for now, the new prices for you will be $111.11  after taxes,
+Agent-Freehand : Also, NO ETF and NO Set Up fees.
+Customer : ok I'll do that. would it be possible to downsize to a smaller package because I travel 11% of the time 
+Agent-Freehand : This here are the best prices for the services, I can at most take another $1 off.
+Agent-Freehand : After if you will not have HD access.
+Agent-Freehand : Everything is the basic and the Internet plan is GIgabit.
+Agent-Freehand : The new prices for you are $111.11 after taxes.
+Agent-Freehand : Would you like it if I send a quote of this to you so that you can have a look at the price break?
+Customer : yes please 
+Customer : thank u
+Agent-Freehand : Sure, It is my pleasure.
+Customer : alright if I return back one of the boxes will that also lower the price and is the 111 including hd?
+Agent-Freehand : No, $111.11  after taxes it is HD, $111.11 after taxes it will be Sd.
+Customer : okay ill take the $111 bundle 
+Agent-Freehand : Sure, Pl;ease allow me a moment here.
+Customer : ok no problem 
+Agent-Freehand : Thank You, I appreciate your patience.
+Customer : do you also offer aarp discounts>
+Customer : ?
+Agent-Freehand : I am sorry, all the discounts there is I have added you for it and there was anything else, I assure you I would have share it with you.
+Customer : lol
+Agent-Freehand : Thank You, May I please know when do you wish to cancel the services at your old address?
+Customer : 1/1
+Agent-Freehand : Sure Thing.
+Agent-Freehand : And, When would you like to start the new services?
+Customer : on the 1th of this month but when will they be able to install it 
+Agent-Freehand : When you say you want to install?
+Agent-Freehand : The first available due date for this order is 11/11/1111.
+Agent-Freehand : After it, we have everyday except for Sunday.
+Customer : okay ill like to cancel it on the 11th then 
+Agent-Freehand : Just to sure, Cancel it start?
+Agent-Freehand : or**
+Agent-Freehand : Start on 11th and cancel on 1th, correct.
+Customer : cancel the and install on the 11th 
+Agent-Freehand : Sure Thing.
+Agent-Freehand : A Tech Visit is needed, Please select your preferred time slot for the day:
+Agent-Freehand : 11:11 AM-11:11 AM  
+ 11:11 AM-11:11 AM  
+ 11:11 AM-11:11 PM  
+ 11:11 PM-11:11 PM  
+ 11:11 PM-11:11 PM  
+ 11:11 PM-11:11 PM
+Customer : 11:11-11:11
+Agent-Freehand : Your installation is scheduled for Monday, August 11. Our technician will arrive sometime between 11:11 am and 11:11 pm."
+Agent-Freehand : Disconnect at OLD Address:Monday, August 11th 1111
+Install at New Address:Monday, August 11, 1111  11:11 AM-11:11 PM
+Agent-Freehand : Perfect?
+Customer : yes thats great thank you 
+Agent-Freehand : Please stay connected.
+Customer : would u be able to send a copy to my email please 
+Agent-Freehand : I will customize the order and send you an email with link to review the order. Once you accept the order from your end I will go ahead and finalize it.
+Agent-Freehand : Please stay connected during this process.
+Customer : okay thank u so much 
+Agent-Freehand : Your welocme.
+Agent-Freehand : *Do you currently live at:  1111 SCHLEY ST APT 1 HIL, NJ 11111?
+Agent-Freehand : If not, Will you be living at that address by August 11
+Customer : yes
+Customer : I live there 
+Agent-Freehand : "You will receive your ABC equipment via United Parcel Service delivery within the next 11-1 days. When the equipment has shipped, we will email the shipping confirmation and the UPS tracking information to the email address you provided.
+Agent-Freehand : Also, You must return the equipment to ABC within 11 days to avoid unreturned equipment charges.
+Agent-Freehand : The Equipments to be returned are:
+1 HD Boxes¿The Router.
+Customer : yes
+Agent-Freehand : Would you like me to find you the nearest ABC store for you?
+Customer : yes please
+Agent-Freehand : 111 MOUNTAIN AVE,  
+SPRINGFIELD 11111.  
+Tn: --(111) 111-1111; 1.11 mile  
+MON-SAT 11:11 AM-11:11 PM  
+SUN 11:11 AM-11:11 PM
+Agent-Freehand : Will this work or the nest is in STATEN ISLAND 11111. ?
+Agent-Freehand : And the third, STATEN ISLAND 11111.?
+Customer : ill go to the one in west orange thank u
+Agent-Freehand : Perfect.
+Agent-Freehand : The new email will reach you in 11 seconds from now.
+Agent-Freehand : Let me here also share that with this move, you also get .
+Agent-Freehand : Get $111 towards a range of Google and Nest smart home devices with  Auto Pay and 1-year agreement.
+Agent-Freehand : I have sent the new email, please click on the link in the email.
+Customer : I got it 
+Agent-Freehand : Please review the new charges, I am right here if you have any queries,
+
+Once reviewed, please agree to the new terms and confirm it with me I can then place the order form my end for you.
+Customer : the estimated bill is saying 111?
+Agent-Freehand : It is $111, Please allow me a  moment, I forget to remove the HD Box.
+Customer : ok thank u
+Agent : Agent 'abc@abc.com' loses connection
+Agent : Agent 'abc@abc.com' reconnected
+Agent-Freehand : I have also send a new email, you can also click on the link in the email.,
+Agent-Freehand : I am right here for you.
+Agent-Freehand : Let me here share that I have enrolled you for auto pay as it carries an extra $11 discount/month
+Agent-Freehand : You will be bale to see the discount under "$11 Auto Pay and Paper Free Discount Included".
+Customer : Customer connection lost. The customer lost network connectivity
+Agent : Agent 'abc@abc.com' exits chat

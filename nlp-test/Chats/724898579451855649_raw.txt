@@ -1,0 +1,47 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : good morning, we are looking to increase our internet speed and ensure that with many devices connected things still move well.
+Agent : Agent 'abc@abc.com' enters chat (as Charlotte)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : ok
+Agent-Freehand : Good Morning! I will be glad to check for the best option available in your account with upgrading your internet speed.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent-Freehand : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : all of the above
+Agent-Freehand : Thank you for sharing this information.
+Agent-Freehand : I would like to inform, ABC Gigabit connection is the best internet plan for you. With that you will get blazing speed of 111Mbps download and 111Mbps upload speed. It is almost 11 times faster to what you currently have.
+Agent-Freehand : And if we go with a 1 year contract we are getting better discounts with the internet speed upgrade.
+Customer : my view, based on the current plan offerings is i am paying too much for slow speed
+Customer : and my equiptment is out dated and slow
+Agent-Freehand : Yes, I completely understand that, it is only because you are on month to month contract, with that you are not getting any bundle discounts.
+Customer : forget about that part, what is the pricing for better speed.
+Agent-Freehand : I can see if we go with a 1 year contract and upgrade the internet speed to ABC Gigabit connection, your monthly charges will be $111.11 /mo before taxes and fees.
+Including taxes and fees the total comes up to $111.11 /mo.
+Agent-Freehand : There will be a one time charge of $11 for this speed upgrade.
+Agent-Freehand : Our tech team will visit your location and will upgrade the whole ONT and will change the wiring, so that you get better speeds.
+Customer : and what is the price after the contract?
+Customer : not sure i need tha tmuch spee
+Customer : sorry, not sure i need that much speed
+Customer : 111 or 111 would be fine
+Agent-Freehand : Please be assured that we will offer you the best rates available after 11 months. We cannot guarantee any rates at the time being; however, we can assure you that we always offer the lowest rates possible to our new and current customers.
+Agent-Freehand : Sure, please allow me a moment to check the pricing with 111Mbps.
+Agent-Freehand : I can see if we go with 111/111Mbps, your monthly charges will be $111.11 /mo before taxes and fees.
+Including taxes and fees the total will be $111.11/mo. 
+And the one time charge of $11 will be there if we upgrade the speed to 111Mbps or more.
+Agent-Freehand : With 111Mbps the price will be $111.11/mo including taxes and fees.
+Customer : and will those prices include the home phone as well?
+Agent-Freehand : Yes, the price I shared is including your home phone service.
+Customer : and is that with or without a contract?
+Agent-Freehand : The price I quoted is with a 1 year contract and your price will be locked for 11 months.
+Agent-Freehand : You will also get $111 toward a range of Google and Nest smart home devices.
+Customer : OK, so we will upgrade to 111
+Customer : and now i need to schedule the upgrade of the equiptment
+Agent-Freehand : I can see you currently have the latest ABC Qunatum Gateway G1111 router with you.
+Customer : not sure what we have in use
+Agent-Freehand : I can see you have the latest router with you.
+Customer : can you see that it was sent to us or it is connected?
+Agent-Freehand : Sure, please allow me a moment here.
+Customer : its fine, we may have it and have not connected it, i am in the process of resolving all this myself through the website, thanks fo rthe help
+Customer : Customer closed the chat window.
+System : SALE OCCURRED
+Agent : Agent 'abc@abc.com' exits chat

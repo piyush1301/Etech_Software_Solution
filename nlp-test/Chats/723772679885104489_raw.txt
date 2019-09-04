@@ -1,0 +1,41 @@
+Opener :  Opener: Hi! Can I help you with your order?
+Customer : I am looking for a bundle  for ABC , my wireless phone , and possibly TV cable . I am  part of an existing  wirless contract with ABC currently  and looking to  leave Comcast for a better deal. What can ABC offer me?
+Agent : Agent 'abc@abc.com' enters chat (as Liberty)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Liberty. Happy to help!
+Agent-Freehand : Sure, I'll be glad to assist you with best package price.
+Agent-Freehand : To be sure, do you currently have ABC cell phone unlimited plan?
+Customer : i do not  think its unlimited , I thought  ABC had done away with unlimited data packages
+Customer : It was at one time but when we upgraded our phones they made  us go to a 1 GB / month plan
+Agent-Freehand : Okay, I would like to share that there is no bundle package for cell phone, Internet and TV; however, if you had a cell phone unlimited plan then you would have got additional $11 off on ABC cell phone and $11 discount on Double or Triple play bundle package too.
+Agent : Thank you so much for considering us, let's pull up your address and see what great services are available.
+Agent-Freehand : Please help me with the complete address along with zip code.
+Customer : 1111 Whitby Rd , 11111
+Agent-Freehand : Thank you for sharing address with me.
+Agent-Freehand : Allow me a moment more while I check.
+Customer : the cable tv i can live without if there is a bundle package  with internet and wireless
+Agent-Freehand : I am sorry ABC cell phone and residential are two different services so unfortunately there is no bundle package for such. 
+
+However, you can get a best bundle package for Internet and TV services.
+Agent-Freehand : We have a deal wherein you can get  Gigabit connection 111 Mbps download speed and 111 Mbps upload speed  + Custom TV   plan  for $11.11+ equipment +taxes with 11 months price guarantee.
+Customer : is that  wit ha waived install fee as well?
+Agent-Freehand : Yes, you'll get FREE professional installation.
+Agent-Freehand : Plus for online order we will waive one time activation fee of $11.11.
+Agent-Freehand : Could you please tell me how many TV's  you would like to connect? Also, are you looking for recording capabilities on your TVs?
+Customer : no, honestly  the TV is not   important to me , i would be looking to connect  maybe 1 , im looking more to cut  my costs on cable  internet and wireless costs
+Agent-Freehand : I do understand that. Let me share all the promotional offers you qualify on ordering today and then I wil share the price break down with you.
+Agent-Freehand : You are getting the fastest available internet speeds in the market, that is Gigabit Internet with whopping 111/111 Mbps. The best thing is that you are getting these blazing speeds for just the price of 111/111 Mbps price due to the limited time promotional offer
+Agent-Freehand : Also we are providing you $111 towards a range of Google and Nest smart home devices with qualifying bundles with Auto Pay and 1-year agreement.
+Agent-Freehand : Gigabit Internet + Custom TV for $11.11 + $11 for router + $11 for 1 HD set top box + Google nest offer + $11.11 installation charges waived.
+
+Your monthly bills with these amazing and high end services will be just $111.11/mo before taxes and this price will be good for 1 years for you.
+Customer : and what about this activation fee? 
+Customer : is tha tstill a hidden cost in that bundle?
+Agent : Order online and we'll waive the standard $11.11 setup charge!
+Agent-Freehand : It will be $111.11+taxes with 11 months price guarantee. Be rest assured.
+Agent-Freehand : Would you like to secure it?
+Customer : this is actually already more than  what I am spending now, I think my best bet would be to switch my wireless to comcast or sprint  as thats the one thing that is more expensive than anything , my wireless which  ABC will not do anythign about
+Customer : thanks for your  assistance today Liberty have a good  one
+Agent-Freehand : Have a good one to you too.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

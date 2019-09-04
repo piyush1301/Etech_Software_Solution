@@ -1,0 +1,38 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : I CALLED A few days ago and was going to sign up but the rep was so mean and ansty i had to hang up. Can i get a plan that i pay 111 a month and keep what i have?
+Agent : Agent 'abc@abc.com' enters chat (as Gizzel)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : I apologize for how you feel, Robert. 
+
+Let me open your account and check the best plan available on your account.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : Thank You!
+Agent-Freehand : My pleasure.
+Agent-Freehand : Thank you for your patience.
+Agent-Freehand : I see you are currently subscribed to 11/11 Mbps (FREE upgraded speed of 11/11 Mbps) + Preferred TV plan + ABC Home phone at the bundle price of $111.11 before taxes and equipment fee. 
+
+Keeping the same services, with a new 1 year plan, I see the bundle price would be just $111.11 before taxes and $111.11 with taxes and equipment fee. This price includes $1 Auto Pay and Paper Free Discount.
+Agent-Freehand : How does the offer sound, Robert?
+Agent-Freehand : I hope I have not lost you. Just to confirm, are we still connected?
+Customer : YEA im here just busy sorry
+Agent-Freehand : Please do not be sorry. I understand.
+Customer : 111.11 but i have to sign up for auto pay?
+Agent-Freehand : Yes, with Auto Pay, you get an additional $1 discount. Without unrolling n Auto pay, the bill would be approx $111 with taxes.
+Agent-Freehand : Robert, you also get $111 toward Google and Nest smart home devices  with this new 1 year contract offer.
+Customer : How about a 111 gift card? sounds high? cant do anything better
+Agent-Freehand : I would have  loved to give $111 Gift Card but currently, there is no such offer for including the Gift Card.
+Agent-Freehand : Please be rest assured, the offer and the planI shared is the best available on your account.
+Customer : optimum is offering me a little better though...no loyalty  discount? i have ABC wireless too?
+Agent-Freehand : I completely understand price would be a concern, Robert. I'm here to help you and out of all the offers I check, I see the one that we discussed is the best available on your account for keeping what you currently have.
+Agent-Freehand : You're in good hands!
+Customer : hahaha that's cute im in good hands..lol
+Agent-Freehand : Thank you.
+Agent-Freehand : Nice to meet you, this morning. Hope you are doing well.
+Customer : i would be better if you can give me a better deal?
+Agent-Freehand : I understand.
+Agent-Freehand : This is the best deal for the services you have, Robert.
+Agent-Freehand : Just to confirm, are we still connected?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

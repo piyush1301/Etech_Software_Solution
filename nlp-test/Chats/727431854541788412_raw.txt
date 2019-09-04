@@ -1,0 +1,46 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : Service update
+Agent : Agent 'abc@abc.com' enters chat (as Brianna)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Brianna. Happy to help!
+Customer : Hello
+Agent-Freehand : Wish you a very good morning! May I know with whom do I have pleasure of chatting today?
+Customer : This is Ashley
+Agent-Freehand : Nice to meet you Ashley! May I know the services update you are checking for?
+Customer : My account # is 111-111-111-1111-11
+Customer : If you pull it up, you will see my contract has expired
+Agent-Freehand : Alright. Thank you for sharing your account information. Please give me a few moments while I pull up your account information in my system.
+Customer : Ok
+Agent-Freehand : Thank you for safeguarding your account.
+Agent-Freehand : Ashley I see your contract was expired on 11/11/1111 however the promo discounts of $11/mo we offered you is extended till 11/11/1111
+Customer : What promo discount?
+Agent-Freehand : You have $11/mo discount for the bundle we offered you while joining ABC as a new customer.
+Agent-Freehand : And the promo discounts is applicable for the 1st time only.
+Customer : Ok....but my channels have stopped working
+Customer : Max
+Customer : HBO
+Agent-Freehand : I would like to share that Cinemax, HBO , Showtime Starz and Epix were added for free with Ultimate HD TV plan and we have updated our channel line up effective 11st June 1111 and the Free premium channel Cinemax and HBO is removed from Ultimate HD TV
+Customer : Ok. So what are my options to renew? What can you offer me?
+Agent-Freehand : We would need to add Cinemax and HBO as Premium channel pack for $11/mo if you want to have both the channel back.
+Agent-Freehand : And if we renew the services with ABC Internet 111/111 + ABC TV Ultimate HD( Showtime, Epix and Starz as Free) + ABC Digital Voice + Rent: ABC Quantum Gateway Router+ Multi-Room DVR Enhanced Service + 1 Rent: HD Set-Top Box
+Agent-Freehand : The new charges will be $111.11  before taxes and $111.11  after taxes and the renewal includes $111 toward Google and Nest devices currently
+Customer : That is outrageous
+Customer : We are not going to pay more
+Customer : Xfinity services our area and is offering $111.11 for the same services
+Agent-Freehand : I understand your concern for the charges however we do not have the introductory deals again for a similar charge or lower.
+Customer : Not to mention you have an exclusive offer out to us online of $111.11 a month
+Agent-Freehand : I understand that our competitors are offering some lucrative rates for services; however, once their introductory period expires their price hikes to almost double. Unlike our competitors at ABC we value our customer and we are committed to give them best value for their money. I can assure you that you will not find the same quality of service at the same rates with our competitors while renewing the services.
+Agent-Freehand : Yes it is the same deal I shared with the bundle charge of $111.11
+Customer : And an "Even More Speed" option for $111.11
+Agent-Freehand : And it is before taxes and equipment charges
+Agent-Freehand : Let me share you the breakdown with the deal of $111.11, may I know if you have access to abc@abc.com?
+Customer : Please give me an 111 number to call. You are not being helpful
+Agent-Freehand : Ashley, I have shared you the best available deal in the account as per the services you have
+Agent-Freehand : And sure! You can contact our offline team too, however the deals I will be getting in the account would be same for them too. As price is the concern we can change the current plan and check with lower TV plans
+Agent-Freehand : Also I have shared you the quote for the price breakdown for the exclusive offer of $111.11 a month you shared
+Customer : Need phone number
+Customer : This chat is not helpful
+Agent-Freehand : Sure! Please call our Consumer Sales and Solutions Center at 1-111 ABC (1-111-111-1111) between 1:11 AM and 1:11 AM EST. There will be Interactive Voice Responses to connect you to correct department.
+Agent-Freehand : I hope we are connected.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

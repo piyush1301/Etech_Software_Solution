@@ -1,0 +1,11 @@
+Opener :  Opener: Hi! Can I help you with ABC TV?
+Customer : i want download ABC app for laptop
+Agent : Agent 'abc@abc.com' enters chat (as Quinton)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Thank you for being a valued ABC customer.
+Agent-Freehand : I will be happy to share information on downloading the application for laptop.
+Agent-Freehand : I am sorry to say that the ABC TV application can be downloaded only on cell phones, iPads and tablets. It can not be downloaded on laptop.
+Customer : ok
+Agent-Freehand : You can download the application from the Google Store.
+Customer : The customer closed the browser window
+Agent : Agent 'abc@abc.com' exits chat

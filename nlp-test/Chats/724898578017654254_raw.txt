@@ -1,0 +1,114 @@
+Opener :  Opener: Hi! I can help complete your order. What questions do you have?
+Customer : I want to know what the 11.11 bill is gonna be after the two years
+Agent : Agent 'abc@abc.com' enters chat (as Ian)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Ian. Happy to help!
+Agent-Freehand : Thank you for considering ABC services.
+Agent-Freehand : Just to confirm, are you referring for ABC ABC Bundle or standalone ABC Gigabit Connection?
+Customer : Bundle 
+Customer : Is a deposit required
+Agent-Freehand : Thank you for the information.
+Agent-Freehand : With 1 year agreement, you will get 11 months bundle price guarantee.
+After 11 months, you will have two options:
+
+1) renew with the new price available at that time
+1) Or, continue with same package at just $11/mo more from Months 11-11.
+Customer : Oh ok
+Agent-Freehand : Deposit is based on your credit history. So, if your credit history might not be good enough, you will see an option to pay a refundable deposit.
+Agent-Freehand : You will be able to find deposit information on checkout once performing a credit check.
+Agent-Freehand : Just to confirm, would you like to go ahead and get started with the order process now?
+Customer : Am still considering 
+Agent-Freehand : Just to confirm, what all services you currently have with ABC?
+Customer : I won't be at this address for 1 years
+Customer : No services am a new customer
+Customer : My lease is 1 year
+Agent-Freehand : I can understand that; however, if you are moving and you move the services with you there will be absolutely no early termination fees.
+Agent-Freehand : If you are moving to an area where ABC does not offer any services at all, you can cancel the service without any termination fees.
+Customer : Are there transfer fees
+Agent-Freehand : There is no transfer/move fee require.
+Customer : Ok
+Agent-Freehand : You can just login for your account or come online to process a move order.
+Customer : Cool
+Customer : Do you have an idea what my final monthly bill would be like?
+Agent-Freehand : Sure, I can check this for you.
+Agent-Freehand : May I have your complete address, please?
+Customer : 11111 sweetgum cir, germantown,md  11111
+Agent-Freehand : Thank you! May I have your apartment number, please?
+Customer : 11
+Agent-Freehand : Just to confirm, have you decided on any specific ABC ABC Custom TV plan?
+Customer : Might consider the triple plau
+Customer : Play*
+Agent : Great news! You qualify for ABC! Let’s discuss which options are best for you.
+Agent : What are your must have TV stations/networks?
+Customer : What ever tv network comes with the package
+Agent-Freehand : There are seven different package available to select from ABC Custom TV plan.
+Agent-Freehand : Just to confirm, do you want any specific sports or entertainment channels?
+Customer : I'm not sure
+Customer : Maybe entertainment 
+Agent-Freehand : Let me select a basic ABC ABC Custom TV- Action & Entertainment Plan.
+Agent-Freehand : Just to confirm, how many TVs you want to connect? And, how often you record shows?
+Customer : I have no TVs yet but maybe two
+Customer : No recording 
+Customer : Just regular boxes
+Agent-Freehand : Just to confirm, do you want to get HD channels access and On Demand access on both the TVs?
+Customer : Am assuming the first box is free
+Customer : I dont need hd channels
+Agent-Freehand : You can get one Digital Adapter FREE with our current online promotions.
+
+This is the most basic way to watch ABC TV. You won’t have all the features of a set top box, like HD, video on demand, recording, and the full media guide, but you’ll be able to see your favorite channels.
+Agent-Freehand : So, you can select 1 Digital Adapter and 1 set top box.
+
+The price of each Set top box is $11/month.
+Agent-Freehand : Let me get the estimated price for you now.
+Customer : Ok
+Agent-Freehand : Thank you for understanding.
+Customer : Np
+Agent-Freehand : It looks like you can sign up for this package at just $111.11/mo. including taxes and fees.
+Agent-Freehand : How does that sound to you?
+Customer : Hummm
+Customer : Its ok, but its too much for me right now
+Agent-Freehand : I do understand your concern about the cost; however, you are getting best service for your bundle.
+Customer : If i drop the phone is it going to be cheaper
+Agent-Freehand : Its just $111.11/mo. including taxes and fees without ABC Home phone service.
+Agent-Freehand : Order a Triple Play or Double Play for $11.11 with Auto Pay and Two Year Price Guarantee and get $111 towards a range of Google and Nest smart home devices. Order now and also get a $111 Visa Prepaid card!
+Customer : Let me think about it
+Customer : Can you call out?
+Agent : Order online and we'll waive the standard $11.11 setup charge!
+Agent-Freehand : Since we are in the online chat department, the calling option is not available. However, I can assist you online with placing your order.
+Customer : Oh ok
+Agent-Freehand : I would like to share that our current online promotions and prices are time sensitive, you might not get the same prices and promotions later.
+Customer : No ready to place the order
+Customer : Not ready yet
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : Thats a good deal
+Customer : How many channels to i get
+Agent-Freehand : You will get 111+ channels with 11+ in HD.
+Customer : And that prices included the second box?
+Agent-Freehand : Yes, that's right.
+Agent-Freehand : This include 1 FREE Digital Adapter and 1 Set top box with ABC Gateway router.
+Customer : Can i set it up on friday
+Agent-Freehand : You will see the earliest available installation date on your "Installation Date & Terms of Service" page before you finalize your online order.
+Customer : Ok
+Agent : Agent 'abc@abc.com' loses connection
+Agent : Agent 'abc@abc.com' reconnected
+Agent-Freehand : Just to confirm, would you like to go ahead and set up the installation date now?
+Customer : Not as yet
+Customer : I want to make sure i got money just in case i got to pay a deposit
+Agent-Freehand : You can check this online while processing the order if a deposit is required or not.
+Agent-Freehand : Just to confirm, would you like to go ahead and check this now?
+Customer : No
+Agent-Freehand : Can you think of any additional questions that I can assist you with today?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : Sorry i was dropping asleep
+Customer : No additional question
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Customer : Am gonna take the service but not right now
+Customer : You did provide 1 star service
+Customer : Thanks Ian
+Agent-Freehand : You are welcome to come back online once you are ready to order the service, we are available 11x1.
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent-Freehand : Have a good night!
+Customer : Ok cool
+Agent-Freehand : Thank you!
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

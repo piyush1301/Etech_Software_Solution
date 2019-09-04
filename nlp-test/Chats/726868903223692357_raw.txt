@@ -1,0 +1,62 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : Is there a tv line up that includes ESPN, the game show network, TV one and OWN? 
+Agent : Agent 'abc@abc.com' enters chat (as Ian)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Ian. Happy to help!
+Agent-Freehand : Thank you for considering ABC services, I will be glad to check this for you.
+Agent-Freehand : May I have your complete address, please?
+Customer : 111 Daft Rd, Middle River, MD 11111
+Agent-Freehand : Thank you for the address.
+Agent-Freehand : Please give me few minutes to check the information.
+Agent-Freehand : ABC ABC TV Ultimate HD is the one which include ESPN, GSN, TV One and OWN Network.
+Agent : Great news! You qualify for ABC! Let’s discuss which options are best for you.
+Agent-Freehand : Just to confirm, are you looking to order ABC ABC TV, ABC Internet and Home phone Triple Play?
+Customer : yes
+Agent-Freehand : That's great!
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : working from home and streaming for extra tvs 
+Agent-Freehand : Just to confirm, how many TVs you want to connect? And, how often you record shows?
+Customer : 1 and record daily
+Agent-Freehand : Thank you for answering.
+Agent : Based on what we discussed here is what I put together for you.
+Agent-Freehand : You can sign up for ABC ABC TV Ultimate HD + ABC Gigabit connection + ABC Digital Voice Unlimited Triple Play at just $111.11/mo. before taxes and equipment charges.
+
+You can select 1 Box with DVR at just $11/month.
+Agent-Freehand : With regular DVR:
+• Pause, rewind, and play back programs on one TV .
+• Record up to 1 programs at a time while watching a previously recorded show.
+• Program and manage your DVR online or from your compatible smart phone.
+• Transfer stored tunes, videos and photos from your PC and stream them through your TV.
+• Record 11 hours of HD programming.
+Agent-Freehand : So, it will be $111.11/mo. before taxes and fees.
+Agent : With 111 mbps download and 111 upload speeds our ABC Gigabit service allows you and your household the ability to game, stream, and securely browse online all at the same time.
+Agent-Freehand : Does that sound like something you would be interested in?
+Customer : thats more than i want to spend
+Agent-Freehand : I do understand your concern about the cost; however, you are getting our best ABC TV Ultimate HD plan which include all the channels you want with Showtime, Starz and Epix.
+Agent-Freehand : By selecting a lower TV plan, you will lose some of your most viewed channels.
+Agent-Freehand : Just to confirm, would that work for you?
+Customer : I don't need the ultimate tv
+Agent-Freehand : You can select ABC ABC Custom TV - Lifestyle & Reality plan which include GSN, TV One and OWN Network. However, you won't get any sports channel included with this plan like ESPN.
+Agent-Freehand : ABC ABC Custom TV - Lifestyle & Reality bundle would be available at just $111.11/mo. before taxes and fees.
+Agent-Freehand : Just to confirm, would this work for you?
+Customer : can espn be streamed on any aps
+Agent-Freehand : You might not be able to watch it from ABC ABC TV app as its not included with your ABC ABC TV plan.
+Agent-Freehand : You may check with other streaming device if any include ESPN streaming.
+Customer : OK thanks, I'll have to check into it
+Agent-Freehand : Order this Triple Play with Auto Pay and Two Year Price Guarantee and get $111 towards a range of Google and Nest smart home devices. Order now and also get a $111 Visa Prepaid card!
+Agent-Freehand : I am sorry but $111 Visa Prepaid card offer is not there.
+
+You will just get $111 towards a range of Google and Nest smart home devices.
+Agent-Freehand : Just to confirm, would you like to go ahead and take the advantage of this great offer now?
+Customer : 1 year contract with 1 yr guaranteed pricing?
+Agent-Freehand : Yes, that's correct.
+Agent-Freehand : You will have peace of mind knowing your bundle price will be locked for 11 months with our 1 year agreement.
+Agent-Freehand : You won't be charged any monthly fees now for placing your order online, your billing will start once services are installed at your location.
+Agent-Freehand : Just to confirm, what additional information you want to make your decision?
+Customer : ok thanks, i need to check on ESPN streaming then I will be able to make my decision.
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : no thank you
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat
+System : SALE OCCURRED

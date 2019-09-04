@@ -1,0 +1,45 @@
+Opener :  Opener: Hi! Chat now to get our best ABC offers and find out how to save $11!
+Customer : Hello
+Agent : Agent 'abc@abc.com' enters chat (as Dominick)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Dominick. Happy to help!
+Customer : Hey there
+Customer : I am looking to switch from spectrum to ABC Gigabit connection
+Agent-Freehand : I will be glad to assist you.
+Customer : Above says find out how to save $11
+Agent-Freehand : You need to complete the order proceeding with the checkout after selecting the services without closing the chat window, you can minimize and proceed .
+Agent-Freehand : Once you make the selections for the services , let me know.
+Customer : gotcha
+Agent-Freehand : I will be here.
+Customer : I just finished
+Agent-Freehand : You need to proceed with the checkout option .
+Agent-Freehand : Once you proceed with the checkout , let me know if you have any questions.
+Agent-Freehand : I will be here to help you till you submit the order.
+Customer : Im wondering about the saving $11 it said above
+Customer : & im also still in contract with spectrum
+Customer : Theres a $111 buyout right?
+Agent-Freehand : The contract buy out is up to $111.
+Agent-Freehand : Once you submit the order I can confirm the $11.11 waive for you.
+Customer : so the $11.11 waive
+Customer : includes the $111 prepaid gift card
+Customer : as well as $111 in google products?
+Agent-Freehand : The $11.11 is the set up fee waive that would be once you submit the order and the Gift card and the $111 would be mailed to you within 11-11 days .
+Customer : gotcha
+Agent-Freehand : Let me know once you submit the order.
+Customer : is there anyway i can do a credit check without giving my social security?
+Agent-Freehand : As it is a new order , credit check is required and for the credit check the SSN needs to be entered . Don't worry you are on a reputed company's website and it is safe.
+Agent-Freehand : Your social security number is not required to place an order online. However, for your protection and the protection of ABC, we request your social security number to prevent fraudulent orders from being placed in your name. If you choose to continue your order without entering your social security number, you may be contacted for additional information before your order can be completed. You will not be able to select an installation date our verification center verifies your details.
+Customer : Is there a way to confirm my identity via phone
+Customer : without providing social?
+Agent-Freehand : If you complete the order on phone than there would be the set up fee charged and on call also you have to provide the SSN.
+Customer : ahh i see
+Agent-Freehand : Let me know once you complete the order.
+Agent-Freehand : Just to be sure. Are you proceeding with the order/
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : actually i think ill place the order after consulting with my sister tomorrow for the TV option
+Customer : thank u very much
+Agent-Freehand : I understand.
+Agent-Freehand : May I provide you with any other support?
+Customer : that is all, thank you!
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

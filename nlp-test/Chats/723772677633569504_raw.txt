@@ -1,0 +1,111 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : hi
+Agent : Agent 'abc@abc.com' enters chat (as Luther)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Luther. Happy to help!
+Customer : hi
+Agent-Freehand : Hello!
+Customer : it seemed that my previous deal has expired
+Customer : And my bill for last month spiked for $11
+Agent-Freehand : Ohh, that is devastating!
+Agent-Freehand : I will be glad to look in to your account and review the options to get best value for your money.
+Customer : I'm wondering if there is a way to get a new plan and to also get it applied retroactively.
+Customer : Yes, please.
+Agent-Freehand : I see that you are logged on to your MyABC account, thank you for safeguarding your account, Guo!
+Customer : Yes. This $11 increase is unbelievable after 1 years on the same service.
+Agent-Freehand : I can understand how you feel.
+Agent-Freehand : I see that you have ABC Internet 11/11 + ABC Preferred HD TV pack + ABC Phone service with the total price of $111.11 a month before taxes.
+Customer : Yes, which was 11.11 before this month.
+Customer : which I understand if I were to shut and service and reopen, would be even cheaper...
+Agent-Freehand : Yes, that is unfortunate but true.
+Customer : Would you at least give the same deal?
+Agent-Freehand : Let me do some research
+Customer : Thank you!
+Agent-Freehand : Welcome/
+Agent-Freehand : I see that there are some promotions that I can add to get you the new bundle price of $111.11 a month for the same service plan with the new Price Lock Protection for 11 months.
+
+Your New Estimated Monthly Subtotal will be $111.11 a month before taxes.
+
+Your New Estimated Monthly Charges will be $111.11 a month after taxes.
+Agent-Freehand : I appreciate your patience.
+Customer : That's a more than $11 increase...
+Customer : When I started, I paid for 11.11, and then 11.11, and now 111.11...
+Agent-Freehand : Yes, I understand your point. however, the thing is such that the prices that you were paying were with the promotions that are now expired.
+Customer : Could you not apply some of the same promotions
+Customer : If I started over again, I wouldn't even have to pay $111 with the new promotions...
+Agent-Freehand : I am sorry, the promotions are attached to the contract term.
+Agent-Freehand : Once the contract is expired, the promotions expire too.
+Customer : Would you give me number for your retention center please?
+Agent-Freehand : I am sorry, retention in reference of?
+Agent-Freehand : Are we looking to disconnect an entire service account?
+Customer : Yes. This is too much of an increase
+Agent-Freehand : We will miss you!  We truly value your business. Please contact one of our specialists at 111-111-1111 during the hours of 1:11 am – 1:11 pm (Mon – Fri).
+Customer : Thank you for the info.
+Agent-Freehand : You are welcome/
+Agent-Freehand : May I provide you with any other support?
+Customer : No, unless you can offer me more promotions.
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : Some streaming
+Customer : I like the same plan. It is really just about the pricing
+Agent-Freehand : Sure thing!
+Agent : What are your must have TV stations/networks?
+Customer : Pretty basic
+Customer : The ones I have are fine for now
+Agent-Freehand : Alright!
+Agent-Freehand : I see that there are no good promotions available if you are to stay with the current TV plan.
+
+I see that if you are to switch to the Custom TV plan, there are some promotions that I can add like getting your new bundle price to $11.11 a month that currently is $111.11 a month.
+
+Plus, I see that you can get $111 credit towards a range of Google and Nest smart home devices with this bundle with new 1-year agreement.
+Agent-Freehand : Pick from one of the following Custom packages and get the types of channels you want:
+
+Action & Entertainment
+Sports & News
+Kids & Pop
+News & Variety
+Infotainment & Drama
+Lifestyle & Reality
+Home & Family
+Agent-Freehand : Here is the link to get the up-to-date channel line up with all the details of the channel pack that ABC has to offer.
+
+Customer : Let me look at this.
+Agent-Freehand : Sure thing!
+Agent-Freehand : I will be right here to answer any of the questions that may arise.
+Customer : So I guess this would just be a downgrade on the TV front, which will make the bundle price $11 cheaper?
+Agent-Freehand : No, I would not call it a downgrade. I would call it a right size of the service. The service that gets you what you want.
+Customer : What would be the difference in channels between the one I have and for example if I were to pick sports and news
+Agent-Freehand : Let me share that.
+Agent-Freehand : There is only 1 channel that you would loose, BBC America.
+Customer : Thank you. Let me think about this.
+Agent-Freehand : Sure thing!
+Agent-Freehand : Let me share an email with the order quote as it will help you decide.
+Agent-Freehand : No matter what Custom TV plan you choose out of those 1, your bundle price, $11.11 will remain same.
+Customer : What if I do without the phone servuce
+Agent-Freehand : I understand that you are looking to disconnect a service from bundle.
+Agent-Freehand : Let me share some insights.
+Agent-Freehand : I understand you want to check pricing for removal of a bundled component; however, we do not have ability to check pricing after unbundling the bundled services. We have a specialist team which handles this requests. I will be glad to provide you the direct number to reach out our specialist team. 
+
+Also, when a service is disconnected from bundle, the promotions that are associated with your services being in bundle, expires. So, you may end up getting a similar
+Customer : OK. What would be the number?
+Agent-Freehand : Please contact one of our specialists at 111-111-1111 during the hours of 1:11 am – 1:11 pm (Mon – Fri).
+Customer : Are they still open now, or I have to wait until tomorrow
+Customer : So it's the same number as the one you sent me earlier
+Agent-Freehand : Yes, they would not be available at this hour.
+Agent-Freehand : Yes.
+Customer : I assume if I called the general customer service line and told them to cancel service, I would be transfered to this number, correct?
+Agent-Freehand : No, in that case, they will assist you to cancel the services.
+Customer : I thought the number you provided if the direct line for canceling services, no?
+Agent-Freehand : Yes, the case is such that the rush will be on the general customer service line, that is 1111-111-1111 not on the number 1111-111-1111.
+Agent-Freehand : Email sent successfully on abc@abc.com.
+Agent-Freehand : May I provide you with any other support?
+Customer : No. Thnak you very much.
+Agent-Freehand : It was my pleasure chatting with you. 
+If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  
+Thank you for chatting with ABC.
+Agent-Freehand : We might not get the chance to chat again; I wish you have great days ahead and all the best for your future endeavors.
+Customer : Thank you. You too
+Agent-Freehand : We will miss you! And more precisely, I will miss this conversation.
+Agent-Freehand : You have been with us since last five years. You are a treasured ABC Family member.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

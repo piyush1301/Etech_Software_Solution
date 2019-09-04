@@ -1,0 +1,76 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : One of my set top boxes is not working.  I need to bring it in and get a new one.
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Agent 'abc@abc.com' enters chat (as Mohd)
+Agent-Freehand : Thank you for contacting ABC Repair Support. My name is Mohd. May I have your telephone number?
+Customer : 111-111-1111
+Customer : Betty Daniels
+Agent-Freehand : Thank you for providing the details.
+Agent-Freehand : I understand your concern, please be assured, I'll do my best to resolve this for you.
+Agent-Freehand : What is the error message you are getting on the screen?
+Customer : We have already tried cutting it off, rebooting, everything.  We called the other night and spoke to an agent.  But they did not document our call.  So when my nephew tried to take the box in and get another one, he was told there was no report on file.
+Customer : We're not getting any message.  The tv won't come on in that room at all.  That box is dead.  All of the other rooms are working fine.
+Agent-Freehand : Okay, I will go ahead and create a replacement for you.
+Agent : Please provide the serial number of the non working Set Top Box. It is located underneath the box which begins either with "M" or “P”.
+Customer : My nephew has it in his jeep to return.  I don't have it in here.  Can he give you that when he turns it in tomorrow?  
+Customer : I called earlier today and they said there was over an hour wait and I should try online.  
+Customer : So I'm doing that but didn't know I would need the box
+Agent-Freehand : When we create the replacement, the set-top box gets deactivated and the new one would be activated, so, we need a serial number.
+Customer : I have a total of 1 boxes.  It's one of them
+Customer : What is I give you the numbers off the other two?  I can go get them! 
+Agent-Freehand : perfect1
+Agent-Freehand : Perfect!
+Agent-Freehand : Give me the other two numbers.
+Agent-Freehand : I will replace the third one.
+Agent-Freehand : I wish, I could have thought of this.
+Customer : Is it on the back with the skew numbers?
+Agent-Freehand : Yes,  begins either with "M" or “P”.
+Customer : ok, first one is  ma1111efd111
+Customer : I'm going to the other one now, be back in a minute.
+Agent-Freehand : sure.
+Customer : ok, was that the right one for first?  There were other numbers too
+Agent-Freehand : Yes,
+Agent-Freehand : That is correct.
+Customer : mt1111tmx111   It looks like this anyway!   My camera on phone couldn't get clear shot.
+Agent-Freehand : This is the correct one.
+Agent-Freehand : I will go ahead and create a replacement.
+Customer : ok, then the one in his car is the 1rd one
+Agent-Freehand : Yes, I will create for the third one.
+Agent-Freehand : You would like to pick the box from the ABC store?
+Customer : I use to take them to FOrest Hill Ave for replacement.  But they told him that isn't a corporate store any longer.
+Customer : Yes.  Where is closest to me in west end?  11111 zip code
+Agent-Freehand : Yes, they will need the ticket number for the replacement.
+Agent-Freehand : The nearest stores is 1111 JOHN ROLFE PKWY, RICHMOND, VA, 11111
+Agent-Freehand : I am creating a replacement now, please allow me a minute here.
+Customer : gotcha
+Agent-Freehand : Meanwhile, I see that you are in month to month contract agreement and if you are in annual contract with ABC then you will avail the best deals and promotions on the account which might decrease your bills.
+Agent-Freehand : Also, I see a wonderful offer on your account, wherein, if you get on contract, you will get $111 credit over Google and Nest home products.
+Customer : I am retired c&p and AT&T employee.  I am supposed to be on special rates....
+Agent-Freehand : I will connect your chat to the sales team after the replacement, who will be able to provide you more information on the offer.
+Agent-Freehand : Okay.
+Agent-Freehand : If you wish I can connect this chat to the team.
+Customer : Do you think they can beat my retirement pricing? 
+Agent-Freehand : Please check the SMS and click on the link in the SMS and follow the steps. SMS Confirmation sent to 1111111111.
+Customer : What is the SMS
+Agent-Freehand : I have  sent a text message on the mobile number.
+Agent-Freehand : The sales team would be able to provide you more information on the offers, shall I transfer the chat after the replacement is done?
+Customer : Thank you.  I got the ticket number
+Agent-Freehand : Please click on confirm. on the page
+Customer : Yes, why not
+Agent-Freehand : Sure. I will connect you to them now.
+Agent-Freehand : I am transferring the chat.
+Agent : Agent 'abc@abc.com' enters chat (as Nestor)
+Agent : Agent 'abc@abc.com' exits chat
+Agent : Hey there! My name is Nestor. Happy to help!
+Agent : Thank you for your years of loyalty to ABC!
+Agent-Freehand : I have read your previous conversation with the last reap. Let me pull the account on my end and check the best offers and deals currently available in your account.
+Customer : Thank you.   I am retired from phone company.  So I get a special rate for triple play.  Can you do better price? 
+Agent-Freehand : I am working on your account and trying to get the best deal.
+Agent-Freehand : Please give me few moments while I gather some information on your request.
+Customer : OK
+Agent-Freehand : Thank you for your patience.
+Agent-Freehand : Upon pulling your account I see that the account you are logged in is a final account.
+Agent-Freehand : May I know do you have any other account ?
+Customer : Only a cell account for my daughter, Pam Overbey.  I pay that for her.  Can I get a better price on that?
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Customer closed the chat window.

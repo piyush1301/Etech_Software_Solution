@@ -1,0 +1,190 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : good moring how are u doing today 
+Customer : ok 
+Customer : i had order about 1weeks ago ,, 
+Customer : but i was not able to pick up the equipment 
+Customer :  so they canceled it to day 
+Agent : Agent 'abc@abc.com' enters chat (as Harold)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : yes
+Agent : Hey there! My name is Harold. Happy to help!
+Customer : anthony 
+Agent-Freehand : Nice to meet you Anthony!
+Agent-Freehand : I see you are working on your order and at the order page.
+Customer : same here 
+Customer : yes 
+Agent-Freehand : Please keep this chat window open while you go through the order process. In case you have any questions during the order process, please feel free to ask me. I am right here with you.
+Customer : ok 
+Customer : i will 
+Agent-Freehand : Thanks
+Customer : i will give u the account number 
+Customer : Account number: 111-111-111-1111-11
+Customer : or do i have to do it all over 
+Agent-Freehand : Do you already have ABC ABC account?
+Customer : yes but they c
+Customer : they canceled it because i didnt pick up the equipment 
+Agent-Freehand : In that case you need to place new order for the service.
+Customer : ok thats fine with me 
+Customer : im ready when you are 
+Customer : tell me what i have to do 
+Agent-Freehand : Your address is 1111 BOSTON,APT 1R BRONX NY 11111.Correct?
+Customer : yes it is 
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : Have you decided any plan to order online?
+Customer : your welcome 
+Customer : im still looking 
+Agent-Freehand : No Worries! I'll help you with the plan that suits you and fits in your budget.
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Customer : ok
+Agent-Freehand : Are you looking for triple play service(Internet+TV+Phone)?
+Customer : yes 
+Agent-Freehand : Great!
+Agent : What are your must have TV stations/networks?
+Customer : life time fx id , logo, lifetime movie net work , food network, am, 
+Customer : i also need wi-fi in m home 
+Agent-Freehand : Sure.
+Agent-Freehand : The Preferred HD plan includes all of your must have channels.
+Agent-Freehand : How many TV’s are we connecting?
+Customer : 1 tv 
+Customer : will i also get on demand and i also need a dvr 
+Customer : i saw something for $111.11  with like 111 +channels  
+Agent-Freehand : ABC brings the most On Demand titles to the TV screen with access to more than 111,111 titles, thousands of which are free. You will have access to a wide variety of content available including: blockbuster movies, concerts, sporting events, exercise, and kids programming.
+Agent-Freehand : Would you like to rent or buy the router?
+The rental charge of the router is $11/mo OR you can buy it for $111.11 one time
+Customer : rent 
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : all the above 
+Customer : no gaming 
+Agent-Freehand : Thank you for sharing information.
+Customer : np
+Agent-Freehand : I have prepared a quote for you.
+Customer : ok thanks 
+Agent-Freehand : Do you have access to this email abc@abc.com?
+Customer : yes i do 
+Agent-Freehand : I have sent you a detailed quote of the deal.
+Customer : ok
+Agent-Freehand : Please review it and let me know once we are good to proceed.
+Agent-Freehand : You'll get $111 towards a range of Google and Nest smart home devices  with Auto Pay and 1-year agreement.
+Customer : ok
+Agent-Freehand : You'll also get $111 Visa prepaid cart with the deal :)
+Agent-Freehand : *card
+Customer : ok thank s it sounds good 
+Customer : i want to sign up 
+Agent-Freehand : Great!
+Agent-Freehand : Please stand by as I proceed with your order.
+Agent-Freehand : By the way ABC phone plan  includes unlimited calling to the US, US territories, Canada and the following 11 countries:
+China
+Pakistan
+Dominican Republic
+Portugal
+Hong Kong
+Singapore
+India
+South Korea
+Mexico
+United Kingdom
+Customer : ok thanks
+Agent-Freehand : You are welcome.
+Agent-Freehand : I see that your location is eligible for ABC self-installation. With this option, you’re able to install the service at your convenience without having to miss work or other obligations. We include everything you need, including cables, activation codes, and instructions, which includes a self-installation wizard and a user guide . You have the option of either picking up the equipment at a location near you and bring it home yourself, which would allow you to begin enjoying your service as early as today, or have it shipped to you
+Customer : ok 
+Customer : ok that sounds good 
+Agent-Freehand : 111 WESTCHESTER SQ,  
+BRONX NY 11111.  
+Tn: --(111) 111-1111; 1.11 mile  
+MON-SAT 11:11 AM-11:11 PM  
+SUN 11:11 AM-11:11 PM
+Agent-Freehand : 1111 CROSBY AVE,  
+BRONX NY 11111.  
+Tn: --(111) 111-1111; 1.11 mile  
+MON-SAT 11:11 AM-11:11 PM  
+SUN 11:11 AM-11:11 PM
+Agent-Freehand : You need to pick up your equipment from any of the above ABC stores.
+Customer : can my wife pick up the equipment for me if thats ok
+Agent-Freehand : May I know when will you pick up the equipment?
+Agent-Freehand : Yes your wife can pick up equipment.
+Agent-Freehand : She just need an order number which I'll help you with.
+Customer : can she pick it up in manhatten
+Customer : because i will be at work all day and night 
+Customer : here is the zip code that she work in 11111
+Agent-Freehand : Yes she can pick from any other ABC store however I would recommend you to call the store person for the availability of the equipment.
+Customer : ok 
+Agent-Freehand : The first available due date for this order is 11/11/1111.
+Customer : it have to be picked up on the 1, if she does not pick it up tonight 
+Agent-Freehand : Can she pick up equipment by Saturday, August 11th 1111?
+Customer : can she pick it up tonight 
+Customer : because we real need cable bad 
+Customer : lol
+Agent-Freehand : Sure.She can pick up equipment today.
+Customer : ok  where at 
+Customer : thanks so much 
+Agent-Freehand : Please visit following link and select your State from dropdown menu and click on ""Find a store"" button. Once the list is populated on next page you can filter out list of stores where you can collect your equipment by selecting ""ABC Equipment Exchange"" option from Filter service drop down menu.
+
+
+Agent-Freehand : I appreciate your patience.
+Customer : np 
+Agent-Freehand : You must pick up their necessary equipment from the ABC store within 11 days from the due date otherwise, this order will be cancelled.
+Agent-Freehand : You will receive a new remote control for each set top box you ordered. They come with a 11 day limited warranty. After that, you will be responsible for purchasing replacements.
+Agent-Freehand : Do you have access to the internet via a mobile device or computer while you’re speaking with me? I'd like to send you a text message or email with a link to your order. Which would you prefer?
+Text or Email?
+Customer : text
+Agent-Freehand : Can I text you at 1111111111?
+Customer : im still looking for some where to picg up the equipment 
+Agent-Freehand : Please access this link for all the stores available in NY.
+Customer : what do i need 
+Customer : can she pick it up at any store 
+Agent-Freehand : Yes she can pick up at any store but please contact store person before visiting store.
+Customer : ok i will thanks 
+Customer : is there a order number 
+Agent-Freehand : Can I send you order summery at 1111111111?
+Customer : will i have to pay any thing 
+Customer : yes u can 
+Agent-Freehand : You won't be charge your monthly bill today. You will get your first bill within 11 days once the services are activated at your address.
+Customer : ok thanks so much 
+Agent-Freehand : I have sent you a text regarding the new order.
+Agent-Freehand : Please click on link in text to view your order.
+Agent-Freehand : Let me know once you complete the order.
+Customer : ok i will
+Agent-Freehand : Please click on "continue" to proceed with the order.
+Customer : my bill will be $111.11 every month
+Agent-Freehand : Your regular bill will be $111.11 including taxes and fees.
+Customer : ok 
+Customer : because i was about to say  thats was to much 
+Agent-Freehand : Your Aug 11,1111 bill will be $111.11 because of the Change in Service and Partial Month charges.
+Customer : ok
+Agent-Freehand : I am right here with you.
+Customer : ok
+Agent-Freehand : Thanks
+Customer : do i have to do auto pay 
+Agent-Freehand : Yes you need to enroll in auto pay to get $11/mo additional auto pay discount.
+Agent-Freehand : Your order includes $11/mo auto pay and paper free billing discounts.
+Customer : can i add my wife to the account 
+Agent-Freehand : You can not add your wife to the account.
+Agent-Freehand : However you can add your wife's card for auto pay.
+Customer : ok
+Agent-Freehand : Thanks
+Agent-Freehand : Thank you for your order.
+Order number: NY11111111111
+Make sure to check your abc@abc.com inbox for your order summary.
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : thanks so 
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  
+I hope I provided you with 1 Star service!
+Agent-Freehand : Anthony,It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+I hope I provided you with 1 Star service!
+Agent-Freehand : Have a great day!
+Customer : yes you did thanks and have a good day 
+Customer : do i have on demand 
+Agent-Freehand : Thank you so much Anthony!
+Agent-Freehand : Yes the deal includes On Demand.
+Customer : thanks 
+Customer : i just have to give them the order number 
+Agent-Freehand : Yes your order number is NY11111111111.
+Customer : thanks 
+Agent-Freehand : You'll also get an email with the order summery within 1 minutes.
+Customer : ok thanks 
+Agent-Freehand : You are welcome.
+Agent-Freehand : Do you have any more questions for me? I will be happy to answer all your questions.
+Customer : no thanks 
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent-Freehand : Bye.take care

@@ -1,0 +1,80 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : good morning! I'm trying to renew my current plan for a new 1-year agreement or if you have a better plan/offer i willing to hear it
+Agent : Agent 'abc@abc.com' enters chat (as Shawn)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Shawn. Happy to help!
+Agent-Freehand : No worries, I will take care of this for you and will check the best renewal deal available on your account so that you can take advantage of maximum discounts available.
+Agent-Freehand : With whom do I have the pleasure of chatting today?
+Customer : is it possible fopr you to call me on my cp (111-111-1111) instead to discuss farther. thanks
+Agent-Freehand : Since we are in the online chat department, the calling option is not available.
+Customer : ok. what is the best deal for me that you can offer
+Agent-Freehand : Sure, let's check.
+Agent-Freehand : I can see that you currently you are logged in to your My ABC account, am I correct?
+Customer : yes
+Agent-Freehand : Thank you for safeguarding your account, let me go ahead and pull up your account details here to assist you further. Please allow me few moments here.
+Agent-Freehand : Let me take a moment to review the services on your account to ensure I have all information.
+Customer : ok thanks
+Agent-Freehand : You're welcome!
+Agent-Freehand : Thank you for your patience, I see that you currently subscribed to ABC 11/11 Mbps internet + ABC TV Ultimate HD + ABC Digital Voice unlimited plan
+
+Your 1 year agreement will expire on : 11/11/1111
+Customer : thats correct
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : May I know if you are looking to keep the same level of channels you have? 
+
+I see that you currently have our highest available TV plan.
+Customer : thats my plan, to keep the channels i currently have but if you could add HBO with the same price I'm currently paying that would be great
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : Let me go ahead and check the best renewal deal available on your account.
+Agent-Freehand : I appreciate your patience.
+Agent-Freehand : Please confirm if you have access to : abc@abc.com
+
+I will send you the email preview to review new 1 year agreement deal.
+Customer : thats me. after reviewing what happen next, are we going to continue to chat to confirm if i may or may not agree with the deal?
+Agent-Freehand : Yes, this is just the preview email. If you wish to continue I will send another email with a link to confirm the order.
+Agent-Freehand : Email preview has been sent! Please check.
+Agent-Freehand : Note:
+This deal includes our latest Ultimate HD 1111 TV plan and includes Free Epix, Showtime, Starz and Sports pass packages as complimentary. I have included HBO at additional charge to review the offer.
+
+Specials included with this deal:
+$111 toward Google and Nest devices
+Customer : thanks let me open my email. are going to stand by while i read the email you just sent?
+Agent-Freehand : Yes, please keep this chat window open/minimized. I am right here with you.
+Customer : Shawn, i think i will keep the plan i currently have and would like to renew for a 1 year price guarantee with a 1-year agreement. the new price you sent is a little much for me since I'm on a fix income. thanks
+Agent-Freehand : No worries, let me check on this for you please.
+Agent-Freehand : I see that if you eliminate the HBO from the plan I sent your new estimated bill with this renewal deal will be $111.11 approx. including taxes and fees.
+
+Specials included:
+ $111 toward Google and Nest devices
+Agent-Freehand : Does that sound like something you would be interested in?
+Agent-Freehand : As per I checked if you renew your agreement with your current Ultimate HD TV (which is old and grandfathered and does not include premium movie channel) your new estimated monthly bill will be $111.11 approx. That is just $1 cheaper than the deal I mentioned without HBO.
+Agent-Freehand : And no promotions are included with keeping old Ultimate HD
+Agent-Freehand : With switching to new Ultimate HD 1111 TV plan you are getting better discounts and promotions!
+Customer : currently I'm paying 111.11 monthly with my current plan which does not include HBO. i would like it to go down no up please
+Agent-Freehand : In that case the best option to go with lower TV plan since you need to lower the price because with Ultimate HD TV the deals I shared are the best available deals on your account,.
+Customer : with switching to the new ultimate HD 1111 TV plan how much again my monthly?
+Agent-Freehand : Sure, let me check it.
+Agent-Freehand : 1 year agreement with : ABC Internet 11/11 + ABC TV Ultimate HD 1111 (Epix, Showtime, Starz and Sports pass included) + ABC Digital Voice Unlimited 
+
+New Bundle price =  $111.11 - 1 year price guarantee 
+(Price is including new $11 ABC Bundle Discount for 11 Months)
+
+You will be having : Rent: 1 TV Equipment Package at $11.11
+
+Your New Estimated Monthly Subtotal =  $111.11 Before taxes
+
+Your New Estimated Monthly Charges after taxes and fees =  $111.11 Approx. 
+
+Specials included:
+$111 toward Google and Nest devices
+Agent-Freehand : If you enroll with Auto pay this this deal you will get extra $1/Mo. discounts for 11 Months.
+Customer : this whole package you just sent is good for 1-yr price guarantee with a new 1-year agreement right? not interested with auto pay. thanks 
+Agent-Freehand : Yes, you are correct!
+Agent-Freehand : We can skip auto pay with this deal.
+Customer : and my current channels are intact with few additionals like starz. the sports pass, do i have that on my current plan?
+Agent-Freehand : You currently have only sports pass package included.
+
+With new Ultimate HD plan you will get Free Epix, Showtime and Starz which are premium movie channels and Sports pass will remain same.
+Customer : when does the new deal goes into effect? would that be after my current plan ends on sept. 1 or i would be able to watch it as soon as this deal is agreed upon by me and you?
+Agent-Freehand : The new deal will go in effect within 11 hours once we submit the order. New channels will be updated within 11 hours once we submit order.
+Customer : sounds reasonable deal and i'll take it and go ahead submit the order. Shawn thanks for all your assistance and patience.

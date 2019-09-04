@@ -1,0 +1,290 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : I see some renewal offers
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Agent 'abc@abc.com' enters chat (as Ned)
+Customer : they mention a $1 router rental which I don't currently pay for
+Agent-Freehand : Thank you for being a valued ABC customer. I will be glad to check your account.
+Agent-Freehand : While I am pulling up the account, may I know with whom do I have pleasure of chatting today?
+Customer : Andrea
+Agent-Freehand : Hello Andrea!
+Agent-Freehand : I can see that you are having 11/11M + Prime HD + Phone and your bill is $111.11/mo after taxes.
+Agent-Freehand : I can see that you are having an older version of router and you are getting ABC Qunatum Gateway Router with a discounted price of $1/mo instead of $11/mo.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : without the second phone line, what am I currently paying? 111.11?
+Agent-Freehand : Please allow me a moment to check.
+Agent-Freehand : Just to confirm, are you looking to remove the additional line?
+Customer : no, but I assume that price is constant so I don't need to consider it
+Agent-Freehand : It is $1.11/mo.
+Customer : i see, 111.11
+Customer : but I don't pay for a router
+Customer : is the router mandatory? I don't need it
+Agent-Freehand : Yes, you are correct. You are not paying for router now, however with this new deal, you need a router as we don't offer older version of routers any more.
+Agent-Freehand : It is the latest dual band router which ensures strong and best wireless connectivity whether you are near the router or you are far from router. It gives you the wireless range up to 111 ft.
+Agent-Freehand : Other important features of ABC Quantum Gateway router are Guest Wi-Fi network so that you don’t have to share your personal password with your guests, Optimized video streaming experience with AC compatible devices, & the convenience of managing the router through the My ABC App.
+Customer : can I forgo the router and save the $1
+Agent-Freehand : I apologize. In only case you have your own router then only this is possible.
+Customer : these promos don't seem that good
+Customer : i have my own router
+Agent-Freehand : Okay.
+Agent-Freehand : Please allow me a moment to check.
+Customer : considering how long I've been with ABC, this doesn't seem that good
+Customer : i barely use some of the services
+Agent-Freehand : Please allow me a moment.
+Agent-Freehand : I have removed the router charge. Please rest assured.
+Agent-Freehand : I can see that with this new deal, the price is $111.11/mo after taxes.
+Customer : of course, the last chat was lost
+Customer : what about before taxes
+Agent-Freehand : Before taxes the plan is $111.11/mo before taxes.
+Customer : so 111.11 + 1.11 for the second line
+Customer : and no $1 router charge
+Customer : can you do any better, sometimes, we've been offered extra discounts to stay with ABC
+Agent-Freehand : Yes, you are correct.
+Agent-Freehand : Let me send you the quote.
+Agent-Freehand : Could you please share your email address so that I can send you the price quote after the changes?
+Customer : abc@abc.com
+Agent-Freehand : Thanks!
+Agent-Freehand : Email sent successfully!! Please review.
+Customer : what happens when the free SD boxes get too old
+Customer : mine works pretty poorly
+Customer : and they are getting to be ancient
+Agent-Freehand : In that case, would you like me to replace them by HD Box?
+Customer : i don't want to pay for a box as I barely watch TV
+Customer : and by then I might as well get something like DirectTV Now
+Agent-Freehand : I can understand.
+Customer : i'm an older person and ABC is costly for my usage
+Agent-Freehand : Let me right size the plan.
+Agent : What are your must have TV stations/networks?
+Customer : those Altice plans look better everyday
+Agent : While comparing services, you might want to keep in mind that with cable you might end up sharing your internet speeds with your neighbors. This isn't the case with ABC. We offer you reliability and quality that you deserve.
+Customer : mostly classics, AMC, TCM
+Agent-Freehand : Okay.
+Agent-Freehand : Please allow me a moment.
+Agent-Freehand : Could you please help me with the full name of the channels as I'm not into TV much.
+Customer : American Movie Cassics should be in all the packages 
+Customer : I'm not sure about Turner Classic Movies
+Agent-Freehand : Please allow me a moment to check.
+Customer : in the past, it seems I could often get some sort of credit to offset the cost
+Agent-Freehand : Let me check that also.
+Customer : how does this $111 Google/Nest offer work?
+Customer : I probably won't use any of those items
+Agent : Get $111 towards a range of Google and Nest smart home devices with qualifying bundles with Auto Pay and 1-year agreement.
+Customer : what are the prices of those devices?
+Agent-Freehand : Please allow me a moment to assist you with the link with complete details.
+Agent-Freehand : 
+Agent-Freehand : Please use the above link.
+Agent-Freehand : I have sent you the updated quote.
+Agent-Freehand : Please review and let me know.
+Agent-Freehand : Just to confirm, are we still connected?
+Customer : yes
+Customer : my internet is acting up where i am
+Customer : what is the second quote
+Agent-Freehand : It is with the changed TV plan to the most basic  plan with your must have channels.
+Customer : which TV plan>?
+Agent-Freehand : Custom TV Action & Entertainment.
+Customer : where is the channel list?
+Agent-Freehand : 
+Customer : how much is that before tax?
+Agent-Freehand : Please use the above link.
+Agent-Freehand : Go to Page 11.
+Customer : i see, you get local plus one of the custom options?
+Customer : what is the cost of that before tax?
+Agent-Freehand : It is $111.11/mo before taxes.
+Agent-Freehand : Shall we proceed with the deal?
+Customer : I see, so save $11 plus the regional sports fee
+Customer : but I lose some broad coverage like news
+Agent-Freehand : Yes, with this plan there will be no RSN Fee.
+Customer : and the $111 offer
+Customer : *$111
+Customer : are there other plans without the RSN fee
+Customer : i don't watch sports
+Agent-Freehand : You are eligible for $111 Google Nest Offer.
+Agent-Freehand : There is no other fee for the Sports Channels.
+Customer : how much is just 11/11 and 11/11 alone?
+Customer : this still seems expensive
+Agent-Freehand : I understand you are looking to remove the TV/phone services to curb costs. Removing TV/phone service is not possible online, and since you lose bundle discounts, it might not turn out to be very cost effective.
+Customer : i know, just what is the cost for internet alone
+Agent-Freehand : I understand you want to check pricing for removal of a bundled component; however, we do not have ability to check pricing after unbundling the bundled services. We have a specialist team which handles this requests. I will be glad to provide you the direct number to reach out our specialist team.
+Customer : sure, i can call tomorrow
+Agent-Freehand : No worries.
+Agent-Freehand : Let me  assure you that deals I am offering are the best and I don't want you to lose this opportunity to secure the deal. I come across many customers daily who wants to get some or other deal which was offered to them earlier. Sadly I have to explain them that offers are time sensitive and we always recommend to grab the offers while they are available. I do not want you to join their league since these offers may or may not be available when you visit us again.
+Customer : it's ok, this will be here tomorrow
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : what is that phone number?
+Agent-Freehand : Please contact one of our specialists at 111-111-1111 during 1:11AM-1:11PM(Mon-Fri) and they will be glad to assist you with your request.
+Customer : if I stick with 11/11, is the cost lower?
+Agent-Freehand : It will be approximately around $111/mo after taxes.
+Customer : can you send that quote too?
+Customer : then i'll study all the options in the morning
+Customer : it doesn't look like I can choose these options directly online?
+Agent-Freehand : I apologize, I cannot unbundle your service. I lack the access of doing so.
+Agent-Freehand : To prevent customers from losing special discounts or violating contract terms, our system will not allow you to downgrade services online. You will need to call your ABC Business Office and have your services manually downgraded.
+Customer : i mean, with the 11/11, still bundled
+Customer : you mentioned 11/11 would be less than 11/11
+Agent-Freehand : Just to confirm, are you looking for 11/11 with the remaining service same?
+Customer : say with that custom TV package and other services the same
+Agent-Freehand : The approximate price that I have shared is for the standalone 11/11M. Sorry for the confusion.
+Agent-Freehand : Please allow me to check now.
+Agent-Freehand : The plan with 11/11M + Custom TV + Phone is $11.11/mo before taxes and the bill is $111.11/mo after taxes.
+Customer : so it's 11 less for 11/11 versus 11/11
+Agent-Freehand : Yes, you are correct?
+Agent-Freehand : correct.*
+Agent-Freehand : Would you like to proceed with this deal now?>
+Customer : I can't select the 11/11 option online
+Agent-Freehand : Rest assured, I'll send you the link to proceed.
+Agent-Freehand : Shall we proceed?
+Customer : can you just send the quote
+Customer : then i'll have all the options
+Customer : and all of these offer the $111 promo
+Agent-Freehand : Sure!
+Agent-Freehand : Yes, you are correct.
+Customer : if I don't do a new contract, then none of this pricing applies?
+Agent-Freehand : Yes, these discounts are only with Contract.
+Customer : can you send one more quote
+Customer : that last one, but with the preferred HD TV option
+Agent-Freehand : Could you please share which quote you are referring to?
+Agent-Freehand : Okay.
+Agent-Freehand : Please allow me a moment,
+Customer : if I later decide to switch TV packages, will it just be the difference as an increase/decrease? 
+Agent-Freehand : Yes, you are correct.
+Customer : ok, is there a way to come back to you tomorrow, or do i just start a new chat?
+Agent-Freehand : I apologize, you have to start all these again. That is why I'm asking you to decide now and proceed with the deal.
+Customer : still waiting on that last quote
+Customer : is the custom TV more than local TV by itself?
+Agent-Freehand : Yes, you are correct.
+Agent-Freehand : I have resent the quote.
+Agent-Freehand : Please check.
+Customer : how much less is local TV?
+Agent-Freehand : Please allow me a moment.
+Agent-Freehand : I appreciate your patience.
+Customer : ALso what's the difference between preferred and prime TV?
+Customer : not clear what would change
+Agent-Freehand : Currently I'm facing issues with my system while checking the price with Local TV for you.
+Agent-Freehand : I'm so sorry.
+Agent-Freehand : I hope you understand.
+Customer : how do I checkout with the cart you sent? it's not clear
+Agent-Freehand : Are you able to see Checkout or Continue?
+Customer : what is prime versus preferred
+Agent-Freehand : Prime is a Grandfathered plan which we no longer offer.
+Agent-Freehand : You can check the channel line up for Preferred HD from the PDF that I have sent.
+Customer : i see
+Agent-Freehand : Yes.
+Agent-Freehand : May I provide you with any other support?
+Customer : something odd with the cart you sent
+Agent-Freehand : Could you please be more specific?
+Customer : it had preferred but now that price only shows local
+Customer : i took a screenshot
+Agent-Freehand : Which local you are referring to? Could you please be more specific?
+Customer : your original emailed cart is different from what I can bring up now
+Customer : it's the same price, but not the same TV bundle
+Agent-Freehand : I would request you to proceed with the cart that I have sent you.
+Agent-Freehand : It has Preferred HD in it.
+Customer : it should, but somehow doesn't
+Agent-Freehand : Please don't change the TV plan if you are looking to have Preferred HD.
+Customer : can you send that same cart again
+Agent-Freehand : Let me check as I'm having System Issues.
+Agent-Freehand : I appreciate your patience.
+Agent-Freehand : Please allow me a few more moments.
+Customer : can you send it again, thanks
+Agent-Freehand : I'm trying Andrea!
+Agent-Freehand : Let me explain something.
+Agent-Freehand : As I'm unable to send the email, I can only send you the link to place the order. I would request you to just check the price and if you are looking to proceed then press continue. Else leave as its is.
+Customer : ok, can you send that
+Agent-Freehand : Please check the email in box.
+Customer : i see
+Customer : the first cart you sent was $1 less for the same options
+Agent-Freehand : I can see that the previous cart was $111.11/mo before taxes and this one is $111.11/mo before taxes.
+Customer : i have the screenshot at 11.11
+Customer : but then i changed something
+Agent : Agent 'abc@abc.com' loses connection
+Customer : only the local and the custom TV save the RSN fee?
+Agent : Agent 'abc@abc.com' reconnected
+Agent-Freehand : Please allow me to double check.
+Customer : and it seems that 11.11 would be 11 less with prime and 11.11 less with local?
+Agent-Freehand : Please allow me a moment.
+Agent-Freehand : I have located the same deal and the bundle price is $111.11/mo before taxes and fees. It seems that you have mistakenly made any changes and hence the bundle price to you is showing $11.11/mo and thus the TV Plan is showing Local instead of Preferred HD.
+Customer : nope, i have the screenshot showing preferred from the cart you sent
+Agent-Freehand : Please allow me a moment.
+Agent-Freehand : I appreciate your patience.
+Agent-Freehand : Please check your email inbox.
+Customer : i don't get it, it's the same and slightly higher
+Agent-Freehand : I apologize, it seems that the exact deal you are looking for is expired and no longer available.
+Agent-Freehand : That is why I was asking you to grab the deal at the earliest.
+Customer : doubt it expired, possible some extra special  deal
+Agent-Freehand : I apologize, I have tried and given you the same discounts as before.
+Customer : i'm tired and this has taken too long, i'll have to phone in and see what they can offer
+Agent-Freehand : Not a problem.
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : can you make me one of these carts with the custom TV option
+Agent-Freehand : Could you please help me with the selections?
+Agent-Freehand : What are you looking to have?
+Customer : two more options, one exatly the same as now with prime
+Customer : and another with just local with arts and entertainment, everything else the same
+Agent-Freehand : Please allow me a moment.
+Agent-Freehand : Thank you so much for your continued patience.
+Agent-Freehand : Please share your must have TV channels.
+Customer : just do prime
+Customer : and then do custom tv arts and entertainment
+Agent-Freehand : Prime TV is a grandfathered plan and we no longer offer this plan.
+Agent-Freehand : Just to be sure, are you looking to  check the price for the two or you're looking to get a TV plan that includes your must have channels?
+Agent-Freehand : With Custom TV - Action and Entertainment, your new monthly bill would be $111.11/mo including taxes.
+Customer : but I see I can keep ptime when setting this up myself so you must be able to quote it
+Agent-Freehand : With Prime HD TV plan, your new monthly bill would be $111.11/mo including taxes
+Customer : just send the checkout links so I don't need to chat again
+Agent-Freehand : Yes, you can keep Prime  TV and can checkout from your end.
+Agent-Freehand : But the price difference between Prime and Custom TV is more.
+Agent-Freehand : I am not getting option to send you checkout link as we got the option to send it once.
+Agent-Freehand : I can sign up up from my end and it will take 1-1 minutes from now to confirm the changes
+Customer : i don't understand, you send one proposed order
+Customer : don't see why you can't send others
+Customer : i've already spent this time and dont' want to start again
+Agent-Freehand : i am nt sure about that but I am not getting option.
+Agent-Freehand : I can send you order preview and you can make selections from your end and can checkout
+Agent-Freehand : I understand but I can place order from my end to save our time
+Customer : what is order preview versus the checkout link?
+Agent-Freehand : With order preview, you can check included services and price but cannot proceed with the deal from your end.
+Agent-Freehand : You can refer the order preview and customize the deal but cannot checkout that from your end.
+Customer : so some you can send a link, but not others
+Customer : too confusing 
+Agent-Freehand : Do you have any further questions for me before signing up the deal with Prime HD?
+Customer : this process  seems such an ambiguous mess
+Agent-Freehand : Yes, I am so sorry for the inconvenience caused to you.
+Agent-Freehand : I've the deal in front of me and I can sign you for that. It will take hardly 1 minutes from now to place the order.
+Agent-Freehand : Shall we proceed?
+Agent-Freehand : To be sure, are we still connected?
+Customer : i'm here
+Agent-Freehand : Thank you.
+Agent-Freehand : I hope you won't mind me asking the reason holding you back to secure the deal today itself?
+Agent-Freehand : I believe I've answered all your questions and check everything for you other than the things which are not allowed by system.
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : when it just says internet
+Customer : what speed is that?
+Agent-Freehand : It is Internet plan 11/11Mbps
+Customer : is there a three day cancellation with these?
+Agent-Freehand : No, it is not like that
+Agent-Freehand : We do not deal with cancellation and once a order is placed, you need to contact cancellation department to cancel services
+Customer : isn't that NY law?
+Customer : oh, yes, i see, but I mean it should have a three day cancellation
+Agent-Freehand : I apologize, I am not sure about cancellation of services or order.
+Customer : and I can reduce the TV package later if desired?
+Agent-Freehand : Yes, you can downgrade/upgrade any of the services within contract but cannot drop the bundle component completely
+Agent-Freehand : Do you have any more questions for me before finalizing the deal?
+Agent-Freehand : Just to confirm, are we still connected?
+Customer : i'm here
+Agent-Freehand : Thank you.
+Customer : is there still a 11 day worry free guarantee? 
+Agent-Freehand : No, it is not applicable for existing account.
+Agent-Freehand : We offer 11 days worry free guarantee for our new connects who sign up the services for the very first time with ABC
+Customer : but nothing for renewals?
+Customer : just want to be sure I can reduce TV if desired
+Agent-Freehand : You can cancel renewal order within 11 hours
+Agent-Freehand : Yes, you can
+Agent-Freehand : Shall we proceed?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : i'm here
+Agent-Freehand : I would be glad to know your decision today so that we can finalize on something which we have discussed so far
+Agent-Freehand : We have been chatting and discussing the options for last 1 hours. May I know the reason holding you that long to make a decision today?
+Agent-Freehand : I understand some decisions can not be rushed. You can take your timer and contact us later as well with a proper choice to make changes in your account.
+Agent-Freehand : To be sure, are we still connected?
+Agent-Freehand : I have not heard from you for several moments. I will assume you have everything you need. If you have any additional questions, please do not hesitate to contact us again. Thank you for using ABC's chat service.
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

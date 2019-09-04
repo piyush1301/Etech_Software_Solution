@@ -1,0 +1,66 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : Hi I just noticed that my bill just went up from $11/month to $11/month, apparently because my 1-year contract expired.  Are there any options for discounts available to me?
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Agent 'abc@abc.com' enters chat (as Tyrone)
+Agent : Hey there! My name is Tyrone. Happy to help!
+Agent-Freehand : Thank you for being a valued ABC Customer. I will be glad to check available renewal discounts for you!
+Agent-Freehand : May I know if you're logged in to your account?
+Customer : I am, yes.
+Agent-Freehand : Great! Give me a moment.
+Agent-Freehand : I can see you have had ABC 111/111 Mbps plan in your profile and your agreement expired on 11/11/1111.
+Customer : Correct
+Agent-Freehand : You have had Introductory discounts in your profile for being a new customer and you still have got $11/mo discount valid for 11 more months in your profile. If we make changes to your services now, price will either increase or stays the same because the new customer discounts won't be available again. 
+
+The best we can do for your plan is $11.11/mo for 1 years with a new agreement and autopay.
+Agent : Agent 'abc@abc.com' loses connection
+Customer : Wait, so if I have a $11/month valid for the next 11 months, why is my bill saying it's for $11?
+Customer : Hello?
+Agent : Agent 'abc@abc.com' enters chat (as Brianna)
+Agent-Freehand : Thank you for being a valued ABC customer. I will be glad to check your account for the current services and the charges.
+Agent-Freehand : Wish you a very good morning! May I know with whom do I have pleasure of chatting today?
+Customer : Chris Detwiller.  I was in the middle of a chat with a different agent that got disconnected, do you have that transcript
+Customer : ?
+Customer : Hi I just noticed that my bill just went up from $11/month to $11/month, apparently because my 1-year contract expired. The person said " You have had Introductory discounts in your profile for being a new customer and you still have got $11/mo discount valid for 11 more months in your profile. If we make changes to your services now, price will either increase or stays the same because the new customer discounts won't be available again. The best we can do for your plan is $11.11/mo for 1 years with a new agreement and autopay."
+Agent-Freehand : Thank you for sharing the information.
+Customer : my question back was, so if I have a $11/month valid for the next 11 months, why is my bill saying it's for $11?
+Agent-Freehand : Let  me pullout the account to check the bill and the charges
+Agent-Freehand : I can see that you are currently logged in to your account. Thank you for safeguarding your account.
+Agent-Freehand : I have gone through the bill and I see your contract has expired on 11/11/1111, and the base charges has increased however still you have $11.11 for the base charge of $111.11 for ABC Internet 111/111
+Agent-Freehand : To be sure, are we still connected?
+Customer : Yes
+Agent-Freehand : Okay.
+Customer : so is that $11.11 what the bill should be, or is that the discount off of $111.11, making the bill $11?
+Agent-Freehand : The base charge is $111.11 for which you are getting $11.11 off till 1/1/11.
+Agent-Freehand : Which makes it $11
+Customer : oh i see.  so i think the last guy said if i signed up for another 1 years i could get a bit of a discount?
+Agent-Freehand : I have checked for the available renewal option and I see the charges would be same as you have currently i,e $11.11 after taxes
+Customer : oh ok.  i thought he said it would be $11.11 if i did it and signed up for autopay?
+Agent-Freehand : Yes that's correct too.
+Customer : so how do i do that?
+Agent-Freehand : Let me do that for you,
+Agent-Freehand : May I know if you have access to abc@abc.com?
+Customer : would i also get the chromecast 1k ultra?
+Customer : yes i do have access to abc@abc.com
+Agent-Freehand : Yes it includes Free Google Chromecast
+Agent-Freehand : Chris, I am sending you a link in the email with the deal for the new contract.
+Agent-Freehand : Please visit the link and let me know.
+Agent-Freehand : Is everything alright?
+Customer : i think i did it
+Customer : but it doesn't look updated on my account yet
+Agent-Freehand : I have not processed the order yet.
+Agent-Freehand : I see you have confirmed the order, let me place the order and it will be activated within a couple of hours
+Customer : oh ok 
+Agent-Freehand : Chris, the renewal order is successfully placed. Thank you for your order.
+Order number: MA11111111111
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : I think that'll do it; do you know approximately when I will get the chromecast?
+Agent-Freehand : We will send you the Chromecast though mail to the services address after 11 days of the renewal order only.
+Customer : ok thank you, i think that will do it!
+Agent-Freehand : You are always welcome. Do you have any more questions for me? I will be happy to answer all your questions.
+Customer : nope, all set, thank you!
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent-Freehand : Have a beautiful day ahead.
+Customer : thanks, you too
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Customer : The customer closed the browser window
+Agent : Agent 'abc@abc.com' exits chat

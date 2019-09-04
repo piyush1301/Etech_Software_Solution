@@ -1,0 +1,61 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : hi im thinking of leaving ABC or downgradingg services, because of the ABC dispute with Bein Sports
+Agent : Agent 'abc@abc.com' enters chat (as Brock)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Brock. Happy to help!
+Agent-Freehand : I hope you are doing well!
+Agent-Freehand : I understand you are disappointed with Bein sports channesl.
+Agent-Freehand : I would request you to give me a moment while I share with you some details
+Customer : ok
+Agent-Freehand : Thank you!
+Agent-Freehand : With whom do I have the pleasure of chatting today?
+Customer : Andrew Messier
+Agent-Freehand : Nice to meet you,Andrew
+Agent-Freehand : We at ABC are committed to providing customers with the best possible TV experience while keeping that service affordable.  We want to make sure that you have the channels you want without seeing avoidable increases in the cost of TV services.
+Agent-Freehand : We carefully review each proposal as different networks become eligible for renewal.   Please continue to check the ABC TV Message Center for updates on the status of this channel.  We understand you have a choice for home entertainment and appreciate you choosing ABC.
+Agent-Freehand : Our goal is to quickly reach a fair agreement to return these channels to ABC TV and we will post any updates on ABC.com/content.
+Customer : ok
+Agent-Freehand : Thank you, I appreciate your efforts and support regarding this.
+Customer : still interested in changing services
+Agent-Freehand : May I know the changes you are looking to make?
+Customer : without bein sports..it doesnt make sense to still pay thte same price for tv
+Customer : so im looking at options to lower my monthly bill price
+Customer : or change to a different provider
+Agent-Freehand : Sure!
+Agent-Freehand : " We understand that this is inconvenient.  Please bear in mind that some of our competitors may also not have the rights to distribute beIN's channels or they may be in active negotiations with beIN.”
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : sure thing
+Agent-Freehand : Thank you for safeguarding your account.
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : What are your must have TV stations/networks?
+Customer : ESPN, ESPN1, MASN, MASN1, FOOD NETWORK, Comedy Central, ABC
+Agent-Freehand : Sure!
+Agent-Freehand : Checking the TV channel line up
+Customer : ok
+Agent-Freehand : Thank you!
+Agent-Freehand : I can see that we can renew our services with
+
+Double Play
+• ABC Internet 11/11  
+• ABC TV Mundo Total 
+
+DVR Service for $1.11
+Rent: HD Set-Top Box for $11.11
+
+Your Estimated Monthly Charges  will be $11.11  + taxes and fees = $111.11,LOCKED for 11 months
+Customer : ok
+Customer : looking at the tv package and internet speed
+Customer : that seems to be a worse deal than the xfinity double play
+Agent-Freehand : With this offer I will add $111 toward Google and Nest devices
+Customer : would this include hbo?
+Agent-Freehand : We can add HBO for $11/mo more
+Customer : ok
+Customer : welp thanks for your help ill keep that in mind
+Customer : im going to explore some other options
+Agent-Freehand : You're always welcome!
+Customer : before i make a decision
+Agent-Freehand : Sounds good!
+Agent-Freehand : We can upgrade to 11/11Mbps for only $11/mo more
+Agent-Freehand : Many broadband service companies use “boosters” to make Internet speeds faster at the beginning of your downloads. With ABC connections are consistently fast, whether you’re downloading or uploading, start to finish.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,71 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : My current plan says $111.11/mo, my bill says $111.11/mo, there is an offer for $111.11/mo same plan lower price.  I have 1 months remaining.  does the same plan lower price kick in immediately, or after 1 months?
+Customer : ok
+Agent : Agent 'abc@abc.com' enters chat (as Aston)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : Understood
+Agent-Freehand : If you select the date of effect today, it will be effective within 11 hours, but if you select the date for the day the current deal expired then that will be after 1 months.
+Customer : ok.  Is it really the exact same plan?  Is there a penalty for termination of current plan?
+Agent-Freehand : There is no penalty for the the termination of the current plan.
+Agent-Freehand : And yes! The deals provided on online on the account are for the same services.
+Customer : Same internet speed, same channel selection?  This sounds too good to be true
+Agent-Freehand : I understand, let me double check the information for you.
+Agent-Freehand : I will access your account and check the details on the $111.11 deal and share the information with you.
+Customer : Thank  you
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a minute or two while I pull up your account.
+Customer : ok
+Agent-Freehand : Thank you.
+Agent-Freehand : Thank you for waiting, I appreciate your patience.
+Agent-Freehand : I have the $111.11 deal, and the final price of the deal after adding the equipment, taxes and fees with the same services is $111.11.
+Customer : Is that a typo?  My screen is offering $111.11
+Agent-Freehand : The $111.11 that you see is the base bundle price.
+Agent-Freehand : Including the internet + TV + Phone.
+Customer : So my current base is 111.11 and it would go down to 111.11. my Set top boxes, Enhanced DVR, Starz, HBO, gateway rental all remain the same. All my other premium channels are included in the base price?
+Agent-Freehand : Let me share the breakdown of the deal for you to understand the deal.
+Customer : great
+Agent-Freehand : Do you have access to abc@abc.com ?
+Customer : yes
+Agent-Freehand : I have sent you an order quote in the email, please check that out and let me know what you think of the order quote.
+Customer : ok.  takes a minute to log in
+Agent-Freehand : No worries, please take your time.
+Customer : I still don't have the email
+Agent-Freehand : I have just sent to you the 1nd time.
+Agent-Freehand : Please check if it was received.
+Customer : Finally found one send.  Don't know where the other one is
+Agent-Freehand : Please check that and let me know what you think of the deal.
+Customer : I see HBO listed as existing, but I don't see STARTZ
+Agent-Freehand : Starz is already included in the TV plan.
+Customer : I clicked on Channel lineup in the email.  Does it show everything available or just what applies to my package?
+Agent-Freehand : The Ultimate TV plan that you have already includes Starz, Showtime and Epix.
+Customer : So my bill shows Starz and starz encore for $11 but the new package includes them and now Cinemax is gone?
+Agent-Freehand : Yes! Cinemax is not available.
+Agent-Freehand : It is available as an add on, and the starz is free with the Ultimate TV plan.
+Customer : To add Cinemax and all the other MAX (action, etc) what would that cost be?
+Agent-Freehand : That will be additional $11 for Cinemax.
+Customer : My current package includes cinemax and charges $11 for starz.  I think the new package price is about the same as the current.  Do  you see anywhere that I am getting anything to make the change worthwhile?
+Agent-Freehand : Yes! This deal offers the Google nest offer.
+Agent-Freehand : Get $111 towards a range of Google and Nest smart home devices with Auto Pay and 1-year agreement.
+Customer : That doesn't entice me.  I do not have a use for Google and Nest and I do not want autopay.  Any other perks available?
+Agent-Freehand : The Google offer is still without autopay.
+Agent-Freehand : And the New Ultimate TV plan has 11 More Additional HD channels compared to the last Ultimate TV plan.
+Customer : I was wondering about that.  So HBO and MAX monthly fee includes all the different versions (comedy, more max, east, west)?
+Agent-Freehand : Yes! That is correct. All of that is incklue
+Agent-Freehand : included*
+Customer : What does Regional Sports Network Fee cover?
+Agent-Freehand : This monthly fee helps to cover the rising cost of delivering regional collegiate and professional sports programming to subscribers. The fee is assessed only on customers who have subscribed to programming packages that include Regional Sports Networks.
+Customer : How much is Sony Entertainment?
+Agent-Freehand : I apologize, but I do not have information for that.
+Agent-Freehand : That is already included in the TV plan.
+Customer : I'm still going through the channel lineup.  I'm in the "S" and there is a $ beside (1111) Sony Entertainment, not a check mark.
+Customer : Is that version only for India and the Middle East?
+Agent-Freehand : Please allow me to check the channel lineup.
+Agent-Freehand : Thank you for waiting, I checked and found that the Sony entertainment is not included in the Ultimate TV plan.
+Agent-Freehand : That is an add on package of South Asian - Hindi which is $11.11 a month
+Agent-Freehand : would you like to continue with the deal?
+Customer : The Billing estimate monthly charges that already included HBO for $11/month is $111.11 plus Cinemax for $11/month will be 111.11/month.  I think I'll pass on this deal for now since it is more than my current bill.  Thank you for your help and patience.  Will you email a transcript of this chat?
+Agent-Freehand : I apologize we cannot email the transcript, However you can copy the transcript and save it in the word.
+Agent-Freehand : Is there anything else I can help you with today? I will be happy to help you.
+Customer : Thank you very much for your patience and for sending me the estimate.  I've copied the chat so that is everything I need for now.  Have a great day.  Bye
+Agent-Freehand : Thank you for contacting ABC. I hope you have a great day ahead.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,155 @@
+Opener :  Opener: Thank you for chatting with ABC. How can I assist you today?
+Customer : Hi, My internet service- modem- died last night in the storms. Where can I get a new modem? Or do I need to have the service checked in my area? 
+Agent : Agent 'abc@abc.com' enters chat (as Carl)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Carl. Happy to help!
+Agent-Freehand : I'm sorry for the inconvenience caused.
+Customer : Hi Carl, My account # is 111-111-111-1111-11
+Agent-Freehand : I'll be glad to check the details on your account.
+Customer : Lena Hogan
+Customer : My zip code is 11111
+Agent-Freehand : Hello Lena. Please allow me a moment to bring up the account and check the details on your account.
+Customer : Ok
+Agent-Freehand : Thanks.
+Customer : Are you still with me?
+Agent-Freehand : Yes Lena.
+Customer : ok
+Agent-Freehand : I just need a moment to share the exact information.
+Agent-Freehand : I see that you currently renting the ABC router.
+Customer : Yes
+Agent-Freehand : So if its stopped working you can get a replacement router.
+Agent-Freehand : You can swap it at ABC store for a new one.
+Customer : Ok Where do I get one
+Agent-Freehand : Or I can connect you with our Tech Support team who can ship a new router, but that would take 1-1 business days.
+Customer : Ok I can go get one can you tell me the closest to my zip 11111?
+Customer : And does this mean you see nothing wrong with the service at my location?
+Agent-Freehand : Do you see any lights blinking on the router?
+Customer : Also can you tell me if any type of discounts to my service is available. Mine has expired.....
+Customer : NO lights at all . plugged it into a different outlet too
+Agent-Freehand : Currently I see that you are already having the best discounts on the account
+Agent-Freehand : Let me connect you with the tech support team who can run a line test and help you further.
+Customer : It is expired this month.... But i'm not home just now and I have the modem with me..
+Agent-Freehand : Okay. We need to connect with them once you are at home.
+Agent-Freehand : Per your plan, the price $11.11 was for 11 month and $11.11 for 1nd year.
+Agent-Freehand : As you complete 11 months, from the 11th month the price will change to 11.11
+Customer : Alright thanks
+Agent-Freehand : You're welcome. You can connect back with us when you are home.
+Agent-Freehand : We will connect you with the tech support department who can run a line test, and help you further.
+Customer : I cant if I dont have service
+Agent-Freehand : If the Router replacement is required, they will help you with it.
+Agent-Freehand : If you don't have Internet at home, you can call is on 1111-ABC and speak with them over the phone.
+Customer : My phone does not work without internet either
+Agent-Freehand : You can call from the mobile.
+Customer : Our Cells dont get servce without the internet at home.. I know it's aseful
+Customer : aweful
+Agent-Freehand : I'm sorry to hear that.
+Customer : I guess I'll go get a router and try that... 
+Agent-Freehand : Without checking the line and running the line test, it wont be useful to change the router.
+Agent-Freehand : You can speak with the tech support even if you are not home.. They may be able to help running a line test
+Customer : how long then will it take to send someone out to check on the whole situation ... bring with them a new router..
+Customer : Is that possible
+Agent-Freehand : They would be the right people to tell you that.
+Customer : How long before someone can come out then?
+Agent-Freehand : I'm sorry I cannot help you book a tech visit appointment from my end. The tech support team does that.
+Customer : ok connect me to them ?
+Agent-Freehand : Okay. Let me check if they are available.
+Customer : Thanks you
+Agent-Freehand : It seems all tech support agents are helping other customers. Can you please hold for a while?
+Customer : sure thanks
+Agent-Freehand : You're welcome.
+Agent : Agent 'abc@abc.com' exits chat
+Customer : thanks
+Customer : ok
+Agent : Agent 'abc@abc.com' enters chat (as Venkata)
+Agent-Freehand : Thank you for contacting ABC ABC Repair Support. My name is Venkat. May I have your name and telephone number?
+Customer : Lena
+Customer : 111-111-1111
+Agent-Freehand : Hello Lena.
+Agent-Freehand : Good Morning.
+Agent-Freehand : I understand that you need a new router.
+Agent-Freehand : Am I correct?
+Customer : Morning,I have a modem that is not working at all .. no power  or lights. I think it just stopped working
+Customer : yes I do... Can we find a store I can go get one?  11111 is my zip
+Agent-Freehand : I am afraid routers are not available in the stores Ma'am we can send out one.
+Agent-Freehand : You can expect it within 1-1 Business days.
+Customer : Also I wondered if the service is troubled and is there a way you can find that out
+Agent-Freehand : Sure
+Agent-Freehand : Let me run a line check.
+Customer : OK please send one ASAP, Our cell phoned do not get service at home without the internet connection.
+Agent-Freehand : I understand.
+Customer : Do you need my address?
+Agent-Freehand : I have the account Ma'am
+Agent-Freehand : There is no network issue.
+Customer : Alright, thanks thats at least good news
+Agent-Freehand : Let me have the router replaced.
+Agent-Freehand : But b1efore that ,may I know have you tried resetting the router?
+Customer : When the new router arrives, will it have a different  set up and password 
+Agent-Freehand : The password will be mentioned on the router label Ma'am.
+Customer : We did, It gets no power at all... Tried plugging i into a different  outlet also
+Agent-Freehand : Thank you
+Customer : I just died as in nothing- no lights or anything
+Agent-Freehand : That is all I wanted to know.
+Customer : Ok
+Agent-Freehand : We have replaced the router.
+Agent : You will receive the replacement device along with the prepaid return label through UPS within 1-1 Business days. Request you to return the old equipment within 11days to avoid any unreturn equipment charges on your next billing cycle.
+Agent-Freehand : Is that fine?
+Customer : Very good, I will look for it and send you back the one I have... Thanks so much for your help.
+Customer : Perfect
+Agent-Freehand : You are welcome Ma'am.
+Agent-Freehand : Is there anything else that I may assist you with?
+Customer : Not at this time, have a great day and thanks again
+Agent-Freehand : You are welcome.
+Agent-Freehand : I see that you are missing out offers and discounts on your account as you are not on a contract basis.
+Opting out one may provide you a reduction on your monthly bill.
+Plus a $111 credit with which you can purchase google and nest products
+Would you like to know more?
+Agent-Freehand : You have a chance of reducing your monthly bill Ma'am.
+Customer : Oh I would like that
+Agent-Freehand : Let me have you connected to my team.
+Agent-Freehand : Please standby
+Agent-Freehand : .
+Agent : Agent 'abc@abc.com' enters chat (as Roselyn)
+Agent : Hey there! My name is Roselyn. Happy to help!
+Customer : venkata left me
+Customer : She said I am missing out on saving money on my bill,  how?
+Agent-Freehand : I understand and please allow me few moments to review your chat with Venkata.
+Agent : Agent 'abc@abc.com' exits chat
+Agent-Freehand : I will surely check on best deals and discounts available in your account to assist you with best prices!
+Customer : ok thanks
+Agent-Freehand : For better assistance could you please help me with your full name on account and account number in order to pull out your account details and assist you with all your concerns ?
+Agent-Freehand : My pleasure assisting you with best possible.
+Agent-Freehand : For security and protection of your account records, please provide your first and last name as it appears on your account, plus account number,
+Customer : Elena Hogan
+Agent-Freehand : Nice to meet you on chat, Elena!
+Customer : 111-111-111-1111-11
+Agent-Freehand : Thank you!
+Agent-Freehand : Thank you for safeguarding your account.
+Agent-Freehand : Please allow me a few moments while I am checking on your request.
+Customer : k
+Agent-Freehand : I checked and I see you are getting the most blazing speed of ABC Internet 111/111 mbps at the promotional price of $11/mo after taxes and equipment fees and currently you are getting best deals and discounts at best prices!
+Agent-Freehand : ABC offers deals and discounts after every certain interval of time and you can check on this anytime.
+Agent-Freehand : We are here to assist you with best 11/1
+Customer : So I'm ok, My statement says my discounts ended this month...
+Customer : Can I keep the same Service as I have had in the past with you... ?
+Agent-Freehand : I see that the discounts are good for 11 months from day of installation and 11 months are done. Once the discounts are expired you can surely check on the other discounts after that.
+Agent-Freehand : Please be assured that we will offer you the best rates available after 11 months. We cannot guarantee any rates at the time being; however, we can assure you that we always offer the lowest rates possible to our current customers.
+Customer : My bill says the discounts stop after thisJuly and this is August...
+Customer : So my August statemnet will not have the current billing rate?
+Agent-Freehand : I checked and I see discount expiring on 1/11/11 and I suggest you to check on discounts on 11/11 as currently if we will make any changes with discounts you will lose current discounts and that will not be cost economical. If you check on 11/11 for discounts you will not face any raise in your August bill.
+Customer : Ok thanks I will do that.
+Agent-Freehand : Thank you for being understandable we will make sure you will not face any issues.
+Agent-Freehand : Being a consumer myself I can understand the importance of saving.
+Customer : Ok thank you.. Have a good day and thanks again for helping me out.. I will wait on the modem and see if it gets me connected again. 
+Agent-Freehand : Yes sure your modem is replaced and the same will be shipped to you through UPS within 1-1 Business days.
+Agent-Freehand : It was my great pleasure assisting you today! Thank you for your support and patience. 
+
+hope I was helpful to you and provided you with a 1 Star assistance !
+Customer : you were very helpful, thanks
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent-Freehand : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent-Freehand : We appreciate you being a LOYAL ABC Customer ! Have a wonderful time ahead !(smile)
+Agent-Freehand : Please take a moment to complete our post chat survey by clicking the ‘X’ button on the top right corner within the chat window.
+Your Survey is Valuable and Appreciated !
+Agent-Freehand : Please take a moment to complete our post chat survey by clicking the ‘X’ button on the top right corner within the chat window.
+Customer : The customer closed the browser window
+Agent : Agent 'abc@abc.com' exits chat

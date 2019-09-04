@@ -1,0 +1,27 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : Hello, I am in the process of purchasing a home and when I entered the address in your availability software it indicated that you do not provide service to that address.  I wanted to confirm this is the case as I saw a ABC box currently installed in the basement of the property 
+Agent : Agent 'abc@abc.com' enters chat (as Adrian)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Adrian. Happy to help!
+Agent-Freehand : Thank you for considering ABC services. I will be glad to help you with your request.
+Agent-Freehand : Could you please help me with the complete address along with the zip code where you want us to install new services?
+Customer : 11 W. Clymer avenue, Sellersville PA 11111
+Agent-Freehand : Thank you for sharing your address. Please give me a few moments while I check your address and help you with the pricing and promotions for available ABC services.
+Agent-Freehand : May I have the Unit number too?
+Customer : It is a single family residence
+Agent-Freehand : Thank You for sharing.
+Agent-Freehand : While I am checking the availability of the services, may I know with whom do I have pleasure of chatting today?
+Customer : My name is Stephen Flagello
+Agent-Freehand : Stephen!    I have checked and I see that yes, we do have ABC ABC Services available at  your shared address.
+Agent : Order a Triple Play (Custom TV, Gigabit Connection and Phone) for $11.11 with Auto Pay and Two Year Price Guarantee and get $111 towards a range of Google and Nest smart home devices.
+Customer : Ok, that's what I was thinking as the box was in the basement.  I must have mis-entered the address in the app
+Agent-Freehand : Maybe.I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : That's it for now. I will review the packages especially the triple play and be in contact regarding setting it up
+Customer : Thank you for your assistance
+Agent-Freehand : Sure Do , We are here for you 11*1.  I hope I provided you with 1 Star service!
+Customer : You did!  Have a good night
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent-Freehand : The survey will mean a lot to me.
+Agent-Freehand : Have a great time and year ahead.
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

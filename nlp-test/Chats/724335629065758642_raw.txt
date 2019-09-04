@@ -1,0 +1,104 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : Hi, I was wondering if you could help me get an estimate of how much internet would cost me with ABC if I added it to my account 
+Agent : Agent 'abc@abc.com' enters chat (as Tony)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : Ok
+Agent-Freehand : Thank you for being a valued ABC customer. I will be glad to check your account.
+Agent-Freehand : I'll need to pull up your account so I can check the cost for adding Internet services to your account.
+Customer : Ok
+Agent : For security and protection of your account records, please provide your first and last name as it appears on your account, plus one of the following pieces of information.  Either your:account number in the following format ###-###-###-####master order number (MON)customer codefour digit account pin number
+Customer : hugo Lieber 
+Customer : pin is 1111
+Agent-Freehand : Thank you for sharing your name and account pin.
+Agent-Freehand : May I please have your cell phone, home phone number and email address associated with your account?
+Customer : Why so many questions? Am I not logged in? 
+Customer : First time I’m asked so many questions 
+Customer : so I want to make sure this is secure 
+Agent-Freehand : I am sorry, I do not see your account details.
+Agent-Freehand : I will need a number to pull up your account.
+Customer : 111 111 1111 
+Agent-Freehand : Thank you!
+Customer : no home phone 
+Agent-Freehand : No worries!
+Agent-Freehand : Just a moment
+Agent-Freehand : I am sorry, but the phone is not associated with your account, I am unable to locate your account. Is there any other phone number associated with your account?
+Customer : abc@abc.com
+Customer : Check that 
+Agent-Freehand : Thank you for sharing your email address.
+Agent-Freehand : Is there any other number that is registered with your account?
+Customer : No
+Agent-Freehand : Okay, Let me help you to locate your account number online.
+Customer : You must be mistaken 
+Customer : please double check the phone number, I am a ABC Wireless customer 
+Agent-Freehand : Oh okay
+Agent-Freehand : ABC Wireless services and ABC Residential services are separate services.
+Customer : Im reaching out as I’m interested in understanding the offer of adding ABC as an existing ABC wireless customer 
+Agent-Freehand : Sure! Let me share the current offers available for combining new ABC Internet to your current Wireless account.
+Agent-Freehand : If you are signing up for ABC Gigabit internet connection with TV as bundle and if you are a ABC Wireless Unlimited plan customer you will receive $11/mo discount on your ABC bill as well has $11/mo on your Wireless Unlimited plan.
+Customer : Should I get in touch with ABC wireless 
+Customer : I want to get the exact numbers it’ll be per month 
+Agent-Freehand : Yes you can check with ABC Wireless as well. But to get the additional $11/mo discount for ABC and Wireless you will need to order ABC ABC Gigabit internet and TV.
+Customer : so how much is ABC ABC gigabit internet and TV 
+Agent-Freehand : Sure! Please allow me few minutes while I check and confirm the total for you.
+Customer : Include rent of a router and the most basic tv package 
+Agent-Freehand : Sure!
+Customer : i dont use cable, so I’m trying to see if it makes more sense to get the package with the discount or the internet only package 
+Agent-Freehand : Thank you for sharing that.
+Agent-Freehand : Just a moment.
+Agent-Freehand : ABC Gigabit Connection with Custom TV Action & Entertainment  your monthly total will be $111.11 including taxes fees equipment
+Agent-Freehand : Special offer includes - A $111 credit towards a range of Google and Nest smart home devices. You’ll receive an email with instructions to redeem your $111 credit approximately 11 days after your ABC service(s) are installed.
+Agent-Freehand : With the Wireless discount included your total will be $111.11
+Agent-Freehand : Also there will be additional $11/mo discount each month for your current Wireless Unlimited plan bill.
+Customer : Ok and for internet only? Comparing 111 mbps and 111 mbps 
+Agent-Freehand : Sure! Let me check for internet only.
+Agent-Freehand : ABC Internet 111/111 - your total will be $11.11 including taxes fees and rental router.
+Agent-Freehand : ABC Internet 111/111Mbps -  your total will be $11.11 including taxes fees and rental router.
+Customer : Ok then that would make way more sense 
+Agent-Freehand : To be sure, the additional $11/mo discount for Wireless Unlimited plan is only available with ABC Gigabit with TV plan.
+Agent-Freehand : Also if you choose just Gigabit Internet plan, your monthly total will be $11.11 including taxes fees and Free rental router for 1 years!
+Agent-Freehand : Special offer includes - A $111 ABC Visa Prepaid Card, which you will receive by mail approximately 11 days after your ABC service(s) has been installed.
+Agent-Freehand : ABC Gigabit internet with speed 111/111Mbs, powerful enough to support more than 11 devices streaming 1K HD movies/videos, Online gaming, working from home(Uploading/downloading/sharing large files).
+Customer : What’s gigabit internet vs 111 mbps
+Customer : im guessing gigabit is ABC, can you check if my address has the capability? 111 Broome St 11111 NY NY 
+Agent-Freehand : Sure!
+Agent-Freehand : Just a moment!
+Agent-Freehand : Could please share your apt number for your 111 Broome St address?
+Customer : #11
+Agent-Freehand : Thank you!
+Agent-Freehand : I am sorry to inform, ABC is not available at your 111 Broome St address, currently ABC DSL Internet 11Mbps with Home phone is available at that address.
+Customer : Ok, so what package best fits that? 
+Agent-Freehand : ABC DSL Internet 11Mbps with Home phone is good if you are connecting 1-1 devices and basic streaming, working from home.
+Agent-Freehand : Your total will be $11.11/mo
+Customer : Perfect, yeah I’ll be streaming on Apple TV and maybe a bit of gaming on PS1 but not too much 
+Customer : $11.11 including router? 
+Customer : And taxes etc? 
+Agent-Freehand : The router will be available only for purchase option for $11.11
+Agent-Freehand : There will be one time activation fee of $11.11
+Customer : So 11+11=11
+Customer : 11/11=~1
+Customer : so $11 per month net?
+Customer : And taxes on 11.11?
+Agent-Freehand : Just a moment
+Agent-Freehand : Yes that is correct your monthly total will be approx $11 including taxes fees
+Customer : But ABC 111 is around the same price, will it not give me an internet connection if I get that? Or will it just be at normal speed instead?
+Customer : ok
+Agent-Freehand : To be sure, for your address only DSL Internet 11Mbps is available.
+Customer : Ok but explain to me the physical difference between the two: does a ABC subscription not work at all if ABC is not available at the address? 
+Customer : Or would I get a normal internet speed 
+Agent-Freehand : Yes ABC is completely different from DSL services. Currency ABC is not available for your address. With ABC DSL 11Mbps Internet you will get normal speed. You will be able to stream with your Apple TV and connect your PS1, but you can connect max 1-1 devices at once.
+Customer : Ok that’s fine. Could you send me a quote to my email address for ABC dsl?
+Agent-Freehand : I am really sorry, I do not have the option to sent quote, but I can assist you online to check the total.
+Agent-Freehand : send*
+Customer : ok how about you send a copy of this chat to the email address 
+Customer : abc@abc.com
+Agent-Freehand : I am sorry again, we do not have option to email any content.
+Customer : and do I need to buy a ABC router? Or could I use Apple airports? 
+Customer : Yes you can... you can send transcripts by email 
+Agent-Freehand : Yes that is correct, you will have to pay one time router purchase fee of $11.11
+Agent-Freehand : You can try saving the chat transcript from your end,.
+Customer : Are you sure the numbers you gave me include tax and other fees?
+Agent-Freehand : Yes I am sure!
+Customer : Looks like you are much more’ expensive than competitors like xfinity
+Agent-Freehand : I am sorry, currently that is the best price available for your location.
+Customer : Customer connection lost. The customer lost network connectivity
+Agent : Agent 'abc@abc.com' exits chat

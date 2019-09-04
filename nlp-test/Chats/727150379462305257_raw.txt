@@ -1,0 +1,25 @@
+Opener :  Opener: Hi! Chat now to get our best ABC offers and find out how to save $11!
+Customer : hi does this include modem
+Agent : Agent 'abc@abc.com' enters chat (as Charlotte)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : To assist you in a better manner, may I know what services you are ordering?
+Customer : im looking into itnernet, the ABC gigabit connection
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : With ABC Gigabit connection, you will get router on rental free for 1 years. A price lock for 1 years and $111 Visa card.
+Customer : no contract however, correct?
+Agent-Freehand : Yes, you are correct. There is no contract with standalone internet service.
+Customer : ABC Gigabit Connectionwith Custom TV & Phone
+Customer : hwo about this? is there a annual contract?
+Customer : do i need a modem for this as well?
+Agent-Freehand : Yes, the $11.11 for triple bundle plan comes with a 1 year contract and you can get the services with no contract as well.
+Agent-Freehand : Modem charge will be there in triple bundle plan as it is not included.
+Agent-Freehand : With triple bundle service, phone internet and TV , with no contract, the $111 toward a range of Google and Nest smart home devices is not included.
+Customer : how much is a modem?
+Customer : and for the first plan as well, you told me the price of the router...i d like to know if a modem is included
+Agent-Freehand : To rent the router, the charge is $11/mo and with standalone Gigabit connection, you are getting it for free for 1 years.
+Customer : again, instead of a router, what about the modem?
+Customer : ah never mind
+Customer : i figured it out
+Agent-Freehand : The ABC Quantum Gateway G1111 that we provide with the service is a combo of router + modem.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

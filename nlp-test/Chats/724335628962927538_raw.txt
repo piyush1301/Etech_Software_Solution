@@ -1,0 +1,21 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : If I take this offer what is the total cost per month
+Agent : Agent 'abc@abc.com' enters chat (as Dominick)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Dominick. Happy to help!
+Customer : ok
+Agent-Freehand : Just to be sure . Could you please let me know the offer that you selected?
+Customer : its 111.11/mo gigabit connection digital voice, ultimate tv
+Customer : plus get 111 toward google and nest devices
+Agent-Freehand : Thank you for the clarification.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Agent-Freehand : Allow me few minutes.
+Agent-Freehand : I would like to share that the offer for the bundle price $111.11/mo before equipment charges and taxes and fees does not include the $111 Google and nest devices. It would be $111.11/mo that includes the Google offer for $111 .
+Agent-Freehand : The total charges for the $111.11/mo + equipment charges and taxes and fees included would be $111.11/mo which includes the Google offer.
+Customer : thats not what my screen says
+Customer : why extra 1 dollars
+Agent-Freehand : If you are getting the Google offer with the $111.11/mo bundle price from your end I would request you to proceed with the order from your end as the total would be the same which would be 111.11/mo including taxes and fees. I can't assure the Google offer with the $111.11/mo bundle price as it is not included in your account with that bundle price.
+Customer : ok thanks
+Customer : Customer closed the chat window.
+System : SALE OCCURRED
+Agent : Agent 'abc@abc.com' exits chat

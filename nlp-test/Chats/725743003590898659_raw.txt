@@ -1,0 +1,76 @@
+Opener :  Opener: Hi! Can I help answer any questions about your order?
+Customer : the pc is frozen I will try later
+Agent : Agent 'abc@abc.com' enters chat (as Dominick)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Dominick. Happy to help!
+Agent-Freehand : Please try refreshing and than proceed with the order.
+Agent-Freehand : I will be here.
+Customer : i am moving soon, but not sure b/w Comcast and ABC
+Customer : mostly worried about the internet
+Agent-Freehand : ABC would be the fastest and upgraded service that is provided on Fibre optics with dedicated connection with the promised speed which other providers cannot.
+Customer : would the wi fi be strong enough for big house. there will be video games lap tops, cells and more
+Agent-Freehand : Could you please provide the complete address with the Zip code so that I can check for the speed plans available in the location?
+Customer : 1 Breton dr canton ma 11111
+Agent-Freehand : Thank you!
+Agent-Freehand : Please allow me few minutes to check the details.
+Customer : ok
+Agent-Freehand : Thank you!
+Agent-Freehand : You can get the Gigabit Connection that provides 111Mbps download and 111Mbps upload speed.
+Customer : lol that does not tell me much lol, is that really good or the best 
+Agent-Freehand : That is the fastest and the highest speed plan that supports up to 111 devices.
+Customer : is it better than Comcast's blast
+Agent-Freehand : Yes.
+Customer : how is the router's range
+Agent-Freehand : The router would cover 111ft.
+Customer : sounds good, what about price as a new costumer
+Agent-Freehand : You would be getting the maximum promotional discounts applied and the price would be $11.11/mo + Router rent + taxes and fees.
+Agent-Freehand : Let me check the total charges.
+Customer : and i have ABC wireless
+Agent-Freehand : If you have ABC Wireless Unlimited and the ABC plan with the triple bundle with the TV and Phone than you get $11.11/mo discount in the Wireless bill and $11.11/mo discount in the ABC bill.
+Customer : 11.11 - 11=11.11
+Agent-Freehand : The total would be with $11 discount and the TV services are required.
+Customer : i have to go back to work but i am interested. i will have the keys to the new place 1/11, i will call in the am to schedule installation for the week after
+Agent-Freehand : There is set up fee waive only orders placed online.
+Agent-Freehand : On call there would be set up fee for $11.11.
+Agent-Freehand : It would take 1-11 minutes to complete the order.
+Customer : do you wanna help me do it real quick
+Agent-Freehand : Sure.
+Agent-Freehand : Would you like to place the internet only service or TV bundle?
+Customer : ok hurry lol don't get me fired
+Customer : everything for 11.11 right?
+Agent-Freehand : The $11.11/mo is the bundle price for Internet + TV package and the Phone plan. The Set top boxes for TV and the router would be additional + taxes and fees.
+Agent-Freehand : Only the Internet would be $11.11/mo without router rent.
+Customer : ok i will rent the boxes
+Agent-Freehand : How many TV's would you connect?
+Customer : it would be 1 for now
+Agent-Freehand : Could you please provide your email address?
+Customer : abc@abc.com
+Agent-Freehand : Thank you ! Would you be able to access the email without closing the chat. You can minimize the chat?
+Customer : i can try. will i get hbo and sport package on the tv?
+Customer : i can use the email on my phone
+Agent-Freehand : Your total charges with the complete services including the equipment and taxes and fees would be $111.11/mo . The bundle price with the TV package that includes HD channels with the sports would be $11.11/mo + $11.11/mo(Router) + $11.11/mo(Set top boxes) + $11.11/mo (HBO) . The total with taxes and fees would be $111.11/mo.
+Agent-Freehand : A $111 credit towards a range of Google and Nest smart home devices. You’ll receive an email with instructions to redeem your $111 credit approximately 11 days after your ABC service(s) are installed.
+Agent-Freehand : You can minimize the chat and access the email so that the order is placed in the same device you are chatting with me for waiving the set up fee.
+Agent-Freehand : Should I send the link to your email with the services selected as discussed so that you can complete the order?
+Customer : please remove the sport package its too exp.
+Agent-Freehand : The total after removing the sports package would be $111.11/mo including taxes and fees.
+Agent-Freehand : Should I send the link in your email to complete the order ?
+Customer : wait let me access the email
+Agent-Freehand : Let me know so that I can send the link.
+Customer : the work pc is blocking my Comcast email
+Agent-Freehand : Is there any other email address that you can access in this device?
+Customer : no but i am trying one more time
+Agent-Freehand : Should I send the link so that you can open it if you are able to access?
+Customer : no luck, you can send it and i will try later
+Agent-Freehand : I understand. I have send the link , once you proceed with the link you need to proceed with the checkout after opening the link.
+Agent-Freehand : Don't initiate any chat if you get chat box so that your discussed price remains the same .
+Customer : ok
+Agent-Freehand : Did you try opening in a private window in the PC?
+Customer : i cannot
+Customer : i have to go back to work now
+Agent-Freehand : No worries, once you open the link later , you can proceed with the checkout.
+Agent-Freehand : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : thank you
+Customer : Customer closed the chat window.
+Agent-Freehand : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,61 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : Hi! I received a letter that I could have a 1 year price guarantee with a 1 year agreement, with the same price that I have currently. I'm interested - can you please help me out?
+Customer : Sure, no problem.
+Agent : Agent 'abc@abc.com' enters chat (as Nestor)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Nestor. Happy to help!
+Customer : Hi Nestor!
+Agent-Freehand : To get this deal, please log in to your account and check for renewal deals.
+Agent-Freehand : Good evening!
+Customer : I'm currently paying $11.11/month, including router. The offer says it's the same but it's $11.11/month plus $11 rental router.
+Agent-Freehand : Please keep this chat window open while you go through the order process. In case you have any questions during the order process, please feel free to ask me. I am right here with you.
+Customer : So it's really $11 more.  Can you please help?
+Agent-Freehand : let me double check this information for you by pulling your account on my end.
+Customer : Sure.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Agent-Freehand : Thank you for your patience.
+Customer : It's no problem.
+Agent-Freehand : Elizabeth I see that your current contract is expiring on 11/11/1111.
+Customer : That's correct.
+Agent-Freehand : YOu currently have 11/11Mbps pan.
+Customer : Cox is offering $11.11/mo to new customers for 11 Mbps, and Xfinity is offering $11.11/mo. We've been happy with ABC, and we'd just like to keep that same rate ($11.11/mo for 11/11 including router).
+Agent-Freehand : Keeping the services sames as it and by renewing the services your new monthly bill will be $11.11/mo after the taxes and fees. 
+
+With this contract you are getting $1 Auto Pay and Paper Free Discount+ Free Google Chromecast
+Agent-Freehand : Does that sound good to you?
+Customer : So $11.11 is all inclusive? That sounds great. We don't need the Google Chromecast though, just internet. But I appreciate the offer!
+Customer : Is that for one year or two?
+Agent-Freehand : This price will be locked for 11 months. The Google Chromecast is a part of the deal, if you do not wish to take you can ignor the e-mail.
+Agent-Freehand : I will customize the order and send you an email with link to review the order. Once you accept the order from your end I will go ahead and finalize it. Please stay connected during this process.
+Customer : Perfect.
+Customer : I appreciate your help!
+Agent-Freehand : Thank you so much!
+Agent-Freehand : Is this e-mail(abc@abc.com) accessible now while we are here on this chat session?
+Customer : Yes, that's the best email!
+Agent-Freehand : Thank you for confirming!
+Agent-Freehand : I have sent you an e-mail, please review the order and if you see as what we discussed then please proceed ahead and accept to the terms of services.
+Agent-Freehand : Once you accept to the terms of services, please do let me know so that I can go ahead and submit the order for you.
+Customer : Is it possible to get this price without autopay? We have our bank set up to send you a check every month, and that's been working well for us.
+Agent-Freehand : I am really sorry but this discount is with the autopay, if you do not take the autopay then the price will be $1 more.
+Customer : That's okay. I'm reading through all of the terms right now.
+Customer : Okay, I just accepted the terms of services.
+Agent-Freehand : Elizabeth, 
+
+
+Thank you for your order.
+
+Order number: VA11111111111
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : Our bank shows a payment pending for 1/1/11. Should we go through with that or cancel that?
+Agent-Freehand : Please pay that bill which is pending.
+Agent-Freehand : The autopay will be activated will be activated from next month.
+Customer : Ok, I just set it up so it will still go out in 1 days, but that will be the last one.
+Customer : Thank you!
+Agent-Freehand : yes that will be for the last one.
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent-Freehand : Have a good night and a blessed week ahead! Take care.
+Customer : Thank you, you too!
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Customer : And yes, you provided 1 star service!
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

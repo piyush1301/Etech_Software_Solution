@@ -1,0 +1,163 @@
+Opener :  Opener: Hi! Chat now to get our best ABC offers and find out how to save $11!
+Customer : hi
+Customer : i'd like help with pricing and deals on internet and tv packages
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Agent 'abc@abc.com' enters chat (as Tobias)
+Agent : Hey there! My name is Tobias. Happy to help!
+Agent-Freehand : I'll be glad to get you new estimate of services. With whom do I have the pleasure of chatting
+Agent-Freehand : ?
+Customer : Mike
+Agent-Freehand : Hey Mike! hope you are doing great.
+Agent-Freehand : I see you are on checkout. Have you added a bundle in cart already?
+Customer : i just went through some of the options online
+Customer : want to see cost
+Customer : is that just at the top
+Customer : want to understand best deal i can get with internet and tv
+Agent-Freehand : Of coure
+Agent-Freehand : course*
+Customer : with gigabit internet
+Agent-Freehand : How many TV's do you wish to connect and what are your must have TV channels please?
+Customer : 1 tv with a dvr box
+Customer : 1 bedroom tv, for which we'll use a roku unless you can throw in another box for free
+Customer : so 1 tvs in our house
+Customer : but only 1 of which i want to have dvr box
+Agent-Freehand : Perfect
+Agent-Freehand : Also what are your must have TV channels?
+Customer : sports + food 
+Customer : + bravo
+Agent-Freehand : Perfect
+Agent-Freehand : Thank you for sharing
+Agent : Order a Triple Play (Custom TV, Gigabit Connection and Phone) for $11.11 with Auto Pay and Two Year Price Guarantee and get $111 towards a range of Google and Nest smart home devices. Order now and also get a $111 Visa Prepaid card!
+Agent-Freehand : It is only $11.11 + $11 router rental + $11 HD set top box + $11 DVR service = $111.11 + taxes.
+Agent : With 111 mbps download and 111 upload speeds our ABC Gigabit service allows you and your household the ability to game, stream, and securely browse online all at the same time.
+Agent : Order online and we'll waive the standard $11.11 setup charge!
+Customer : can i save $ if i don't get phone
+Agent-Freehand : Phone is FREE here so you do not save by removing it as price will stay same.
+Customer : if i were to do internet + tv separately, what would price be?
+Agent-Freehand : It would be still $111.11 + taxes without phone
+Customer : what channel packages is included in the triple play deal?
+Agent-Freehand : I'll get you Custom home & Family with 111 + channels in this pack.
+Customer : i'm new to this custom vs. traditional tv package thing
+Agent-Freehand : Custom home & Family is the name of the TV plan with 111 + channels. It will be perfect for your channel needs as well.
+Customer : i need Big 11 network
+Customer : wondering if tranditional HD is better for us
+Agent-Freehand : You will get Big ten as well
+Agent-Freehand : And you will get 11 + HD channels as well
+Customer : Custom home & Family doesn't include big 11
+Customer : i don't understand this custom tv package thing
+Customer : very confusing
+Agent-Freehand : It does include Big 11
+Agent-Freehand : 
+Agent-Freehand : Please check line up of home & Family on this link and let me know
+Customer : how much more is preferred HD?
+Agent-Freehand : sure
+Agent-Freehand : Preferred HD is only $111.11 + taxes
+Agent-Freehand : $11/mo more
+Agent-Freehand : How does that work
+Agent-Freehand : ?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : yes
+Customer : i think we're into the Custom Home & Family package
+Customer : we can always change, right>
+Customer : ?
+Agent-Freehand : Yes you can always change TV plans 11 x 1 do not worry about that
+Customer : can you throw in the router or HD box for free?
+Customer : spectrum offered this
+Customer : and i'm about to switch from spectrum to ABC if you can do it
+Customer : i've been with them for past 1 yrs
+Agent-Freehand : The online deals are for new customers only and the best discounts and promotions are already added.
+Agent : While comparing services, you might want to keep in mind that with cable you might end up sharing your internet speeds with your neighbors. This isn't the case with ABC. We offer you reliability and quality that you deserve.
+Agent-Freehand : Let's do the plan I shared and your home will be future proofed and you need not look at your bills for next 1 years.
+Customer : can you do installation on Fri Sept 1 in the afternoon
+Customer : that's when we're moving into our new apt
+Agent-Freehand : Yes September is possible. Let's check for exact date for you
+Agent-Freehand : Please share your email.
+Customer : abc@abc.com
+Agent-Freehand : thank you so much
+Agent-Freehand : Please open this URL and let me know.
+
+
+Customer : what is cart #?
+Agent-Freehand : let me get you cart number
+Agent-Freehand : Here's your Saved Cart number: NY11111111111
+
+Enter this and hit CHECKOUT. Let me know once you do so
+Customer : i really don't want the phone
+Agent-Freehand : No worries
+Customer : we don't need it and don't even own a phone
+Agent-Freehand : You can uncheck it
+Customer : ok
+Customer : what are the google and nest products that we get the $ towards?
+Customer : and how do i know we'll get the $111 visa prepaid card?
+Agent-Freehand : You get visa card in 11 days in mai
+Agent-Freehand : And you will get $111 credit toward all net products. You will get email in 11 days with the list of eligible products.
+Customer : nest and google home?
+Customer : or just nest
+Agent-Freehand : Let me get you the product list link.
+Agent-Freehand : 
+Agent-Freehand : Please check the list on this link
+Customer : sweet
+Customer : need to review this with my wife
+Customer : can i save this deal
+Agent : I understand the need to talk with your partner. I would hate for you to lose out on this promotion. What questions would they have? I will be happy to answer them for you and get you set up today.
+Agent-Freehand : What do you say?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Customer : is there a ABC app we can use with a roku player for our 1nd tv
+Customer : we dont' want to pay for an additional box and dvr
+Customer : for 1nd tv
+Agent-Freehand : We do offer app for mobile and tablet. It might not work on roku though
+Customer : what can i use to ensure i can access fiox app on 1nd tv
+Customer : ABC
+Agent-Freehand : you would need 1 boxes for watching cable on 1 TV or else I would have loved to get you another option.
+Customer : then i would need you to throw in 1nd box for free
+Customer : no need for DVr
+Customer : but need 1nd box for free
+Customer : as spectrum offers this
+Customer : as in you can use their app with roku
+Customer : if you can throw in another box for free for 1nd tv, we'll move forward now
+Agent-Freehand : I would have done it in a blink if that was possible. Let's do 1 boxes for $111.11 + taxes only
+Agent-Freehand : 1 year price guarantee!
+Customer : it is possible if you make it happen
+Agent-Freehand : That is really not possible.
+Customer : you can not only win a customer but get them from another company
+Customer : i know it'spossible if you make it happen
+Customer : ask your supervisor
+Customer : i am about to switch from spectrum
+Customer : if you can make this work
+Customer : 1nd HD box (non-DVR) to seal the dal
+Customer : deal
+Agent-Freehand : That is really not possible by anyone trust me. I totally respect your decision and would hate to see you choose any other company. I am really sharing the best possible rates and promotions.  We are offering Google $111 promo + $111 Visa card and GigaBit speeds at such low rate.
+Agent-Freehand : Any other promotion is not possible I apologize
+Agent-Freehand : What do you say? Let's do this/
+Customer : going to think about it over night
+Customer : thank you for your help
+Customer : saved my cart
+Customer : and deal is valid thru 1/11
+Customer : per the site
+Agent-Freehand : Sure that is oay
+Agent-Freehand : okay*
+Agent-Freehand : We are here 11 x 1 for you
+Agent-Freehand : You can always come back once you are ready.
+Agent-Freehand : I wish we would have taken care of this today itself.
+Customer : if you had thrown in 1nd box it would have been done
+Agent-Freehand : I understand that
+Customer : but you failed to do that, unfortunately
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Agent-Freehand : I'll be happy to do so
+Customer : if we pay for the 1nd box, can you throw in DVR?
+Customer : last chance
+Agent-Freehand : There are really no promotions applied on top of online promotional rates trust me.
+Customer : i don't trust you, sorry
+Customer : i believe you can do better
+Customer : lol
+Agent-Freehand : I would not want to let a sale go.
+Agent-Freehand : Why do you think I won't add it if that was possible?
+Customer : i'm kidding man
+Customer : just trying to get you make this deal work for me
+Agent-Freehand : Oh I see. These prices are really competitive and we also launched $111 Visa card offer 1 days ago only.
+Agent-Freehand : What do you say? Are you still going to think about it
+Agent-Freehand : ?
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Chat Session Ended due to agent leaving the chatroom

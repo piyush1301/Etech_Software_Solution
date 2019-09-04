@@ -1,0 +1,94 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : Yes
+Customer : I am looking into cancelling cable
+Agent : Agent 'abc@abc.com' enters chat (as Brandon)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : ok!
+Agent-Freehand : Hey there! Thank you for being a valued ABC customer.
+Agent-Freehand : I'm sorry to hear that you would like to cancel your TV service. May I know why would you like to cancel TV service?
+Customer : We mostly only watch the local channels 
+Customer : We are looking to be more frugal
+Agent-Freehand : Thank you for sharing.
+Agent-Freehand : I would have loved to help you check the pricing without TV plan and help you have only Internet and/or phone service in your account; however, we being in online chat support team lack the access to process or check the pricing for Partial disconnect since you already have the bundle set.
+Agent-Freehand : We do have a special department which takes care of disconnect and partial disconnect requests and provide you with the best deals on partial disconnect also. Would you like to have the number?
+Customer : yes
+Agent-Freehand : Sure!
+Agent-Freehand : Since we are unable to process your request over the chat; please contact one of our specialists at 111-111-1111 during 1:11AM-1:11PM(Mon-Fri) and they will be glad to assist you with your request.
+Customer : thank you
+Agent-Freehand : You are welcome.
+Customer : One question before you go...Do we still get HD without a cable plan?
+Agent-Freehand : No, without any TV plan you will not get even local channels.
+Customer : ok! thank you
+Agent-Freehand : You are welcome.
+Agent-Freehand : Can you think of any additional questions that I can assist you with today?
+Customer : what are we currently paying per month for our TV plan?
+Agent-Freehand : Sure! I will check that for you once I have the account up.
+Agent-Freehand : I can see that you are currently logged in to your account. Thank you for safeguarding your account. Please give me a moment while I pull up your account.
+Agent : Thank you for your years of loyalty to ABC!
+Agent-Freehand : Please give me few moments while I gather some information on your request.
+Customer : nevermind...I see it at the top: $111.11 per month
+Agent-Freehand : Thank you!
+Agent-Freehand : I can check for better deals for the services with TV and Internet, would you like me to check?
+Customer : yes
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : What are your must have TV stations/networks?
+Customer : Honestly, the only must-haves are HD for basic channels and we like our DVR
+Agent-Freehand : Thank you!
+Agent : Based on what we discussed here is what I put together for you.
+Agent-Freehand : We will offer you Double Play at $11.11
+• ABC Internet 11/11 with 11/11 Mbps Free upgrade
+• Custom TV Lifestyle & Reality
+New Estimated Monthly Subtotal : $11.11 + Rent: HD Multi-Room DVR : $11.11 = $111.11 + taxes and fees. The final bill will be around $111.11/mo including taxes and fees with a new 1 year agreement.
+
+ New Estimated Monthly Subtotal
+Agent-Freehand : You will also get $111 toward Google and Nest devices  with this 1 year agreement.
+Customer : I don't need a multi-room DVR since we only have one TV and I'm not too interested in Google or Nest devices. Can you do any better?
+Agent : This is a fantastic entertainment package, customized to meet your needs!
+Agent-Freehand : If we change to regular DVR you will lose the discount with the Multi Room DVR as the cost of HD Set top box will be $11 + DVR services $11. You are getting Multi Room DVR with HD Set top box at just $11.11
+Customer : We only have one TV set up so we have no need for the Multi Room DVR
+Agent-Freehand : $111 toward Google and Nest devices is an add on sweetner for you.
+Customer : so if I get rid of the 
+Customer : sorry
+Customer : So if we do a single room DVR it is $11 per month instead of $11.11? Did i read that right?
+Agent-Freehand : Yes, the DVR service itself is is $11/mo and HD Set top box will be $11/mo. So, it would be $11/mo for the package which you are paying at $11.11
+Customer : So there is no way to get the price down from $11.11 without losing HD?
+Agent-Freehand : Let me check.
+Agent-Freehand : Since you have signed up for Auto Pay and Paper Free billing, we will offer you $1 further discount on it and your final bill will be just $111.11/mo including taxes and fees.
+Agent-Freehand : Let's go ahead and grab this 1 year agreement, what do you say?
+Customer : I'm talking with my spouse. Just hang in for a minute
+Agent-Freehand : Sure thing!
+Customer : so it will be about $11 per month since we haave auto-pay set up?
+Agent-Freehand : Yes, the bundle price will be $11.11 - $1 = $11.11/mo
+Customer : Ok Brandon, you sold us!
+Agent-Freehand : Awesome!
+Customer : Thanks for taking the time to look into this.
+Agent-Freehand : I will customize the order and send you an email with link to review the order. Once you accept the order from your end I will go ahead and finalize it. Please stay connected during this process.
+Customer : Just one more thing...do I still get Lifetime? 
+Agent-Freehand : You will get the $111 toward Google and Nest devices within 11 - 11 days.
+Agent-Freehand : Yes, you will get Lifetime, Lifetime HD and Lifetime Real Women
+Agent-Freehand : May I have your email address please?
+Customer : abc@abc.com
+Agent-Freehand : Thank you!
+Customer : Can I just ask also what a Google and Nest device even is
+Agent-Freehand : Sure thing!
+Agent-Freehand : Google and Nest devices are smart home devices. I will help you with the links to check the products.
+Customer : thanks!
+Agent-Freehand : I have sent you an email at "abc@abc.com". Please click on the link in your email from ABC, review the order details and continue with the order. Once you click on "Continue", please enroll/skip Auto Pay and confirm the order by clicking " I agree ", so that I can process the order for you.
+Agent-Freehand : You can check for Nest Products in the link below:
+For Google products, you can check on the link below:
+
+Customer : Okay...I think it is all set
+Agent-Freehand : Thank you for your order.
+Order number: MA11111111111
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : So if I want one of these Nest or Google thing I can get up to $111 worth as part of my package?
+Agent-Freehand : Yes, you are correct!
+Agent-Freehand : You will get the redemption code in the email which you can use to purchase the product.
+Customer : Okay...I think we're all set for two years then. 
+Agent-Freehand : Awesome!
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Customer : okay. thanks again
+Agent-Freehand : Have a great day! Take care.
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,64 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : will i get the same service as i have today if i switch to the 111.11 offer ?
+Agent : Agent 'abc@abc.com' enters chat (as Emily)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent-Freehand : Thank you for being a valued ABC customer. I will be glad to check your account offer and share you the final price.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Customer : want to upgrade to internet speed as ell
+Agent-Freehand : May I know what internet plan are you looking for?
+Customer : oh do  i need a router upgrade to realize the 11 mbps i already purchase ?
+Agent-Freehand : Thank you for safeguarding your account.
+Agent-Freehand : Yes, your current router is outdated and we recommend to get the most compatible ABC Quantum Gateway router in order to experience the faster speed
+Customer : ok so send it ? I'm already paying a rental fee 
+Customer : if its included why is it not here ?
+Agent-Freehand : I have still not checked whether the router is included with the upgraded plan or not.
+Agent-Freehand : Are you looking for 111/111Mbps plan?
+Customer : it says it is here in the literature 
+Agent-Freehand : I'm sorry I didn't get you.
+Customer : no my current 11 plan
+Agent-Freehand : Thank you for confirming.
+Agent-Freehand : Please bear with me while check few details on your request.
+Agent-Freehand : If you are going with the same internet plan then you do not require to upgrade your router. You can use your own.
+Customer : look I'm paying 111 a month it says i need a new router i want it 
+Agent-Freehand : You get Triple Play for $111.11/mo with 1 years price guarantee + $111 toward Google and Nest devices
+Customer : what does triple play get me 
+Agent-Freehand : Your New Estimated Monthly Subtotal would be $111.11 + tax and fees = $111.11/mo
+Customer : so its 1 dollars more 
+Agent-Freehand : You get same ABC Internet 11/11 + updated ABC TV Ultimate HD including Epix, Showtime, Starz and Sports pass package.
+Agent-Freehand : You already have HBO for $11.11/mo. However, you can get the same package for discounted price of $11/mo
+Customer : hbo was supposed to be included 
+Customer : how did that change ?
+Customer : and when ?
+Agent-Freehand : HBO was not included within your TV plan it was the previous offer and updated Ultimate HD plan includes three of the above premium channels with Sports pass pacakge.
+Agent-Freehand : Now, your New Estimated Monthly Charges would be $111.11/mo with tax and fees.
+Agent-Freehand : Let me walk you through the order so you can review what to expect on the monthly bill. Once we review your services, I will be right here to help you.
+Agent-Freehand : I will customize the order and send you an email with link to review the order. Once you accept the order and accept new terms of service from your end I will go ahead and finalize it. Please stay connected during this process.
+Agent-Freehand : You will be able to view the breakdown of the charges.
+Agent-Freehand : Just to confirm, do you have access to abc@abc.com?
+Customer : i want the 111 mbps and i don't want to pay more then 111 mo how do i do that  - because thats what I've been offered by the comcast folks - for the same package as i have with you guys and I'mthinking its time to switch 
+Customer : thats a 1 year contract as well
+Agent-Freehand : Yes, that's correct.
+Agent-Freehand : You always get the promotional deals switching providers; however, once the promotional discounts expire, the price increases in order to maintain the service quality wherever you switch.
+Customer : can you get me there ?
+Agent-Freehand : While comparing services, you might want to keep in mind that with cable you might end up sharing your internet speeds with your neighbors. This isn't the case with ABC. We offer you reliability and quality that you deserve.
+Customer : no they have guaranteed the through put
+Customer : in writing so I'm comfortable
+Agent-Freehand : Unfortunately, we would not have the same price with this bundle.
+Customer : what do you have ?
+Customer : give me your best offer - 
+Customer : get as close as you can 
+Agent-Freehand : You get same ABC Internet 11/11 + updated ABC TV Ultimate HD including Epix, Showtime, Starz and Sports pass package. You get Triple Play for $111.11/mo with 1 years price guarantee + $111 toward Google and Nest devices
+
+your New Estimated Monthly Charges would be $111.11/mo with tax and fees.
+Customer : I've been paying 111 mo for a long time to u 
+Agent-Freehand : I completely understand your situation; however, once the promotional offers expires, the price gradually increases for every customer.
+Customer : you have one chance to save a customr lets see what ya have 
+Customer : so u are telling me to quit and switch its the only way to save money ?
+Agent-Freehand : We are sales chat representative and we are here to help you with the offers online. We do not have an access to provide you something from our end. You may get in touch with our retention team for the same.
+Agent-Freehand : Would you like to have the number?\
+Customer : sure 
+Agent-Freehand : Please contact one of our specialists at 111-111-1111 during the hours of 1:11 am – 1:11 pm (Mon – Fri).
+Customer : ok thank you - please see to it that the router you guys owe me is sent >?
+Customer : thanks -, have a nice day ok ?
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

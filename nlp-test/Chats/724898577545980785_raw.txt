@@ -1,0 +1,80 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : I don't think so; I'm just extremely disappointed my bill went up $11 this month.  I'll probably be switching to Cox.
+Agent : Agent 'abc@abc.com' enters chat (as Luther)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Luther. Happy to help!
+Agent-Freehand : I will be glad to look in to your account and review the options to get best value for your money.
+Agent-Freehand : I see that you are logged on to your MyABC account, thank you for safeguarding your account, Mark!
+Agent-Freehand : I see that you have ABC Internet 111/111 standalone
+Customer : I didn't think so; what is that?  Anyway, it looks like ABC really doesn't offer any decent deals for longtime customers such as myself.  A far cry from what I get in the mail from you every week and what Cox sends, too.
+Customer : How much is "standalone"?  Does that mean internet & phone only?
+Agent-Freehand : I see that you only have ABC Internet 111/111 plan'
+Agent-Freehand : I am sorry, please disregard that
+Agent-Freehand : I see that you have ABC Internet 11/11 + ABC Custom TV plan + ABC Phone service for the total price of $111.11 a month before taxes.
+Customer : OUCH!
+Agent-Freehand : I am sorry. My mistake.
+Customer : New customers get that for half that!
+Agent-Freehand : I understand your point.
+Customer : Those set top box fees hurt, too.  I could've bought several of them for all the fees I've paid over the years.  What a scam!
+Agent-Freehand : I certainly understand your point.
+Agent-Freehand : The one time charges for equipment tend to be very high. This is why a rental fee for equipment would turn out to be more cost effective. With the HD Set Top Box, you will be able to watch PPV, On Demand Titles (111,111+ titles available many of which are FREE) , and have access to crystal clear High Definition Programming on the connected TV. PLUS, it has the intuitive Interactive Media Guide which makes surfing channels a breeze. Besides, the rental covers the warranty for the time you have services with ABC so you can remain worry free.
+Customer : I'm not looking for an advertisement.  If you're just going to waste my time, that's enough.
+Agent-Freehand : I am sorry, I was just letting you have the reason behind why the Set top boxes are not available on purchase.
+Agent-Freehand : I see that the TV plan that you currently have is no longer offered by ABC. There is new version of Custom TV plan available and I see that there are some promotions that I can add if you are to switch to new version of Custom TV plan.
+Agent-Freehand : Pick from one of the following Custom packages and get the types of channels you want:
+
+Action & Entertainment
+Sports & News
+Kids & Pop
+News & Variety
+Infotainment & Drama
+Lifestyle & Reality
+Home & Family
+Customer : No way.  I'll lose channels I watch.
+Customer : I almost fell for this last time.
+Agent-Freehand : That is my job. I will make sure that you do get the channels that you want.
+Agent-Freehand : Tell me, what are your must have TV stations/networks?
+Agent-Freehand : Here is the link to get the up-to-date channel line up with all the details of the channel pack that ABC has to offer.
+
+Customer : Big Ten Network, MLB Network, FS1, ESPN/ESPN1/ESPNU, TBS, Cartoon Network, Boomerang, Local Network channels, NBC Sports Network
+Agent-Freehand : You can also check for the best TV channel pack that you would like to get. I will get the prices for you.
+Customer : There are others I would like, too, a few of which I don't have, but that drives the cost up too much.
+Agent-Freehand : Alright!~
+Agent-Freehand : Also, I see that Boomerang is no more offered by ABC.
+Customer : Funny; I just had it on two days ago.
+Agent-Freehand : Yes, that is because you have the old version of TV pack.
+Customer : Like I said, the new offerings are terrible.
+Agent-Freehand : I am inclined to agree but there are some promotions that I see that I can add.
+Customer : Not what I want, and too expensive; "Custom TV" indeed  . . . HA!
+Agent-Freehand : You can get $111 credit towards a range of Google and Nest smart home devices with this bundle with new 1-year agreement.
+Agent-Freehand : Here is the link to get the product details for Google and Nest offer.
+
+Customer : Worse than garbage
+Agent-Freehand : I feel like my hands are empty even after I have all this promotions to offer.
+Agent-Freehand : Currently, your bundle price is $111.1 a month, I see that if you are to get the Custom TV plan, your new bundle price will be $11.11 a month
+Customer : No, it looks like I can renew my existing plan for the same price.  It would've been nice to have some advanced notification of the increase, but then ABC couldn't have ripped me off for an extra $11!
+Customer : Like I said at the beginning, "I doubt [you can help me]."
+Customer : or "I don't think . . ." . . .whatever.  Thanks for nothing!
+Agent-Freehand : I am all here to help you with the new promotions.
+Agent-Freehand : The promotions that you had expired with your contract. Term agreement Expired :11/11/1111
+Agent-Freehand : And this thing was already mentioned in all of your bils.
+Agent-Freehand : *bills
+Customer : Bills?  What bills?  ABC refuses to send me one in the mail!  As if anyone goes to the website every month to look!
+Customer : Thanks for reminding me of another reason I can't stand ABC!
+Agent-Freehand : Bills are emailed to you, no?
+Customer : Of course not.
+Customer : Just the total.
+Agent-Freehand : I am sincerely sorry.
+Customer : I'm sure.
+Agent-Freehand : If there was any thing that I was able to do, trust me, Mark, I would have done that as soon as I saw that you are connected with us since last 1 years; my only demand is your satisfaction.
+Customer : Now I have to make & eat supper and get up for work in six hours.   I'll have to leave the decision about switching to Cox for this weekend if I have time.
+Customer : Bye bye.
+Agent-Freehand : I am sorry that you feel that way. We truly value your business. We are glad to have you with us. But, the prices that I shared are with the best-in-class promotions that ABC offers for new contract.
+Agent-Freehand : If there was anything, any thing at all, that I was able to do, trust me, I would have done that in a blink of an eye for you.
+Agent-Freehand : You've got to trust me here, Mark!
+
+If you ask me, words are not invented yet to describe what frustration you might have been through with this bill price increment. If I were you, I would have gone rogue.
+Agent : I haven’t heard from you for a few moments. Would you like to continue chatting?
+Agent-Freehand : I have not heard from you for several moments. I will assume you have everything you need. If you have any additional questions, please do not hesitate to contact us again. Thank you for using ABC's chat service.
+Agent : Agent 'abc@abc.com' exits chat
+Customer : Customer connection lost. The customer lost network connectivity

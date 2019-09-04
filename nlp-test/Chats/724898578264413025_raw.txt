@@ -1,0 +1,61 @@
+Opener :  Opener: Welcome back, you are being reconnected.
+Agent : Agent 'abc@abc.com' enters chat (as Ian)
+Agent-Freehand : Hey there! My name is Ian. How may I help you today?
+Customer : I was just speaking to Mathew and we lost our connection. He wanted me to review my cart 
+Customer : When I review my cart our chat goes away
+Agent-Freehand : Oh! I can understand that.
+Customer : PA11111111111
+Agent-Freehand : Unfortunately, we won't be able to connect you back with Mathew. However, I can check all the information you want for your order and answer any questions you might have.
+Customer : That is my cart number
+Agent-Freehand : Could you please tell me, what all services you currently have with ABC?
+Customer : nothing
+Agent-Freehand : Thank you for the information.
+Agent-Freehand : Let me review your selection for the bundle and then I can answer any questions you have.
+Agent-Freehand : I have reviewed the selection and it looks like as this bundle include ABC ABC Custom TV and ABC Gigabit Connection.
+Agent-Freehand : Just to confirm, what information you want from this selection?
+Customer : yes, I do not want phone services
+Agent-Freehand : Sure, this selection doesn't have ABC Home phone.
+Customer : it was a sports news plan, with HBO and Showtime
+Agent-Freehand : Yes, its showing the same.
+Agent-Freehand : You will be getting:
+
+ABC Gigabit Connection
+ABC Custom TV Sports & News
+HBO and SHowtime
+1 Boxes
+Router
+Agent-Freehand : Just to confirm, would you like to go ahead and complete this order now?
+Customer : When I click to checkout or review the monthly bill estimate + taxes and fees I lose the chat
+Agent-Freehand : You can minimize the chat window and then review the information.
+Customer : I just want to know what the final cost of everything will be
+Agent-Freehand : I will be glad to share information on this.
+Agent-Freehand : Your estimated price for this package would be just $111.11/mo. including taxes and fees.
+Agent-Freehand : Just to confirm, would you like to go ahead and complete this order now?
+Customer : $111.11 includes everything you have listed above. Is there a cost for installation or any fees that go along with a set up of equipment?
+Agent-Freehand : Order online and we'll waive the standard $11 setup charge!
+Agent-Freehand : So, you can sign up for the service now and get installation fees waived.
+Customer : When would they come and install everything? 
+Agent-Freehand : You will see the earliest available installation date on your "Installation Date & Terms of Service" page before you finalize your online order.
+Customer : let me get to that page
+Agent-Freehand : Sure! Please fill out 'Your Contact Information' and 'Billing Information'. Then click on "Continue" to proceed.
+After that, please enter SSN and perform credit check.
+Agent-Freehand : Then, please click on "Continue" and let me know once you see the available installation date on next page, I am right here with you.
+Customer : Ok I reached that page. I set it up to be installed on Thursday
+Customer : I am going to move forward and complete the terms of service and payment method.
+Agent-Freehand : Perfect! Please complete enrollment for auto pay,  review and accept the terms and conditions, then click on "Place Order".
+Agent-Freehand : Please let me know once you get an order number on next page, I am right here with you.
+Customer : How do I receive the $111 google and Nest home devices?
+Agent-Freehand : You’ll receive an email with instructions to redeem your $111 credit approximately 11 days after your ABC service(s) are installed.
+Agent-Freehand : How are you doing with your order?
+Customer : I am plugging in my auto pay info
+Agent-Freehand : Please take your time, I am right here with you.
+System : SALE OCCURRED
+Customer : Ok, I finalized everything
+Agent-Freehand : Congratulations on completing your ABC order successfully online.
+You will receive an e-mail confirmation letter, within 11 hours, from ABC. This e-mail will have your online order number which you can use to check your online order status.
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : Thank You, I think that covers everything
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

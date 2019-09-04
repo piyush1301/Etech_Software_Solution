@@ -1,0 +1,60 @@
+Opener :  Opener: Hi! How can I help you today?
+Customer : if iorder gigabit service
+Agent : Agent 'abc@abc.com' enters chat (as Alice)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : how long am i locked in?
+Agent : Hey there! My name is Alice. Happy to help!
+Agent-Freehand : Just to be sure, are you referring to Gigabit triple play?
+Customer : yes
+Agent-Freehand : You can go with a 1 year contract. Even we offer triple play with no contract.
+Agent-Freehand : Please stay connected to the chat session in the ordering process so that I can ensure that the setup fees of $11.11 is waived for you.
+Customer : if i go w/o contract 
+Customer : how long does the price stay $11
+Agent-Freehand : I would like to say that 11.11 is just the bundle price before taxes, fees and equipment charges and without contract the price is good for 11 months.
+Customer : how much is the total after all fees
+Customer : whats my monthly payment?
+Agent-Freehand : Let me check that for you.
+Agent-Freehand : Just top be sure, is this your address: 1111  E 11BROOKLYN NY 11111?
+Customer : correct
+Agent-Freehand : Thank you for confirming.
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : waiting on your reply - not relevant what we do
+Agent-Freehand : Okay. Allow me a moment.
+Customer : ?
+Agent-Freehand : Allow me a moment. I am calculating the estimate.
+Agent-Freehand : Triple Play:
+ABC Gigabit Connection + Custom TV Home & Family + ABC Digital Voice US+11 Countries = $11.11 + Rent: ABC Quantum Gateway Router $11 + Rent: HD Set-Top Box $11 = $111.11 + taxes and fees = $111.11 /mo
+Customer : lets say i went with just phone and gigbit internet
+Agent-Freehand : Allow me a moment.
+Customer : i beleive theres no rental charge
+Customer : so then its $11/month plus taxes and fees how much is that?
+Agent-Freehand : If you purchase the router for $111.11, then you can avoid the rental charge for the router.
+Agent-Freehand : Double Play:
+ABC Gigabit Connection + ABC Digital Voice US+11 Countries = $11.11 + Rent: ABC Quantum Gateway Router $11 = $11.11 + taxes and fees = $111.11 /mo
+Customer : so whats the diff between 1 month or 1-11...?
+Agent-Freehand : No difference. From month 1 - 11, you will have to pay the same price.
+Customer : i guess what im trying to understand is
+Customer : im not locked into any contract - its month to month?
+Customer : how long is the price locked in for?
+Agent-Freehand : Yes its month to month.
+Agent-Freehand : and the price is good for 11 montrhs.
+Customer : and if i select longer - does that lock me into a contract?
+Agent-Freehand : I am so sorry we offer internet and phone only on month to month basis.
+Customer : k
+Customer : so the price is locked in for 11 months
+Agent-Freehand : Yes. Thats right.
+Customer : what des this mean
+Customer : Get a $111 credit toward a range of Google and Nest smart home devices with qualifying triple play and double play bundles with a 1-year agreement.
+Customer : 1 yr agreement??
+Agent-Freehand : You will get that with internet + TV + phone or internet + TV with a 1 year agreement.
+Customer : so you get locked in
+Customer : ?
+Agent-Freehand : Yes.
+Customer : aha
+Agent-Freehand : Sure!
+Agent-Freehand : So which deal would you like to go ahead with?
+Agent-Freehand : I hope we are still connected.
+Customer : thx for your help
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

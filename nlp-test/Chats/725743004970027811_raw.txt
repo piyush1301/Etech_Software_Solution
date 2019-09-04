@@ -1,0 +1,11 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : Can the $111 for smart home devices be applied to anything else?  Don't need any devices.
+Agent : Agent 'abc@abc.com' enters chat (as Selina)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Selina. Happy to help!
+Customer : are you answering my question?
+Agent-Freehand : I'm afraid Christina, the $111 credit can only be used to purchase Google and Nest home securing devices.
+Customer : OK.  no other questions.
+Customer : Customer closed the chat window.
+System : SALE OCCURRED
+Agent : Agent 'abc@abc.com' exits chat

@@ -1,0 +1,111 @@
+Opener :  Opener: Hi! I am a ABC specialist, can I help you today?
+Customer : yes I spoke via chat with an agent a couple of days ago and he told me my new plan would cost approx. 11/month.  Now I see 111.11
+Agent : Agent 'abc@abc.com' enters chat (as Jerome)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Customer : ok
+Agent-Freehand : Hey there! My name is Jerome. Happy to help!
+Agent-Freehand : Thank you for contacting us,. Let me pull up your account to check for the complete details of the deal.
+Agent-Freehand : I hope you are doing well!
+Customer : yes thanks
+Agent-Freehand : You're welcome.
+Agent-Freehand : Please allow me few moments while I go through your account completely.
+Agent-Freehand : I can see that you are currently logged in to your account. Please give me a moment while I pull up your account.
+Agent-Freehand : Thank you for safeguarding your account.
+Agent-Freehand : I have checked the account and can see that the charges of $111.11 for the new plan is excluding taxes.
+Agent-Freehand : After taxes the total comes to $111.11 per month
+Customer : He had told me it would be approx. 111 with 
+Customer : tax.
+Agent-Freehand : Do you have the order confirmation email?
+Customer : let me check
+Agent-Freehand : Sure, take you time.
+Agent-Freehand : To be sure. Are we still connected?
+Customer : I have 1 different order #s - NY11111111111 and NY11111111111  he had sent me a link and e was helping me through chat too
+Agent-Freehand : I can understand your concern and can also see the same, as you have placed a original order and after that you might have changed something.
+Agent-Freehand : The price which I have shared with you is the final price of the current plan which is active on your account.
+Customer : I was better  off without the new contract - how can that be?
+Agent-Freehand : I understand your choice however if you go with a no term then you will be charged for an Early termination fees for breaking the contract.
+Customer : I don't want to break the contract.  Can I change to a lesser option?
+Agent-Freehand : Let me check if we have some better options available.
+Agent : While I take care of this for you, let me ask you a few questions to make sure you aren’t missing out on anything.
+Customer : like what for instance?
+Agent : Tell me how you and your household are using the internet.  For example: Online gaming, working from home, and/or streaming.
+Customer : reading news and email.  I don't watch tv although I have one.
+Agent-Freehand : Thank you for informing me.
+Agent : How many devices do you connect through Wi-Fi?
+Customer : all I have is tv, 1 computer and my phone
+Agent-Freehand : Sure thing!
+Agent : What are your must have TV stations/networks?
+Customer : basic - haven't turned it on in long time
+Agent-Freehand : I understand, could you please help me with the names of few channels which you have been watching in the past?
+Customer : 11, me tv, news
+Agent-Freehand : thank you for the list.
+Agent-Freehand : Please give me few minutes while I check for the available options.
+Customer : ok
+Agent-Freehand : Thank you!
+Agent-Freehand : I'm still working on your request.
+Agent-Freehand : I have got a perfect deal for you.
+Customer : are you there?
+Agent-Freehand : I'm sending the details on your email.
+Customer : ok - I will go check
+Agent-Freehand : Sure, take your time
+Agent-Freehand : The deal includes:
+
+Triple Play                              $111.11 
+• ABC Digital Voice Unlimited  
+• ABC TV Preferred HD  
+• ABC Internet 11/11   
+• $11 ABC Bundle Discount Included 
+
+Rent: HD Set-Top Box     $1.11
+Rent: ABC Quantum Gateway Router  $1.11
+
+The new monthly total will be $111.11 +taxes and fees = $111.11
+Agent-Freehand : This deal includes faster internet with the more channels and also $111 credit towards google and nest devices
+Customer : is there any charge for making this change?
+Agent-Freehand : There will be no charges but it will be a new 11 months terms deal with which you will get price lock,
+Agent-Freehand : This is a perfect deal which I got only for you.
+Agent-Freehand : You can also check on the new channel listing for the TV plan which I have shared in this new deal.
+Customer : ok - this plan works for me.  Is my bill date the same?
+Agent-Freehand : Yes, the bill date will be same.
+Agent-Freehand : However in the 1st bill you will be able to see  some pro-rated charges,'
+Customer : I agree 
+Customer : to go with this plan
+Agent-Freehand : Thank you for confirming. let me share the channel listing link to check the new TV plan
+Agent-Freehand : 
+Agent-Freehand : Please check on the link and select Preferred HD tv plan and have a look on the list of included channels,.before we proceed with the ordering.
+Customer : I reviewed the list - we can order.
+Agent-Freehand : Perfect!
+Agent-Freehand : may I have your email please?
+Customer : abc@abc.com
+Agent-Freehand : Thank you for confirming it, let me send an order preview email please check it and let me know,.
+Agent-Freehand : You will also get a new router and needs to return the current one.
+Agent-Freehand : Please check your email now.
+Customer : ok 
+Customer : waiting for email
+Agent-Freehand : Perfect! please review it and let me know.
+Agent-Freehand : Please let me know if you have any questions while reviewing it.
+Customer : do I return the old router by mail?  Does new router come by mail?
+Agent-Freehand : Yes, you need to return the old router in mail or can do it by visiting a nearest ABC store and also the new router will be mailed to your address.
+Customer : great.  no other questions.
+Agent-Freehand : Please click on continue and accept the terms of service and complete the order.
+Customer : I agreed - is there anything else I need to do?
+Agent-Freehand : Congrats Linda, 
+
+
+Thank you for your order.
+
+Order number: NY11111111111
+
+Make sure to check your abc@abc.com inbox for your order summary.
+Agent : I’m happy we were able to resolve your reason for chatting today!  May I provide you with any other support?
+Customer : no - thanks for your help.
+Agent-Freehand : My only goal is to help you with the best solutions and with "1 Star" service , I hope I have done it.
+Customer : yes - thank
+Customer : you
+Agent : It was my pleasure chatting with you. Please take a moment to complete our post chat survey by clicking the ‘X’ button within the chat window.
+Agent : If you need assistance in the future, visit us anytime on the My ABC App or at  ABC.com.  Thank you for chatting with ABC.  I hope I provided you with 1 Star service!
+Agent-Freehand : Have a great day ahead and take care
+Agent-Freehand : Bye!
+Customer : bye
+Customer : Customer closed the chat window.
+Agent : Agent 'abc@abc.com' exits chat

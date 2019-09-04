@@ -1,0 +1,44 @@
+Opener :  Opener: Hi! I can help complete your order. What questions do you have?
+Customer : what does this net out to after fees, etc
+Agent : Agent 'abc@abc.com' enters chat (as Luther)
+Agent : By chatting with us, you grant us permission to review your services during the chat to offer the best value. Refusing to chat will not affect your current services. It is your right and our duty to protect your account information. For quality, we may monitor and/or review this chat.
+Agent : Hey there! My name is Luther. Happy to help!
+Agent-Freehand : Thank you for considering ABC services. I will be glad to help you with your request.
+Agent-Freehand : May I know what all services have you selected?
+Agent-Freehand : Just to confirm, are we still connected?
+Customer : yes
+Agent-Freehand : I thought lost you. Tank you
+Agent-Freehand : *Thank  you
+Customer : ive selected 111/mbp internet
+Customer : so far
+Customer : but i know how much it can vary w/ taxes, surcharges, etc., i wanted to get an idea
+Agent-Freehand : Sure
+Agent-Freehand : Have you chose router on rent?
+Customer : well, ive got my own router
+Customer : it's a high quality router, though i know that it was mentioned that using your own router could impact performance in some ways
+Agent-Freehand : In that case, you will have flat $11.11 a month for ABC Internet 111/111 after taxes.
+Customer : very cool. and adding tv, is that the same deal? do i just need to consider the ticket price
+Customer : ?
+Agent-Freehand : I am sorry, ticket price?
+Customer : the listed price
+Customer : 11.11, for example
+Agent-Freehand : Ohh, no, with TV the price will be $11.11 a month.
+Agent-Freehand : And that would be the bundle price.
+Agent-Freehand : The equipment charges + DVR charges + premium channel charges + taxes will be extra.
+Customer : yes, i know
+Customer : i was giving you an example of a ticket price
+Customer : i understand it will be 11
+Customer : and what does that add up to
+Customer : and I have to have premium channels?
+Agent : Order a Triple Play (Custom TV, Gigabit Connection and Phone) for $11.11 with Auto Pay and Two Year Price Guarantee and get $111 towards a range of Google and Nest smart home devices. Order now and also get a $111 Visa Prepaid card!
+Agent-Freehand : Premium channels are not mandatory. You can have them as per your requirements. ABC offers HBO; STARZ; Showtime; Epix and Cinemax.
+
+1 for $11 a month.
+1 for $11 a month.
+1 for $11 a month 
+and 1 or 1 for $11 a month.
+Customer : so what is triple play w/ taxes, etc.
+Agent-Freehand : Allow me a minute or so more as I am fetching the prices.
+Agent : How many TV’s are we connecting today?  Do you have existing outlets where you want your TVs?
+Customer : The customer closed the browser window
+Agent : Agent 'abc@abc.com' exits chat
